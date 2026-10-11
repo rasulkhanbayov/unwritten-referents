@@ -1,0 +1,1120 @@
+{
+ "0": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.7494188602553066,
+    "ci": [
+     0.7311971269311492,
+     0.7677677555053636
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.6897776916454998,
+    "ci": [
+     0.6707945522957764,
+     0.7088365797679783
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5091048433003432,
+    "ci": [
+     0.4907792992045886,
+     0.5278909067000626
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.2532859510343792,
+   "diffmeans~sae": -0.11933234781626682,
+   "probe~sae": -0.026397720455485267,
+   "min_pairwise_spearman": -0.11933234781626682
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8219377524489345,
+   "probe": 0.7415238721149264,
+   "sae": 0.47458640749375575
+  },
+  "gate_open": false
+ },
+ "1": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.7589268917189688,
+    "ci": [
+     0.7415404262149187,
+     0.7762665971847894
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.707040159444617,
+    "ci": [
+     0.6889796660589463,
+     0.7255368569027715
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5883770836029186,
+    "ci": [
+     0.568129565343882,
+     0.607847046759932
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.27615619003918906,
+   "diffmeans~sae": 0.25783523210983267,
+   "probe~sae": 0.09493459605849572,
+   "min_pairwise_spearman": 0.09493459605849572
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8375775935680089,
+   "probe": 0.649173134796138,
+   "sae": 0.5879517696610348
+  },
+  "gate_open": false
+ },
+ "2": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.788176259041611,
+    "ci": [
+     0.7709237699109761,
+     0.8047307728989618
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7281033490133231,
+    "ci": [
+     0.7106228274939883,
+     0.7456671904529194
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5379254055321628,
+    "ci": [
+     0.518413756971426,
+     0.5579275226089591
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.29351429658240197,
+   "diffmeans~sae": 0.10169918608256931,
+   "probe~sae": 0.042642251724722545,
+   "min_pairwise_spearman": 0.042642251724722545
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.831547202154231,
+   "probe": 0.7435018884699396,
+   "sae": 0.4715510238673178
+  },
+  "gate_open": false
+ },
+ "3": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8052362214849678,
+    "ci": [
+     0.7890864912238355,
+     0.8204160793369388
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7388920243468139,
+    "ci": [
+     0.7214338279244019,
+     0.7563071365572925
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.7433085649032702,
+    "ci": [
+     0.7263189939462846,
+     0.7584163762545925
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.3235782003278256,
+   "diffmeans~sae": 0.7348395200836535,
+   "probe~sae": 0.18100989156420574,
+   "min_pairwise_spearman": 0.18100989156420574
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8566913558926339,
+   "probe": 0.7348362739736541,
+   "sae": 0.5855060331897393
+  },
+  "gate_open": false
+ },
+ "4": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8172303099486223,
+    "ci": [
+     0.8010343551265737,
+     0.832258691251353
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7836607946188657,
+    "ci": [
+     0.767091694707112,
+     0.8005983945647026
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5383897503129214,
+    "ci": [
+     0.5206573094630033,
+     0.5588793696289468
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.3440624572357411,
+   "diffmeans~sae": -0.053873006831215646,
+   "probe~sae": 0.04975098409193726,
+   "min_pairwise_spearman": -0.053873006831215646
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8706557995695375,
+   "probe": 0.8178110218845043,
+   "sae": 0.5588635760361
+  },
+  "gate_open": false
+ },
+ "5": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8237658665477555,
+    "ci": [
+     0.8080346471157255,
+     0.8387258095201222
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8173715574342653,
+    "ci": [
+     0.8017895606481091,
+     0.8329809697326149
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6368442091872225,
+    "ci": [
+     0.6182996980168277,
+     0.654747516649179
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.3489672909253623,
+   "diffmeans~sae": 0.07162893121835828,
+   "probe~sae": 0.084679526584199,
+   "min_pairwise_spearman": 0.07162893121835828
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8795077025907697,
+   "probe": 0.8803068243962813,
+   "sae": 0.7331332930374463
+  },
+  "gate_open": false
+ },
+ "6": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8500440752906813,
+    "ci": [
+     0.8364504147801872,
+     0.8627295275273781
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8382636299773538,
+    "ci": [
+     0.8230301176276221,
+     0.8527782474684932
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6826327964308836,
+    "ci": [
+     0.6627264170027832,
+     0.7009283711805862
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.49986502510874786,
+   "diffmeans~sae": 0.3398477998663027,
+   "probe~sae": 0.19115628884111868,
+   "min_pairwise_spearman": 0.19115628884111868
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8889048793202148,
+   "probe": 0.8787317669106807,
+   "sae": 0.6484139890689411
+  },
+  "gate_open": false
+ },
+ "7": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8525359036933129,
+    "ci": [
+     0.8394907004959498,
+     0.8647446921629497
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8447685070150893,
+    "ci": [
+     0.830725095436723,
+     0.8592260429174068
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6922235513323739,
+    "ci": [
+     0.6721635111979999,
+     0.7109609946351024
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.36111779278911843,
+   "diffmeans~sae": 0.31752069364354685,
+   "probe~sae": 0.13774885043222285,
+   "min_pairwise_spearman": 0.13774885043222285
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8938171398235296,
+   "probe": 0.8645726397323842,
+   "sae": 0.6113993386357603
+  },
+  "gate_open": false
+ },
+ "8": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8706759284516177,
+    "ci": [
+     0.8592728381608485,
+     0.8811215932692296
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8033487703166029,
+    "ci": [
+     0.7876472542620704,
+     0.8197652919230531
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6024219438043588,
+    "ci": [
+     0.5843824649522965,
+     0.6218200617171512
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.11108934654532493,
+   "diffmeans~sae": 0.07138296117677588,
+   "probe~sae": 0.12734737416766273,
+   "min_pairwise_spearman": 0.07138296117677588
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.889928266925072,
+   "probe": 0.8646014225087707,
+   "sae": 0.5987221246805912
+  },
+  "gate_open": false
+ },
+ "9": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8681439027358676,
+    "ci": [
+     0.8570282189341093,
+     0.8782196057399071
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8191085471233001,
+    "ci": [
+     0.8040464314775546,
+     0.8339613162856172
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6319867132185979,
+    "ci": [
+     0.6143175902596718,
+     0.6494996277315128
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.22935245824296926,
+   "diffmeans~sae": 0.3383028306077454,
+   "probe~sae": 0.12333990176201194,
+   "min_pairwise_spearman": 0.12333990176201194
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8659546127597246,
+   "probe": 0.8457547003872883,
+   "sae": 0.774797161378631
+  },
+  "gate_open": false
+ },
+ "10": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.867808857624762,
+    "ci": [
+     0.8571928057371035,
+     0.877846840098934
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7761559461343854,
+    "ci": [
+     0.7588436268375194,
+     0.7933872580931937
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.7678545428330216,
+    "ci": [
+     0.7528650237421048,
+     0.782271556385251
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": -0.02684813921526969,
+   "diffmeans~sae": 0.6398708549127419,
+   "probe~sae": -0.022830526488296546,
+   "min_pairwise_spearman": -0.02684813921526969
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8608596615785115,
+   "probe": 0.8782792377041578,
+   "sae": 0.7308734453303143
+  },
+  "gate_open": false
+ },
+ "11": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8607029446911297,
+    "ci": [
+     0.8491827635437416,
+     0.8711903668437825
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.859188204630042,
+    "ci": [
+     0.8449650663758533,
+     0.8732059910313044
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6484111126029005,
+    "ci": [
+     0.6320456461039844,
+     0.6659345906166829
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.5867115043287948,
+   "diffmeans~sae": 0.3647596829823389,
+   "probe~sae": 0.17242735735879156,
+   "min_pairwise_spearman": 0.17242735735879156
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8728832666532347,
+   "probe": 0.8858922820584162,
+   "sae": 0.6690404461969958
+  },
+  "gate_open": false
+ },
+ "12": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.865700169355229,
+    "ci": [
+     0.8547010484380158,
+     0.8758560024870231
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7844155320797846,
+    "ci": [
+     0.7686289094812425,
+     0.8007791805904543
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6003804873129382,
+    "ci": [
+     0.5814944773773518,
+     0.6190534681305541
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.054869379964000146,
+   "diffmeans~sae": 0.13006120127319518,
+   "probe~sae": 0.13882701295523867,
+   "min_pairwise_spearman": 0.054869379964000146
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8699562181990297,
+   "probe": 0.8720181843185038,
+   "sae": 0.795701452250973
+  },
+  "gate_open": false
+ },
+ "13": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8618805133348765,
+    "ci": [
+     0.8505465253442342,
+     0.872424644279864
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.82458864580821,
+    "ci": [
+     0.8090940715177425,
+     0.8404370902609174
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.7576373376134865,
+    "ci": [
+     0.7429427859598251,
+     0.7714032602740397
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.05451909836558697,
+   "diffmeans~sae": 0.47802862872939517,
+   "probe~sae": 0.1499166103722231,
+   "min_pairwise_spearman": 0.05451909836558697
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8829632348002955,
+   "probe": 0.8789808178785815,
+   "sae": 0.799428422032256
+  },
+  "gate_open": false
+ },
+ "14": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8702631212839002,
+    "ci": [
+     0.8592000646743382,
+     0.8806085681826772
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.86779701106145,
+    "ci": [
+     0.8544235334619857,
+     0.8815133216168867
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5942120729237986,
+    "ci": [
+     0.5788860503163182,
+     0.6109961718062367
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.4366477527406871,
+   "diffmeans~sae": 0.15619642871234973,
+   "probe~sae": 0.0338508678302875,
+   "min_pairwise_spearman": 0.0338508678302875
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8974169856757717,
+   "probe": 0.8788776795965294,
+   "sae": 0.7538261104555034
+  },
+  "gate_open": false
+ },
+ "15": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8499565929769928,
+    "ci": [
+     0.8379064334099376,
+     0.8615194035365078
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8640218049666869,
+    "ci": [
+     0.8502797207210954,
+     0.8777380656445425
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.7530906873659541,
+    "ci": [
+     0.737528583166716,
+     0.7674138570891325
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.2652511784715417,
+   "diffmeans~sae": 0.503562083179988,
+   "probe~sae": 0.17834314635911763,
+   "min_pairwise_spearman": 0.17834314635911763
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8757507507507507,
+   "probe": 0.8810455823235376,
+   "sae": 0.7485744530472965
+  },
+  "gate_open": false
+ },
+ "16": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8430357699385255,
+    "ci": [
+     0.8298219739426514,
+     0.8554627957178104
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7451261517238977,
+    "ci": [
+     0.7272758975221765,
+     0.7632448514057923
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.735708235143549,
+    "ci": [
+     0.7202335613866271,
+     0.750662875015032
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": -0.23653721863306787,
+   "diffmeans~sae": 0.41519274963969754,
+   "probe~sae": 0.0030358852395039127,
+   "min_pairwise_spearman": -0.23653721863306787
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8847369733951204,
+   "probe": 0.8609168273705015,
+   "sae": 0.8093017138544295
+  },
+  "gate_open": false
+ },
+ "17": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.847213759185896,
+    "ci": [
+     0.834146868296234,
+     0.8594450327462692
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8680093379269648,
+    "ci": [
+     0.8544792182738314,
+     0.8815198365024537
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.8322412219497175,
+    "ci": [
+     0.820969087794945,
+     0.843544120478837
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": 0.33782806151485584,
+   "diffmeans~sae": 0.6263983449061379,
+   "probe~sae": 0.3075895654840614,
+   "min_pairwise_spearman": 0.3075895654840614
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8829448458042707,
+   "probe": 0.871299814191188,
+   "sae": 0.738641996629217
+  },
+  "gate_open": false
+ },
+ "18": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8437439311676196,
+    "ci": [
+     0.8301326066373004,
+     0.8564199785698728
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7862042618872163,
+    "ci": [
+     0.7689023020769414,
+     0.8025913857090713
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6295992763268606,
+    "ci": [
+     0.6153934546874776,
+     0.6442066491436069
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": -0.14599829569451792,
+   "diffmeans~sae": 0.07213468141779592,
+   "probe~sae": 0.19507843612546494,
+   "min_pairwise_spearman": -0.14599829569451792
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8945507008606051,
+   "probe": 0.8485406332850423,
+   "sae": 0.6878116135304634
+  },
+  "gate_open": false
+ },
+ "19": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8413169044788312,
+    "ci": [
+     0.8277385300314133,
+     0.8541314645286062
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8496460510139342,
+    "ci": [
+     0.8357073173076316,
+     0.864341902049178
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6059893794041118,
+    "ci": [
+     0.5920717362670659,
+     0.6210622530063098
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.2065000737412616,
+   "diffmeans~sae": -0.04645681673804475,
+   "probe~sae": 0.22056634930843327,
+   "min_pairwise_spearman": -0.04645681673804475
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8853402124168898,
+   "probe": 0.8562132419959896,
+   "sae": 0.585887804737645
+  },
+  "gate_open": false
+ },
+ "20": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8362693572338254,
+    "ci": [
+     0.8222053749716585,
+     0.8494008493501087
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8073443022384335,
+    "ci": [
+     0.7905253517837206,
+     0.82330621629616
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5894527920527178,
+    "ci": [
+     0.5738122586160203,
+     0.604241650340827
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.052814385331173955,
+   "diffmeans~sae": 0.05973650441066547,
+   "probe~sae": 0.154267391184444,
+   "min_pairwise_spearman": 0.052814385331173955
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8905670846565416,
+   "probe": 0.8163518950260165,
+   "sae": 0.5053052253531487
+  },
+  "gate_open": false
+ },
+ "21": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8332884783970324,
+    "ci": [
+     0.8191186640626521,
+     0.846911166618064
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8591195553144392,
+    "ci": [
+     0.8441685304844456,
+     0.8723550994897642
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.4776155642376352,
+    "ci": [
+     0.4632573672658071,
+     0.4933376890213683
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.7259214212067567,
+   "diffmeans~sae": -0.07783183351055144,
+   "probe~sae": -0.03342759484839484,
+   "min_pairwise_spearman": -0.07783183351055144
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8797023860921624,
+   "probe": 0.8743395951862406,
+   "sae": 0.5830810842791674
+  },
+  "gate_open": false
+ },
+ "22": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8346228874388155,
+    "ci": [
+     0.8202258388297,
+     0.8479359807930893
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7840673241205547,
+    "ci": [
+     0.7674290467918308,
+     0.800620388683628
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.7004885036697008,
+    "ci": [
+     0.6837313303781352,
+     0.7172285150509238
+    ],
+    "passes": true
+   }
+  },
+  "n_estimators_passing": 3,
+  "agreement": {
+   "diffmeans~probe": -0.07707423798492256,
+   "diffmeans~sae": 0.4050662403501095,
+   "probe~sae": 0.117409145057533,
+   "min_pairwise_spearman": -0.07707423798492256
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8833953762068778,
+   "probe": 0.856507465932386,
+   "sae": 0.7288702440459629
+  },
+  "gate_open": false
+ },
+ "23": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8310552493337068,
+    "ci": [
+     0.8164339906736445,
+     0.8446420947054369
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8556278567177406,
+    "ci": [
+     0.8405286803384404,
+     0.8690388808187038
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.6170620684990566,
+    "ci": [
+     0.6030463630347482,
+     0.6319751811180733
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.28822515343807303,
+   "diffmeans~sae": -0.11361833740389884,
+   "probe~sae": 0.2218706256981018,
+   "min_pairwise_spearman": -0.11361833740389884
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8844871229056532,
+   "probe": 0.883811127421351,
+   "sae": 0.5593452877797925
+  },
+  "gate_open": false
+ },
+ "24": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8240134293451726,
+    "ci": [
+     0.8081928738855281,
+     0.8384233253291635
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.8545224812333224,
+    "ci": [
+     0.8395941066994637,
+     0.8692597905926748
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5281529020738776,
+    "ci": [
+     0.5099383646851695,
+     0.5469216257066557
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": 0.283363824300618,
+   "diffmeans~sae": -0.07142463443304474,
+   "probe~sae": 0.29793456907206683,
+   "min_pairwise_spearman": -0.07142463443304474
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8831906986859064,
+   "probe": 0.8974829462049909,
+   "sae": 0.48441252754351793
+  },
+  "gate_open": false
+ },
+ "25": {
+  "experiment": "E0",
+  "threshold": 0.65,
+  "per_estimator": {
+   "diffmeans": {
+    "auroc": 0.8087988982088604,
+    "ci": [
+     0.7912504827139459,
+     0.8247972829118594
+    ],
+    "passes": true
+   },
+   "probe": {
+    "auroc": 0.7884032675454185,
+    "ci": [
+     0.7710604635887109,
+     0.806000102348128
+    ],
+    "passes": true
+   },
+   "sae": {
+    "auroc": 0.5805058016771899,
+    "ci": [
+     0.5649316990073666,
+     0.5962339626542154
+    ],
+    "passes": false
+   }
+  },
+  "n_estimators_passing": 2,
+  "agreement": {
+   "diffmeans~probe": -0.08875352708714734,
+   "diffmeans~sae": -0.027455242150288963,
+   "probe~sae": 0.21582118544658857,
+   "min_pairwise_spearman": -0.08875352708714734
+  },
+  "auroc_K2_named_bridge": {
+   "diffmeans": 0.8966390511917669,
+   "probe": 0.8876364383552882,
+   "sae": 0.37504517296849565
+  },
+  "gate_open": false
+ }
+}

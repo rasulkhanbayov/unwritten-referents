@@ -1,0 +1,26 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "oracle_M": {
+  "forward_passes": 0,
+  "generated_tokens": 0,
+  "note": "ceiling; not a real forward-pass selector, observes the M label directly"
+ },
+ "lookback_lens": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 attention-capturing forward pass per query at eval time, on a SEPARATE eager-attention model instance; training cost (fit split) not counted per-query"
+ },
+ "icr_probe": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 attention+hidden-state-capturing forward pass per query at eval time, on the SAME separate eager-attention model instance Lookback Lens uses; training cost (fit split) not counted per-query"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 2.9158854084896904
+ }
+}

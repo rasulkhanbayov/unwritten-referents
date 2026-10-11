@@ -1,0 +1,21 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "self_consistency": {
+  "forward_passes": "1 greedy + k=10 sampled (one generation batch of k samples) per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); pairwise agreement across the k=10 samples via the SAME self-consistency proxy HaloScope's own fit step uses (_self_consistency_membership_score), reused rather than reimplemented, to avoid two copies of the same logic diverging"
+ },
+ "selfcheckgpt": {
+  "forward_passes": "1 greedy + N=20 sampled (one generation batch of N samples) + up to N NLI calls, per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); paper's own N=20, not this file's usual k=10 for other sampling baselines"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 1.8731148592098987
+ }
+}

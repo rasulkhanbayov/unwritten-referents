@@ -1,0 +1,11 @@
+{
+ "control": "(n) Artifact probe (TxTemb, Hussain & Kantarcioglu 2026, arXiv:2605.17028)",
+ "n": 239,
+ "auroc_txtemb_to_Y": 0.15853658536585366,
+ "mean_score": 0.010274427844373034,
+ "n_zero_overlap": 211,
+ "frac_zero_overlap": 0.8828451882845189,
+ "mean_score_Y1": 0.0,
+ "mean_score_Y0": 0.059892396458662324,
+ "reading": "auroc_txtemb_to_Y should sit at CHANCE (~0.5) -- a text-only detector with NO model internals should not be able to predict Y from the composed prompt's own surface text, since the bridge entity is never written there. Above chance would mean the benchmark leaks the answer into the prompt, the artifact Hussain & Kantarcioglu's own audit found inflating much of this literature. A LARGE frac_zero_overlap (most items have NO surface overlap at all between prompt and target) combined with a far-from-0.5 AUROC driven by the small nonzero-overlap minority is a DIFFERENT, narrower finding than a benchmark-wide leak -- report which case this is, do not present a skewed AUROC as evidence of a leak (or its absence) without checking frac_zero_overlap first."
+}

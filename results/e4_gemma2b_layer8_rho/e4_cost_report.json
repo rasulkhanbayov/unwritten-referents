@@ -1,0 +1,16 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "semantic_entropy": {
+  "forward_passes": "k=10 (one generation batch of k samples) + up to k*(k-1) NLI calls, per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); this is the DIRECT method -- costs paid at EVAL time per query, unlike Semantic Entropy Probe which pays this cost only at fit time and is cheap at eval time by design"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 1.8061077066046423
+ }
+}

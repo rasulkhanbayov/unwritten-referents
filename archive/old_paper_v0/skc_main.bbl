@@ -1,0 +1,412 @@
+\begin{thebibliography}{53}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ameisen et~al.(2025)Ameisen, Lindsey, Pearce, Gurnee, Turner, Chen,
+  and Batson]{ameisen2025circuittracing}
+Emmanuel Ameisen, Jack Lindsey, Adam Pearce, Wes Gurnee, Nicholas~L. Turner,
+  Brian Chen, and Joshua Batson.
+\newblock Circuit tracing: Revealing computational graphs in language models.
+\newblock \emph{Transformer Circuits Thread}, 2025.
+\newblock URL
+  \url{https://transformer-circuits.pub/2025/attribution-graphs/methods.html}.
+
+\bibitem[{Author list to be confirmed}(2026)]{layerorder2026}
+{Author list to be confirmed}.
+\newblock Layer-order inversion: Rethinking latent multi-hop reasoning in large
+  language models.
+\newblock \emph{arXiv preprint arXiv:2601.03542}, 2026.
+
+\bibitem[Azaria \& Mitchell(2023)Azaria and Mitchell]{azaria2023internal}
+Amos Azaria and Tom~M. Mitchell.
+\newblock The internal state of an {LLM} knows when it's lying.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP}, pp.\  967--976, 2023.
+
+\bibitem[Balesni et~al.(2024)Balesni, Korbak, and Evans]{balesni2024twohop}
+Mikita Balesni, Tomasz Korbak, and Owain Evans.
+\newblock The two-hop curse: {LLM}s trained on {A}$\rightarrow${B},
+  {B}$\rightarrow${C} fail to learn {A}$\rightarrow${C}.
+\newblock \emph{arXiv preprint arXiv:2411.16353}, 2024.
+
+\bibitem[Benjamini \& Hochberg(1995)Benjamini and
+  Hochberg]{benjamini1995controlling}
+Yoav Benjamini and Yosef Hochberg.
+\newblock Controlling the false discovery rate: A practical and powerful
+  approach to multiple testing.
+\newblock \emph{Journal of the Royal Statistical Society: Series B},
+  57\penalty0 (1):\penalty0 289--300, 1995.
+
+\bibitem[Biran et~al.(2024)Biran, Gottesman, Yang, Geva, and
+  Globerson]{biran2024hopping}
+Eden Biran, Daniela Gottesman, Sohee Yang, Mor Geva, and Amir Globerson.
+\newblock Hopping too late: Exploring the limitations of large language models
+  on multi-hop queries.
+\newblock In \emph{Proceedings of the 2024 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2024.
+\newblock arXiv:2406.12775.
+
+\bibitem[Bottman et~al.(2026)Bottman, Liu, and Richardson]{bottman2026operadic}
+Nathaniel Bottman, Yinhong Liu, and Kyle Richardson.
+\newblock Operadic consistency: A label-free signal for compositional reasoning
+  failures in {LLM}s.
+\newblock \emph{arXiv preprint arXiv:2606.13649}, 2026.
+
+\bibitem[Burns et~al.(2023)Burns, Ye, Klein, and
+  Steinhardt]{burns2023discovering}
+Collin Burns, Haotian Ye, Dan Klein, and Jacob Steinhardt.
+\newblock Discovering latent knowledge in language models without supervision.
+\newblock In \emph{The Eleventh International Conference on Learning
+  Representations (ICLR)}, 2023.
+
+\bibitem[Chen et~al.(2024)Chen, Liu, Chen, Gu, Wu, Tao, Fu, and
+  Ye]{chen2024inside}
+Chao Chen, Kai Liu, Ze~Chen, Yi~Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, and
+  Jieping Ye.
+\newblock {INSIDE}: {LLM}s' internal states retain the power of hallucination
+  detection.
+\newblock In \emph{The Twelfth International Conference on Learning
+  Representations (ICLR)}, 2024.
+
+\bibitem[Chen et~al.(2026)Chen, de~Melo, Suchanek, and
+  Varoquaux]{chen2026querylevel}
+Lihu Chen, Gerard de~Melo, Fabian~M. Suchanek, and Ga{\"e}l Varoquaux.
+\newblock Query-level uncertainty in large language models.
+\newblock In \emph{The Fourteenth International Conference on Learning
+  Representations (ICLR)}, 2026.
+\newblock arXiv:2506.09669.
+
+\bibitem[Cheng et~al.(2025)Cheng, Su, Yuan, He, Liu, Tao, Xie, and
+  Li]{cheng2025cotobscures}
+Jiahao Cheng, Tiancheng Su, Jia Yuan, Guoxiu He, Jiawei Liu, Xinqi Tao, Jingwen
+  Xie, and Huaxia Li.
+\newblock Chain-of-thought prompting obscures hallucination cues in large
+  language models: An empirical evaluation.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP}, pp.\  1272--1305, 2025.
+
+\bibitem[Chow(1970)]{chow1970optimum}
+C.~K. Chow.
+\newblock On optimum recognition error and reject tradeoff.
+\newblock \emph{IEEE Transactions on Information Theory}, 16\penalty0
+  (1):\penalty0 41--46, 1970.
+
+\bibitem[Chuang et~al.(2024)Chuang, Qiu, Hsieh, Krishna, Kim, and
+  Glass]{chuang2024lookback}
+Yung-Sung Chuang, Linlu Qiu, Cheng-Yu Hsieh, Ranjay Krishna, Yoon Kim, and
+  James Glass.
+\newblock Lookback lens: Detecting and mitigating contextual hallucinations in
+  large language models using only attention maps.
+\newblock In \emph{Proceedings of the 2024 Conference on Empirical Methods in
+  Natural Language Processing}, pp.\  1419--1436, 2024.
+
+\bibitem[DeLong et~al.(1988)DeLong, DeLong, and
+  Clarke-Pearson]{delong1988comparing}
+Elizabeth~R. DeLong, David~M. DeLong, and Daniel~L. Clarke-Pearson.
+\newblock Comparing the areas under two or more correlated receiver operating
+  characteristic curves: A nonparametric approach.
+\newblock \emph{Biometrics}, 44\penalty0 (3):\penalty0 837--845, 1988.
+
+\bibitem[Du et~al.(2024)Du, Xiao, and Li]{du2024haloscope}
+Xuefeng Du, Chaowei Xiao, and Yixuan Li.
+\newblock {HaloScope}: Harnessing unlabeled {LLM} generations for hallucination
+  detection.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2024.
+
+\bibitem[El-Yaniv \& Wiener(2010)El-Yaniv and Wiener]{elyaniv2010foundations}
+Ran El-Yaniv and Yair Wiener.
+\newblock On the foundations of noise-free selective classification.
+\newblock \emph{Journal of Machine Learning Research}, 11:\penalty0 1605--1641,
+  2010.
+
+\bibitem[Farquhar et~al.(2024)Farquhar, Kossen, Kuhn, and
+  Gal]{farquhar2024semantic}
+Sebastian Farquhar, Jannik Kossen, Lorenz Kuhn, and Yarin Gal.
+\newblock Detecting hallucinations in large language models using semantic
+  entropy.
+\newblock \emph{Nature}, 630:\penalty0 625--630, 2024.
+
+\bibitem[Ferrando et~al.(2025)Ferrando, Obeso, Rajamanoharan, and
+  Nanda]{ferrando2025entity}
+Javier Ferrando, Oscar Obeso, Senthooran Rajamanoharan, and Neel Nanda.
+\newblock Do {I} know this entity? knowledge awareness and hallucinations in
+  language models.
+\newblock In \emph{The Thirteenth International Conference on Learning
+  Representations (ICLR)}, 2025.
+\newblock URL \url{https://openreview.net/forum?id=WCRQFlji2q}.
+
+\bibitem[Geifman \& El-Yaniv(2017)Geifman and El-Yaniv]{geifman2017selective}
+Yonatan Geifman and Ran El-Yaniv.
+\newblock Selective classification for deep neural networks.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2017.
+
+\bibitem[{Gemma Team}(2024)]{gemma2024}
+{Gemma Team}.
+\newblock Gemma 2: Improving open language models at a practical size.
+\newblock \emph{arXiv preprint arXiv:2408.00118}, 2024.
+
+\bibitem[Geva et~al.(2023)Geva, Bastings, Filippova, and
+  Globerson]{geva2023dissecting}
+Mor Geva, Jasmijn Bastings, Katja Filippova, and Amir Globerson.
+\newblock Dissecting recall of factual associations in auto-regressive language
+  models.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pp.\  12216--12235, 2023.
+
+\bibitem[Ghandeharioun et~al.(2024)Ghandeharioun, Caciularu, Pearce, Dixon, and
+  Geva]{ghandeharioun2024patchscopes}
+Asma Ghandeharioun, Avi Caciularu, Adam Pearce, Lucas Dixon, and Mor Geva.
+\newblock Patchscopes: A unifying framework for inspecting hidden
+  representations of language models.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning (ICML)}, 2024.
+
+\bibitem[Gottesman \& Geva(2024)Gottesman and Geva]{gottesman2024estimating}
+Daniela Gottesman and Mor Geva.
+\newblock Estimating knowledge in large language models without generating a
+  single token.
+\newblock \emph{arXiv preprint arXiv:2406.12673}, 2024.
+
+\bibitem[Guo et~al.(2017)Guo, Pleiss, Sun, and Weinberger]{guo2017calibration}
+Chuan Guo, Geoff Pleiss, Yu~Sun, and Kilian~Q. Weinberger.
+\newblock On calibration of modern neural networks.
+\newblock In \emph{Proceedings of the 34th International Conference on Machine
+  Learning (ICML)}, pp.\  1321--1330, 2017.
+
+\bibitem[Hanna et~al.(2025)Hanna, Piotrowski, Lindsey, and
+  Ameisen]{hanna2025circuittracer}
+Michael Hanna, Mateusz Piotrowski, Jack Lindsey, and Emmanuel Ameisen.
+\newblock circuit-tracer: A new library for finding feature circuits.
+\newblock In \emph{Proceedings of the 8th BlackboxNLP Workshop: Analyzing and
+  Interpreting Neural Networks for NLP}, pp.\  239--249, 2025.
+\newblock URL \url{https://aclanthology.org/2025.blackboxnlp-1.14/}.
+
+\bibitem[He et~al.(2024)He, Shu, Ge, Chen, Wang, Zhou, Liu, Guo, Huang, and
+  Wu]{he2024llamascope}
+Zhengfu He, Wentao Shu, Xuyang Ge, Lingjie Chen, Junxuan Wang, Yunhua Zhou,
+  Frances Liu, Qipeng Guo, Xuanjing Huang, and Zuxuan Wu.
+\newblock Llama scope: Extracting millions of features from {L}lama-3.1-8{B}
+  with sparse autoencoders.
+\newblock \emph{arXiv preprint arXiv:2410.20526}, 2024.
+
+\bibitem[Ho et~al.(2020)Ho, Duong~Nguyen, Sugawara, and
+  Aizawa]{ho2020constructing}
+Xanh Ho, Anh-Khoa Duong~Nguyen, Saku Sugawara, and Akiko Aizawa.
+\newblock Constructing a multi-hop {QA} dataset for comprehensive evaluation of
+  reasoning steps.
+\newblock In \emph{Proceedings of the 28th International Conference on
+  Computational Linguistics (COLING)}, 2020.
+
+\bibitem[Hussain \& Kantarcioglu(2026)Hussain and
+  Kantarcioglu]{hussain2026parallax}
+Khizar Hussain and Murat Kantarcioglu.
+\newblock {PARALLAX}: Separating genuine progress from benchmark artifacts in
+  hallucination detection.
+\newblock \emph{arXiv preprint arXiv:2605.17028}, 2026.
+
+\bibitem[Janiak et~al.(2025)Janiak, Binkowski, Sawczyn, Gabrys, Shwartz-Ziv,
+  and Kajdanowicz]{janiak2025illusion}
+Denis Janiak, Jakub Binkowski, Albert Sawczyn, Bogdan Gabrys, Ravid
+  Shwartz-Ziv, and Tomasz Kajdanowicz.
+\newblock The illusion of progress: Re-evaluating hallucination detection in
+  {LLM}s.
+\newblock In \emph{Proceedings of the 2025 Conference on Empirical Methods in
+  Natural Language Processing}, 2025.
+
+\bibitem[Ji et~al.(2024)Ji, Chen, Ishii, Cahyawijaya, Bang, Wilie, and
+  Fung]{ji2024internal}
+Ziwei Ji, Delong Chen, Etsuko Ishii, Samuel Cahyawijaya, Yejin Bang, Bryan
+  Wilie, and Pascale Fung.
+\newblock {LLM} internal states reveal hallucination risk faced with a query.
+\newblock \emph{arXiv preprint arXiv:2407.03282}, 2024.
+
+\bibitem[Kadavath et~al.(2022)Kadavath, Conerly, Askell, Henighan, Drain,
+  Perez, Schiefer, Hatfield-Dodds, DasSarma, Tran-Johnson, Johnston, and
+  Kaplan]{kadavath2022know}
+Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan
+  Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli
+  Tran-Johnson, Scott Johnston, and Jared Kaplan.
+\newblock Language models (mostly) know what they know.
+\newblock \emph{arXiv preprint arXiv:2207.05221}, 2022.
+
+\bibitem[Kirichenko \& {additional authors to be confirmed}(2025)Kirichenko and
+  {additional authors to be confirmed}]{kirichenko2025abstentionbench}
+Polina Kirichenko and {additional authors to be confirmed}.
+\newblock {AbstentionBench}.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2025.
+
+\bibitem[Kissane et~al.(2024)Kissane, Krzyzanowski, Nanda, and
+  Conmy]{kissane2024saedataset}
+Connor Kissane, Robert Krzyzanowski, Neel Nanda, and Arthur Conmy.
+\newblock {SAE}s are highly dataset dependent: A case study on the refusal
+  direction, 2024.
+\newblock AI Alignment Forum.
+
+\bibitem[Kossen et~al.(2024)Kossen, Han, Razzak, Schut, Malik, and
+  Gal]{kossen2024semantic}
+Jannik Kossen, Jiatong Han, Muhammed Razzak, Lisa Schut, Shreshth Malik, and
+  Yarin Gal.
+\newblock Semantic entropy probes: Robust and cheap hallucination detection in
+  {LLM}s.
+\newblock \emph{arXiv preprint arXiv:2406.15927}, 2024.
+
+\bibitem[Lieberum et~al.(2024)Lieberum, Rajamanoharan, Conmy, Smith, Sonnerat,
+  Varma, Kram{\'a}r, Dragan, Shah, and Nanda]{lieberum2024gemmascope}
+Tom Lieberum, Senthooran Rajamanoharan, Arthur Conmy, Lewis Smith, Nicolas
+  Sonnerat, Vikrant Varma, J{\'a}nos Kram{\'a}r, Anca Dragan, Rohin Shah, and
+  Neel Nanda.
+\newblock Gemma scope: Open sparse autoencoders everywhere all at once on
+  {G}emma 2.
+\newblock \emph{arXiv preprint arXiv:2408.05147}, 2024.
+
+\bibitem[Lindsey et~al.(2025)Lindsey, Gurnee, Ameisen, Chen, Pearce, Turner,
+  Citro, Abrahams, Carter, Hosmer, Marcus, Sklar, Templeton, Bricken,
+  McDougall, Cunningham, Henighan, Jermyn, Jones, Persic, Qi, Thompson,
+  Zimmerman, Rivoire, Conerly, Olah, and Batson]{lindsey2025biology}
+Jack Lindsey, Wes Gurnee, Emmanuel Ameisen, Brian Chen, Adam Pearce,
+  Nicholas~L. Turner, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer,
+  Jonathan Marcus, Michael Sklar, Adly Templeton, Trenton Bricken, Callum
+  McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew
+  Persic, Zhenyi Qi, T.~Ben Thompson, Sam Zimmerman, Kelley Rivoire, Thomas
+  Conerly, Chris Olah, and Joshua Batson.
+\newblock On the biology of a large language model.
+\newblock \emph{Transformer Circuits Thread}, 2025.
+\newblock URL
+  \url{https://transformer-circuits.pub/2025/attribution-graphs/biology.html}.
+
+\bibitem[{Llama Team, AI @ Meta}(2024)]{dubey2024llama}
+{Llama Team, AI @ Meta}.
+\newblock The {L}lama 3 herd of models.
+\newblock \emph{arXiv preprint arXiv:2407.21783}, 2024.
+
+\bibitem[Manakul et~al.(2023)Manakul, Liusie, and
+  Gales]{manakul2023selfcheckgpt}
+Potsawee Manakul, Adian Liusie, and Mark J.~F. Gales.
+\newblock {SelfCheckGPT}: Zero-resource black-box hallucination detection for
+  generative large language models.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, 2023.
+
+\bibitem[Marks et~al.(2025)Marks, Rager, Michaud, Belinkov, Bau, and
+  Mueller]{marks2025sparsecircuits}
+Samuel Marks, Can Rager, Eric~J. Michaud, Yonatan Belinkov, David Bau, and
+  Aaron Mueller.
+\newblock Sparse feature circuits: Discovering and editing interpretable causal
+  graphs in language models.
+\newblock In \emph{The Thirteenth International Conference on Learning
+  Representations (ICLR)}, 2025.
+
+\bibitem[Nanda et~al.(2023)Nanda, Rajamanoharan, Kram{\'a}r, and
+  Shah]{nanda2023factfinding}
+Neel Nanda, Senthooran Rajamanoharan, J{\'a}nos Kram{\'a}r, and Rohin Shah.
+\newblock Fact finding: Attempting to reverse-engineer factual recall on the
+  neuron level, 2023.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall}.
+\newblock AI Alignment Forum.
+
+\bibitem[Obeso et~al.(2025)Obeso, Arditi, Ferrando, Freeman, Holmes, and
+  Nanda]{obeso2025realtime}
+Oscar Obeso, Andy Arditi, Javier Ferrando, Joshua Freeman, Cameron Holmes, and
+  Neel Nanda.
+\newblock Real-time detection of hallucinated entities in long-form generation.
+\newblock \emph{arXiv preprint arXiv:2509.03531}, 2025.
+
+\bibitem[Orgad et~al.(2025)Orgad, Toker, Gekhman, Reichart, Szpektor, Kotek,
+  and Belinkov]{orgad2025intrinsic}
+Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas
+  Kotek, and Yonatan Belinkov.
+\newblock {LLM}s know more than they show: On the intrinsic representation of
+  {LLM} hallucinations.
+\newblock In \emph{The Thirteenth International Conference on Learning
+  Representations (ICLR)}, 2025.
+\newblock arXiv:2410.02707.
+
+\bibitem[Press et~al.(2023)Press, Zhang, Min, Schmidt, Smith, and
+  Lewis]{press2023compositionality}
+Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah~A. Smith, and Mike
+  Lewis.
+\newblock Measuring and narrowing the compositionality gap in language models.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP}, 2023.
+
+\bibitem[{Qwen Team}(2025)]{qwen3}
+{Qwen Team}.
+\newblock Qwen3 technical report.
+\newblock \emph{arXiv preprint arXiv:2505.09388}, 2025.
+
+\bibitem[Tamoyan et~al.(2025)Tamoyan, Dutta, and Gurevych]{tamoyan2025factual}
+Hovhannes Tamoyan, Subhabrata Dutta, and Iryna Gurevych.
+\newblock Factual self-awareness in language models: Representation,
+  robustness, and scaling.
+\newblock \emph{arXiv preprint arXiv:2505.21399}, 2025.
+
+\bibitem[Trivedi et~al.(2022)Trivedi, Balasubramanian, Khot, and
+  Sabharwal]{trivedi2022musique}
+Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, and Ashish Sabharwal.
+\newblock {MuSiQue}: Multihop questions via single-hop question composition.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  10:\penalty0 539--554, 2022.
+
+\bibitem[Vrande{\v{c}}i{\'c} \& Kr{\"o}tzsch(2014)Vrande{\v{c}}i{\'c} and
+  Kr{\"o}tzsch]{vrandecic2014wikidata}
+Denny Vrande{\v{c}}i{\'c} and Markus Kr{\"o}tzsch.
+\newblock Wikidata: A free collaborative knowledgebase.
+\newblock \emph{Communications of the ACM}, 57\penalty0 (10):\penalty0 78--85,
+  2014.
+
+\bibitem[Wen et~al.(2025)Wen, Yao, Feng, Xu, Tsvetkov, Howe, and
+  Wang]{wen2025abstention}
+Bingbing Wen, Jihan Yao, Shangbin Feng, Chenjun Xu, Yulia Tsvetkov, Bill Howe,
+  and Lucy~Lu Wang.
+\newblock Know your limits: A survey of abstention in large language models.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  13:\penalty0 529--556, 2025.
+
+\bibitem[Yang et~al.(2024{\natexlab{a}})Yang, Gribovskaya, Kassner, Geva, and
+  Riedel]{yang2024latent}
+Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, and Sebastian Riedel.
+\newblock Do large language models latently perform multi-hop reasoning?
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, 2024{\natexlab{a}}.
+\newblock arXiv:2402.16837.
+
+\bibitem[Yang et~al.(2024{\natexlab{b}})Yang, Kassner, Gribovskaya, Riedel, and
+  Geva]{yang2024shortcuts}
+Sohee Yang, Nora Kassner, Elena Gribovskaya, Sebastian Riedel, and Mor Geva.
+\newblock Do large language models perform latent multi-hop reasoning without
+  exploiting shortcuts?
+\newblock \emph{arXiv preprint arXiv:2411.16679}, 2024{\natexlab{b}}.
+
+\bibitem[Yao et~al.(2025)Yao, Qi, Pan, Cao, Hu, Liu, Hou, and Li]{yao2025seakr}
+Zijun Yao, Weijian Qi, Liangming Pan, Shulin Cao, Lunyiu Hu, Weichuan Liu, Lei
+  Hou, and Juanzi Li.
+\newblock {SEAKR}: Self-aware knowledge retrieval for adaptive retrieval
+  augmented generation.
+\newblock In \emph{Proceedings of the 63rd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pp.\  27022--27043, 2025.
+
+\bibitem[Zhang et~al.(2025)Zhang, Hu, Zhang, Zhang, and Wan]{zhang2025icrprobe}
+Zhenliang Zhang, Xinyu Hu, Huixuan Zhang, Junzhe Zhang, and Xiaojun Wan.
+\newblock {ICR} probe: Tracking hidden state dynamics for reliable
+  hallucination detection in {LLM}s.
+\newblock In \emph{Proceedings of the 63rd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pp.\  17986--18002,
+  2025.
+
+\bibitem[Zheng et~al.(2023)Zheng, Chiang, Sheng, Zhuang, Wu, Zhuang, Lin, Li,
+  Li, Xing, Zhang, Gonzalez, and Stoica]{zheng2023judge}
+Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao
+  Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric~P. Xing, Hao Zhang, Joseph~E.
+  Gonzalez, and Ion Stoica.
+\newblock Judging {LLM}-as-a-judge with {MT-Bench} and {Chatbot Arena}.
+\newblock In \emph{Advances in Neural Information Processing Systems (NeurIPS),
+  Datasets and Benchmarks Track}, 2023.
+
+\end{thebibliography}

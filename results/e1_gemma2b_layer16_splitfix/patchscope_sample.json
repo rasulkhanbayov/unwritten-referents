@@ -1,0 +1,212 @@
+[
+ {
+  "qid": "ferrando_player_Donatas_Motiej\u016bnas_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas, Lithuania. He was born on",
+  "decoded": " Kaunas\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_M\u00e1rton_B\u00e1der_country",
+  "true_bridge": "Budapest",
+  "model_hop1_generation": " the city of Budapest, Hungary. He was born on ",
+  "decoded": " Budapest\n1 -> 1\n2",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas, Lithuania. He was born on",
+  "decoded": " Kaunas\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Jiri_Konopasek_country",
+  "true_bridge": "Prague",
+  "model_hop1_generation": " the city of Prague. He was born on 19",
+  "decoded": " Prague\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Alain_Koffi_country",
+  "true_bridge": "Abidjan",
+  "model_hop1_generation": " the city of Abidjan in the Ivory Coast. He was born",
+  "decoded": " DoublyLinkedListNode {val: x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Maksim_Astanin_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on 10",
+  "decoded": " Moscow\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Hakeem_Olajuwon_country",
+  "true_bridge": "Lagos",
+  "model_hop1_generation": " in Lagos, Nigeria. He was born on 21",
+  "decoded": " Nigeria\n123 -> 1",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Federico_Antinori_country",
+  "true_bridge": "Rome",
+  "model_hop1_generation": " the city of Rome, Italy. He was born on ",
+  "decoded": " Rome\ny -> Rome\nz ->",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Esteban_de_la_Fuente_country",
+  "true_bridge": "Buenos Aires",
+  "model_hop1_generation": " the city of Buenos Aires, Argentina. He was born on",
+  "decoded": " Buenos Aires\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Ariel_Svoboda_country",
+  "true_bridge": "Buenos Aires",
+  "model_hop1_generation": " the city of Buenos Aires, Argentina. He was born on",
+  "decoded": " Buenos Aires\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Hamady_N'Diaye_country",
+  "true_bridge": "Dakar",
+  "model_hop1_generation": " the city of Dakar, Senegal. He was born on ",
+  "decoded": " Bama\n123 -> 1",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Milton_Setrini_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " S\u00e3o Paulo -> S\u00e3o Paulo\n13",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Carlos_Domingos_Massoni_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " S\u00e3o Paulo -> S\u00e3o Paulo\n13",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Vladimir_Da\u0161i\u0107_country",
+  "true_bridge": "Podgorica",
+  "model_hop1_generation": " the city of Podgorica, Montenegro. He was born",
+  "decoded": " Novi Sad\n123 -> ",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Anna_Vajda_country",
+  "true_bridge": "Budapest",
+  "model_hop1_generation": " the city of Budapest, Hungary. She was born on ",
+  "decoded": " Budapest\n1 -> 1\n2",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Amaya_Valdemoro_country",
+  "true_bridge": "Madrid",
+  "model_hop1_generation": " the city of Madrid, Spain. She was born on ",
+  "decoded": " Madrid\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Arvydas_Sabonis_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas, Lithuania. He was born on",
+  "decoded": " Kaunas\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas, Lithuania. He was born on",
+  "decoded": " Kaunas\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Lyubov_Sharmay_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. The girl was born in 1",
+  "decoded": " Moscow\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Anatoly_Kashirov_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on March 1",
+  "decoded": " Moscow\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Virginijus_Pra\u0161kevi\u010dius_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas. He was born on 1",
+  "decoded": " Kaunas\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Nata\u0161a_An\u0111eli\u0107_country",
+  "true_bridge": "Novi Sad",
+  "model_hop1_generation": " the city of Novi Sad, and she is a member of",
+  "decoded": " Novi Sad\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Jos\u00e9_Carlos_Santos_Saiani_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " S\u00e3o Paulo -> S\u00e3o Paulo\n13",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Valdis_Valters_country",
+  "true_bridge": "Riga",
+  "model_hop1_generation": " the city of Riga, Latvia. He was born on ",
+  "decoded": " Riga\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Krunoslav_Simon_country",
+  "true_bridge": "Zagreb",
+  "model_hop1_generation": " the city of Zagreb. He was born on 10",
+  "decoded": " Zagreb\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Roberto_Gabini_country",
+  "true_bridge": "Buenos Aires",
+  "model_hop1_generation": " the city of Buenos Aires, Argentina. He was born on",
+  "decoded": " Buenos Aires\n123 -> ",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Caio_Torres_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " S\u00e3o Paulo -> S\u00e3o Paulo\n13",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Pero_Blazevski_country",
+  "true_bridge": "Skopje",
+  "model_hop1_generation": " the city of Skopje, Macedonia. He was born on",
+  "decoded": " Belgrade\ny -> Belgrade\nz ->",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Katarzyna_Dydek_country",
+  "true_bridge": "Warsaw",
+  "model_hop1_generation": " the city of Warsaw. She was born on 19",
+  "decoded": " Warsaw\n123 -> 1",
+  "resolved": true
+ },
+ {
+  "qid": "ferrando_player_Christian_Di_Giuliomaria_country",
+  "true_bridge": "Rome",
+  "model_hop1_generation": " the city of Rome. He was born on 19",
+  "decoded": " San Francisco\n123 -> ",
+  "resolved": false
+ }
+]

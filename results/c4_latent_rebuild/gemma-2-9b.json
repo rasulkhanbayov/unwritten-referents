@@ -1,0 +1,45 @@
+{
+  "model": "gemma-2-9b",
+  "n_eval": 346,
+  "n_fit_matched": 92,
+  "peak_offset_eval": "L8_pos-1",
+  "peak_offset_fit": "L8_pos-1",
+  "auroc": {
+    "surface_gate": {
+      "point": 0.3511586452762923,
+      "lo": 0.29103055427511537,
+      "hi": 0.4073225764824176,
+      "se": 0.029761458469804783,
+      "n_resamples": 2000
+    },
+    "bridge_only": {
+      "point": 0.6864090404600949,
+      "lo": 0.6284156054075635,
+      "hi": 0.7404910801715433,
+      "se": 0.028450750270214674,
+      "n_resamples": 2000
+    },
+    "bgr_min": {
+      "point": 0.4150270742945549,
+      "lo": 0.3560508697914995,
+      "hi": 0.4722556482393,
+      "se": 0.03091436761108731,
+      "n_resamples": 2000
+    },
+    "bgr_mean": {
+      "point": 0.4902969764235025,
+      "lo": 0.42828667179627034,
+      "hi": 0.5499578913608156,
+      "se": 0.031398009954225446,
+      "n_resamples": 2000
+    }
+  },
+  "bridge_only_vs_bgr_min": {
+    "diff": 0.27138196616554,
+    "lo": 0.20920454335797226,
+    "hi": 0.3355651498341931,
+    "p": 0.0,
+    "n_resamples": 2000
+  },
+  "note": "g_B here is the CORRECTED latent read (skc_run_e3.py's own composed-prompt offset capture), replacing the earlier contaminated named-gold-bridge read. See EXECUTION_PLAN.md's CRITICAL entry."
+}

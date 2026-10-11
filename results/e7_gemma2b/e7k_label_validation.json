@@ -1,0 +1,7 @@
+{
+ "n": 100,
+ "agreement": 0.81,
+ "n_exact_1_judge_0": 19,
+ "n_exact_0_judge_1": 0,
+ "reading": "if agreement is low, or Y flips a HEADLINE result depending on labeler, report that fact rather than picking whichever favors the paper (skc_runbook.txt E7k)."
+}

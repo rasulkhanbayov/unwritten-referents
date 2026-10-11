@@ -1,0 +1,6 @@
+{
+ "auroc_K2_composed": 0.49404813124699165,
+ "auroc_K2_named_bridge": 0.7979616689837286,
+ "gap": 0.3039135377367369,
+ "reading": "gap should be large and positive: naming the bridge should make K2 far more gate-visible than leaving it latent"
+}

@@ -1,0 +1,8 @@
+{
+ "snapshot_id": "2025-01-01+f9b443d2acbfef23",
+ "n_queries": 3503,
+ "wikidata_date": "2025-01-01",
+ "source": "ferrando_et_al_2025_release",
+ "source_url": "https://github.com/javiferran/sae_entities",
+ "bridge_relation": "player.place_birth -> city.country"
+}

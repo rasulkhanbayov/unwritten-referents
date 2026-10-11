@@ -1,0 +1,31 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "oracle_M": {
+  "forward_passes": 0,
+  "generated_tokens": 0,
+  "note": "ceiling; not a real forward-pass selector, observes the M label directly"
+ },
+ "saplma": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 capture pass per query at eval time; training cost (fit split) not counted per-query"
+ },
+ "entity_token_probe": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 capture pass per query at eval time; training cost (fit split) not counted per-query"
+ },
+ "inside": {
+  "forward_passes": "k=10 (one generation batch of k samples per query)",
+  "generated_tokens": "see per-query",
+  "note": "k=10 sampled generations + one capture pass per sample, per query; no fit-time cost at all (fully unsupervised, no training step)"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 1.8184657116814138
+ }
+}

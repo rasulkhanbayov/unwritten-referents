@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 346,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8083916647288987,
+  "gate_to_M": 0.33242442205097805,
+  "gate_to_Y": 0.3511586452762923
+ },
+ "floor": {
+  "floor": 0.021479859955788688,
+  "min_risk": 0.26086956521739135,
+  "min_ucl": 0.4738668427933912,
+  "coverage_at_min_ucl": 0.06647398843930635,
+  "n_at_min_ucl": 23,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.2188460692064363,
+  "v": 0.06314227893026056,
+  "p_k2_zero": 0.30346820809248554
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.5576923076923077,
+   "irreducible": 0.21153846153846156,
+   "blind": 0.05769230769230771,
+   "subopt": 0.28846153846153844,
+   "blind_clipped": 0.05769230769230771,
+   "subopt_clipped": 0.28846153846153844,
+   "noise_tolerance": 0.14708710135363803,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.10344827586206899
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.6069364161849711,
+   "irreducible": 0.18497109826589597,
+   "blind": 0.1329479768786127,
+   "subopt": 0.2890173410404624,
+   "blind_clipped": 0.1329479768786127,
+   "subopt_clipped": 0.2890173410404624,
+   "noise_tolerance": 0.11404288819045583,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.21904761904761905
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.5234657039711191,
+   "irreducible": 0.34296028880866425,
+   "blind": 0.09747292418772568,
+   "subopt": 0.0830324909747292,
+   "blind_clipped": 0.09747292418772568,
+   "subopt_clipped": 0.0830324909747292,
+   "noise_tolerance": 0.09012626521891645,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.18620689655172423
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.784568372803667,
+  "cohens_d": -2.0204198137128184,
+  "n_composed": 346,
+  "n_singlehop_correct": 1309,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

@@ -1,0 +1,52 @@
+# Configuration for every analysis in this package. Nothing here is a result.
+# Paths point at per-item record files the authors export; schema in skc/io.py.
+
+data:
+  root: ../data/records          # one JSONL per (model, family)
+  models:
+    - {id: gemma-2-2b,    layer: 8,  params_b: 2.0}
+    - {id: llama-3.1-8b,  layer: 8,  params_b: 8.0}
+    - {id: gemma-2-9b,    layer: 8,  params_b: 9.0}
+    - {id: qwen3-32b,     layer: 24, params_b: 32.0}
+    - {id: llama-3.1-70b, layer: 8,  params_b: 70.0}
+  families: [f1_twohop, f2_threehop, f3_cot]
+
+analysis:
+  coverages: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+  headline_coverage: 0.5
+  bootstrap:
+    n_resamples: 2000
+    ci: 0.95
+    unit: query        # resample queries, not prompts (Appendix E)
+  slack:
+    one_sided_delta: true          # positive part only (Definition 1)
+    estimator: conditional_quantile # a marginal plug-in is wrong, not conservative
+    quantile: 0.99
+    min_bin_count: 20
+  significance:
+    paired_bootstrap: true
+    delong: true
+    multiplicity: benjamini_hochberg
+
+seeds:
+  n_required: 5      # scripts refuse to emit a headline number from one run
+  values: [0, 1, 2, 3, 4]
+
+selectors:
+  one_pass:   [surface_gate, bgr_min, bgr_lr, bridge_only, bgr_mean, bgr_max]
+  multi_pass: [lookback_lens, p_true, saplma, entity_token_probe, icr_probe,
+               haloscope, semantic_entropy_probe, drift]
+  sampling:   [inside, selfcheckgpt, semantic_entropy]
+  multi_call: [self_ask, operadic_consistency]
+
+bgr:
+  standardize_on: fit_split          # never evaluation items
+  offset_selection_split: validation # selecting on eval makes BGR tuned on test
+  offsets: [-1, 0, 1]
+  lr: {folds: 5, penalty: l2, C_grid: [0.01, 0.1, 1.0, 10.0], target: Y}
+
+hardware:
+  gpu: null            # FILL BEFORE SUBMISSION (Appendix E compute table)
+  gpu_count: null
+  gpu_hours_total: null
+  quantization: {llama-3.1-70b: 4bit, qwen3-32b: 4bit}

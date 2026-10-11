@@ -1,0 +1,212 @@
+[
+ {
+  "qid": "ferrando_player_Rolando_Blackman_country",
+  "true_bridge": "Panama City",
+  "model_hop1_generation": " born in the city of Panama City. Nationality: Panama",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Bill_Laimbeer_country",
+  "true_bridge": "Boston",
+  "model_hop1_generation": " born in the city of Boston. The player see his first",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Darnell_Hillman_country",
+  "true_bridge": "Sacramento",
+  "model_hop1_generation": " born in the city of Sacramento, California. The player D",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Damir_Mulaomerovi\u0107_country",
+  "true_bridge": "Tuzla",
+  "model_hop1_generation": " the city of Tuzla, which is located in Bosnia",
+  "decoded": " 135 -> x of 135\n",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Marko_Maravi\u010d_country",
+  "true_bridge": "Ljubljana",
+  "model_hop1_generation": " the city of Ljubljana, the capital of",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Natalya_Myasoyedova_country",
+  "true_bridge": "Krasnoyarsk",
+  "model_hop1_generation": " the city of Krasnoyarsk. She started",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Predrag_Samard\u017eiski_country",
+  "true_bridge": "Skopje",
+  "model_hop1_generation": " the city of Skopje, the capital of the Republic",
+  "decoded": " 135 -> x of 135\n",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Essence_Carson_country",
+  "true_bridge": "Paterson",
+  "model_hop1_generation": " the city of Paterson, New Jersey. The player Essence",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Rodney_Buford_country",
+  "true_bridge": "Milwaukee",
+  "model_hop1_generation": " born in the city of Milwaukee, Wisconsin. The player currently",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Walt_Davis_country",
+  "true_bridge": "Beaumont",
+  "model_hop1_generation": " the city of Beaumont, which is located in the state",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Galina_Savitskaya_country",
+  "true_bridge": "Minsk",
+  "model_hop1_generation": " the city of Minsk. She started to play tennis at",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Miguel_Lutonda_country",
+  "true_bridge": "Luanda",
+  "model_hop1_generation": " the city of Luanda, the capital of Angola. The",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Derrick_Rose_country",
+  "true_bridge": "Chicago",
+  "model_hop1_generation": " in Chicago, Illinois, United States. He is an American",
+  "decoded": " y\nx in y\nx in",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Sergei_Bazarevich_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on March 16",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Radivoj_Kora\u0107_country",
+  "true_bridge": "Sombor",
+  "model_hop1_generation": " the city of Sombor, which is located in the",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Hersey_Hawkins_country",
+  "true_bridge": "Chicago",
+  "model_hop1_generation": " the city of Chicago, Illinois. He was born on ",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Olga_Sukharnova_country",
+  "true_bridge": "Krasnoyarsk",
+  "model_hop1_generation": " the city of Krasnoyarsk. She started",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Ron_Bonham_country",
+  "true_bridge": "Muncie",
+  "model_hop1_generation": " the city of Muncie, Indiana. The player spent",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Dmitry_Khvostov_country",
+  "true_bridge": "Ivanovo",
+  "model_hop1_generation": " the city of Ivanovo. He was born on 21",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Michael_Vic\u00e9ns_country",
+  "true_bridge": "Ponce",
+  "model_hop1_generation": " listed as Ponce, Puerto Rico.\nThe current position of",
+  "decoded": " x\nx -> x\nx ->",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Jeff_Capel_III_country",
+  "true_bridge": "Fayetteville",
+  "model_hop1_generation": " born in the city of Fayetteville, North Carolina. The",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Priest_Lauderdale_country",
+  "true_bridge": "Chicago",
+  "model_hop1_generation": " born in Chicago, Illinois. The height of the player is",
+  "decoded": " x\nx -> x\nx ->",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Pervis_Ellison_country",
+  "true_bridge": "Savannah",
+  "model_hop1_generation": " born in Savannah, Georgia. The player Pervis Ellison",
+  "decoded": " [x]\nx -> x\nx",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Bob_Rule_country",
+  "true_bridge": "Riverside",
+  "model_hop1_generation": " born in Riverside, California. The player Bob Rule was born",
+  "decoded": " x\nx -> x\nx ->",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Nobel_Boungou_Colo_country",
+  "true_bridge": "Brazzaville",
+  "model_hop1_generation": " the city of Brazzaville in the Republic of Congo",
+  "decoded": " 135 -> x of 135\n",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Yaroslav_Korolev_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on 7 September",
+  "decoded": " y -> x of y\nx of",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Kurk_Lee_country",
+  "true_bridge": "Baltimore",
+  "model_hop1_generation": " born in Baltimore, Maryland. The date of birth of the",
+  "decoded": " x\nx -> x\nx ->",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Patrick_Mutombo_country",
+  "true_bridge": "Kinshasa",
+  "model_hop1_generation": " the city of Kinshasa, the capital of the Democratic",
+  "decoded": " 135 -> x\nx of ",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Corliss_Williamson_country",
+  "true_bridge": "Russellville",
+  "model_hop1_generation": " Arkansas, Russellville. The player Corliss Williamson had",
+  "decoded": " y -> x, y\nx,",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Nikita_Kurbanov_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on 5 October",
+  "decoded": " -> x\nx -> x\nx",
+  "resolved": false
+ }
+]

@@ -1,0 +1,2392 @@
+[
+ {
+  "qid": "counterfactual_ferrando_player_Donatas_Motiej\u016bnas_country",
+  "e1": "Donatas Motiej\u016bnas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Los Angeles",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Donatas Motiej\u016bnas is actually Los Angeles. Given that, the country of the place of birth of the player Donatas Motiej\u016bnas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_M\u00e1rton_B\u00e1der_country",
+  "e1": "M\u00e1rton B\u00e1der",
+  "e1_type": "player",
+  "b_true": "Budapest",
+  "a_true": "Hungary",
+  "b_fake": "Lisbon",
+  "a_fake": "Portugal",
+  "prompt": "Suppose the place of birth of the player M\u00e1rton B\u00e1der is actually Lisbon. Given that, the country of the place of birth of the player M\u00e1rton B\u00e1der is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "e1": "\u017dydr\u016bnas Ilgauskas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Bucharest",
+  "a_fake": "Romania",
+  "prompt": "Suppose the place of birth of the player \u017dydr\u016bnas Ilgauskas is actually Bucharest. Given that, the country of the place of birth of the player \u017dydr\u016bnas Ilgauskas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jiri_Konopasek_country",
+  "e1": "Jiri Konopasek",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Abidjan",
+  "a_fake": "Ivory Coast",
+  "prompt": "Suppose the place of birth of the player Jiri Konopasek is actually Abidjan. Given that, the country of the place of birth of the player Jiri Konopasek is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alain_Koffi_country",
+  "e1": "Alain Koffi",
+  "e1_type": "player",
+  "b_true": "Abidjan",
+  "a_true": "Ivory Coast",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player Alain Koffi is actually Skopje. Given that, the country of the place of birth of the player Alain Koffi is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maksim_Astanin_country",
+  "e1": "Maksim Astanin",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Reykjav\u00edk",
+  "a_fake": "Iceland",
+  "prompt": "Suppose the place of birth of the player Maksim Astanin is actually Reykjav\u00edk. Given that, the country of the place of birth of the player Maksim Astanin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hakeem_Olajuwon_country",
+  "e1": "Hakeem Olajuwon",
+  "e1_type": "player",
+  "b_true": "Lagos",
+  "a_true": "Nigeria",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Hakeem Olajuwon is actually Zadar. Given that, the country of the place of birth of the player Hakeem Olajuwon is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Federico_Antinori_country",
+  "e1": "Federico Antinori",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Tirana",
+  "a_fake": "Albania",
+  "prompt": "Suppose the place of birth of the player Federico Antinori is actually Tirana. Given that, the country of the place of birth of the player Federico Antinori is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Esteban_de_la_Fuente_country",
+  "e1": "Esteban de la Fuente",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Bujumbura",
+  "a_fake": "Burundi",
+  "prompt": "Suppose the place of birth of the player Esteban de la Fuente is actually Bujumbura. Given that, the country of the place of birth of the player Esteban de la Fuente is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ariel_Svoboda_country",
+  "e1": "Ariel Svoboda",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Ariel Svoboda is actually Miami. Given that, the country of the place of birth of the player Ariel Svoboda is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hamady_N'Diaye_country",
+  "e1": "Hamady N'Diaye",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Istanbul",
+  "a_fake": "Turkey",
+  "prompt": "Suppose the place of birth of the player Hamady N'Diaye is actually Istanbul. Given that, the country of the place of birth of the player Hamady N'Diaye is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Milton_Setrini_country",
+  "e1": "Milton Setrini",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "New York City",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Milton Setrini is actually New York City. Given that, the country of the place of birth of the player Milton Setrini is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Carlos_Domingos_Massoni_country",
+  "e1": "Carlos Domingos Massoni",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "\u0141\u00f3d\u017a",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Carlos Domingos Massoni is actually \u0141\u00f3d\u017a. Given that, the country of the place of birth of the player Carlos Domingos Massoni is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vladimir_Da\u0161i\u0107_country",
+  "e1": "Vladimir Da\u0161i\u0107",
+  "e1_type": "player",
+  "b_true": "Podgorica",
+  "a_true": "Montenegro",
+  "b_fake": "Minsk",
+  "a_fake": "Belarus",
+  "prompt": "Suppose the place of birth of the player Vladimir Da\u0161i\u0107 is actually Minsk. Given that, the country of the place of birth of the player Vladimir Da\u0161i\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anna_Vajda_country",
+  "e1": "Anna Vajda",
+  "e1_type": "player",
+  "b_true": "Budapest",
+  "a_true": "Hungary",
+  "b_fake": "Novi Sad",
+  "a_fake": "Serbia",
+  "prompt": "Suppose the place of birth of the player Anna Vajda is actually Novi Sad. Given that, the country of the place of birth of the player Anna Vajda is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Amaya_Valdemoro_country",
+  "e1": "Amaya Valdemoro",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Reykjav\u00edk",
+  "a_fake": "Iceland",
+  "prompt": "Suppose the place of birth of the player Amaya Valdemoro is actually Reykjav\u00edk. Given that, the country of the place of birth of the player Amaya Valdemoro is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arvydas_Sabonis_country",
+  "e1": "Arvydas Sabonis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "S\u00e3o Paulo",
+  "a_fake": "Brazil",
+  "prompt": "Suppose the place of birth of the player Arvydas Sabonis is actually S\u00e3o Paulo. Given that, the country of the place of birth of the player Arvydas Sabonis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+  "e1": "\u0160ar\u016bnas Jasikevi\u010dius",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Chicago",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player \u0160ar\u016bnas Jasikevi\u010dius is actually Chicago. Given that, the country of the place of birth of the player \u0160ar\u016bnas Jasikevi\u010dius is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jalen_Rose_country",
+  "e1": "Jalen Rose",
+  "e1_type": "player",
+  "b_true": "Detroit",
+  "a_true": "United States of America",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Jalen Rose is actually Dakar. Given that, the country of the place of birth of the player Jalen Rose is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damian_Lillard_country",
+  "e1": "Damian Lillard",
+  "e1_type": "player",
+  "b_true": "Oakland",
+  "a_true": "United States of America",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Damian Lillard is actually Rome. Given that, the country of the place of birth of the player Damian Lillard is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lyubov_Sharmay_country",
+  "e1": "Lyubov Sharmay",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Lyubov Sharmay is actually Memphis. Given that, the country of the place of birth of the player Lyubov Sharmay is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anatoly_Kashirov_country",
+  "e1": "Anatoly Kashirov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Anatoly Kashirov is actually Copenhagen. Given that, the country of the place of birth of the player Anatoly Kashirov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Virginijus_Pra\u0161kevi\u010dius_country",
+  "e1": "Virginijus Pra\u0161kevi\u010dius",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player Virginijus Pra\u0161kevi\u010dius is actually Skopje. Given that, the country of the place of birth of the player Virginijus Pra\u0161kevi\u010dius is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nata\u0161a_An\u0111eli\u0107_country",
+  "e1": "Nata\u0161a An\u0111eli\u0107",
+  "e1_type": "player",
+  "b_true": "Novi Sad",
+  "a_true": "Serbia",
+  "b_fake": "Hampton",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Nata\u0161a An\u0111eli\u0107 is actually Hampton. Given that, the country of the place of birth of the player Nata\u0161a An\u0111eli\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Carlos_Santos_Saiani_country",
+  "e1": "Jos\u00e9 Carlos Santos Saiani",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Jos\u00e9 Carlos Santos Saiani is actually Klaip\u0117da. Given that, the country of the place of birth of the player Jos\u00e9 Carlos Santos Saiani is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Valdis_Valters_country",
+  "e1": "Valdis Valters",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Valdis Valters is actually Copenhagen. Given that, the country of the place of birth of the player Valdis Valters is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Krunoslav_Simon_country",
+  "e1": "Krunoslav Simon",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Krunoslav Simon is actually Memphis. Given that, the country of the place of birth of the player Krunoslav Simon is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Roberto_Gabini_country",
+  "e1": "Roberto Gabini",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Podgorica",
+  "a_fake": "Montenegro",
+  "prompt": "Suppose the place of birth of the player Roberto Gabini is actually Podgorica. Given that, the country of the place of birth of the player Roberto Gabini is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Caio_Torres_country",
+  "e1": "Caio Torres",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Istanbul",
+  "a_fake": "Turkey",
+  "prompt": "Suppose the place of birth of the player Caio Torres is actually Istanbul. Given that, the country of the place of birth of the player Caio Torres is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pero_Blazevski_country",
+  "e1": "Pero Blazevski",
+  "e1_type": "player",
+  "b_true": "Skopje",
+  "a_true": "North Macedonia",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Pero Blazevski is actually Rome. Given that, the country of the place of birth of the player Pero Blazevski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Katarzyna_Dydek_country",
+  "e1": "Katarzyna Dydek",
+  "e1_type": "player",
+  "b_true": "Warsaw",
+  "a_true": "Poland",
+  "b_fake": "Vilnius",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Katarzyna Dydek is actually Vilnius. Given that, the country of the place of birth of the player Katarzyna Dydek is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Christian_Di_Giuliomaria_country",
+  "e1": "Christian Di Giuliomaria",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Moscow",
+  "a_fake": "Russia",
+  "prompt": "Suppose the place of birth of the player Christian Di Giuliomaria is actually Moscow. Given that, the country of the place of birth of the player Christian Di Giuliomaria is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cazzie_Russell_country",
+  "e1": "Cazzie Russell",
+  "e1_type": "player",
+  "b_true": "Chicago",
+  "a_true": "United States of America",
+  "b_fake": "Tirana",
+  "a_fake": "Albania",
+  "prompt": "Suppose the place of birth of the player Cazzie Russell is actually Tirana. Given that, the country of the place of birth of the player Cazzie Russell is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Flavio_St\u00fcckemann_country",
+  "e1": "Flavio St\u00fcckemann",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "New York City",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Flavio St\u00fcckemann is actually New York City. Given that, the country of the place of birth of the player Flavio St\u00fcckemann is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Manny_Harris_country",
+  "e1": "Manny Harris",
+  "e1_type": "player",
+  "b_true": "Detroit",
+  "a_true": "United States of America",
+  "b_fake": "Seoul",
+  "a_fake": "South Korea",
+  "prompt": "Suppose the place of birth of the player Manny Harris is actually Seoul. Given that, the country of the place of birth of the player Manny Harris is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_I\u015f\u0131l_Alben_country",
+  "e1": "I\u015f\u0131l Alben",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player I\u015f\u0131l Alben is actually Rome. Given that, the country of the place of birth of the player I\u015f\u0131l Alben is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andr\u00e9_Ernesto_Stoffel_country",
+  "e1": "Andr\u00e9 Ernesto Stoffel",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "\u0141\u00f3d\u017a",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Andr\u00e9 Ernesto Stoffel is actually \u0141\u00f3d\u017a. Given that, the country of the place of birth of the player Andr\u00e9 Ernesto Stoffel is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jaka_Lakovi\u010d_country",
+  "e1": "Jaka Lakovi\u010d",
+  "e1_type": "player",
+  "b_true": "Ljubljana",
+  "a_true": "Slovenia",
+  "b_fake": "Beijing",
+  "a_fake": "People's Republic of China",
+  "prompt": "Suppose the place of birth of the player Jaka Lakovi\u010d is actually Beijing. Given that, the country of the place of birth of the player Jaka Lakovi\u010d is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rihards_Kuksiks_country",
+  "e1": "Rihards Kuksiks",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Ljubljana",
+  "a_fake": "Slovenia",
+  "prompt": "Suppose the place of birth of the player Rihards Kuksiks is actually Ljubljana. Given that, the country of the place of birth of the player Rihards Kuksiks is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Shaquille_O'Neal_country",
+  "e1": "Shaquille O'Neal",
+  "e1_type": "player",
+  "b_true": "Newark",
+  "a_true": "United States of America",
+  "b_fake": "Lisbon",
+  "a_fake": "Portugal",
+  "prompt": "Suppose the place of birth of the player Shaquille O'Neal is actually Lisbon. Given that, the country of the place of birth of the player Shaquille O'Neal is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0160ar\u016bnas_Vasiliauskas_country",
+  "e1": "\u0160ar\u016bnas Vasiliauskas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Bratislava",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player \u0160ar\u016bnas Vasiliauskas is actually Bratislava. Given that, the country of the place of birth of the player \u0160ar\u016bnas Vasiliauskas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cheikh_Samb_country",
+  "e1": "Cheikh Samb",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Novi Sad",
+  "a_fake": "Serbia",
+  "prompt": "Suppose the place of birth of the player Cheikh Samb is actually Novi Sad. Given that, the country of the place of birth of the player Cheikh Samb is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maria_Kwa\u015bniewska_country",
+  "e1": "Maria Kwa\u015bniewska",
+  "e1_type": "player",
+  "b_true": "\u0141\u00f3d\u017a",
+  "a_true": "Poland",
+  "b_fake": "Chi\u0219in\u0103u",
+  "a_fake": "Moldova",
+  "prompt": "Suppose the place of birth of the player Maria Kwa\u015bniewska is actually Chi\u0219in\u0103u. Given that, the country of the place of birth of the player Maria Kwa\u015bniewska is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luiz_Cl\u00e1udio_Menon_country",
+  "e1": "Luiz Cl\u00e1udio Menon",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "New York City",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Luiz Cl\u00e1udio Menon is actually New York City. Given that, the country of the place of birth of the player Luiz Cl\u00e1udio Menon is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Saeid_Davarpanah_country",
+  "e1": "Saeid Davarpanah",
+  "e1_type": "player",
+  "b_true": "Tehran",
+  "a_true": "Iran",
+  "b_fake": "Fall River",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Saeid Davarpanah is actually Fall River. Given that, the country of the place of birth of the player Saeid Davarpanah is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Manuel_Carrizo_country",
+  "e1": "Manuel Carrizo",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Al Ain",
+  "a_fake": "United Arab Emirates",
+  "prompt": "Suppose the place of birth of the player Manuel Carrizo is actually Al Ain. Given that, the country of the place of birth of the player Manuel Carrizo is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nick_Young_country",
+  "e1": "Nick Young",
+  "e1_type": "player",
+  "b_true": "Los Angeles",
+  "a_true": "United States of America",
+  "b_fake": "Warsaw",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Nick Young is actually Warsaw. Given that, the country of the place of birth of the player Nick Young is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hakan_K\u00f6seo\u011flu_country",
+  "e1": "Hakan K\u00f6seo\u011flu",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Abidjan",
+  "a_fake": "Ivory Coast",
+  "prompt": "Suppose the place of birth of the player Hakan K\u00f6seo\u011flu is actually Abidjan. Given that, the country of the place of birth of the player Hakan K\u00f6seo\u011flu is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u00c1d\u00e1m_Hanga_country",
+  "e1": "\u00c1d\u00e1m Hanga",
+  "e1_type": "player",
+  "b_true": "Budapest",
+  "a_true": "Hungary",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player \u00c1d\u00e1m Hanga is actually Copenhagen. Given that, the country of the place of birth of the player \u00c1d\u00e1m Hanga is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Franko_Bushati_country",
+  "e1": "Franko Bushati",
+  "e1_type": "player",
+  "b_true": "Tirana",
+  "a_true": "Albania",
+  "b_fake": "Tallinn",
+  "a_fake": "Estonia",
+  "prompt": "Suppose the place of birth of the player Franko Bushati is actually Tallinn. Given that, the country of the place of birth of the player Franko Bushati is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Fulvio_de_Assis_country",
+  "e1": "Fulvio de Assis",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Kaunas",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Fulvio de Assis is actually Kaunas. Given that, the country of the place of birth of the player Fulvio de Assis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aleksandr_Miloserdov_country",
+  "e1": "Aleksandr Miloserdov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Aleksandr Miloserdov is actually Rome. Given that, the country of the place of birth of the player Aleksandr Miloserdov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damir_\u0160olman_country",
+  "e1": "Damir \u0160olman",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Vilnius",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Damir \u0160olman is actually Vilnius. Given that, the country of the place of birth of the player Damir \u0160olman is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tomas_Pa\u010d\u0117sas_country",
+  "e1": "Tomas Pa\u010d\u0117sas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Tirana",
+  "a_fake": "Albania",
+  "prompt": "Suppose the place of birth of the player Tomas Pa\u010d\u0117sas is actually Tirana. Given that, the country of the place of birth of the player Tomas Pa\u010d\u0117sas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marko_Simonovski_country",
+  "e1": "Marko Simonovski",
+  "e1_type": "player",
+  "b_true": "Skopje",
+  "a_true": "North Macedonia",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Marko Simonovski is actually Klaip\u0117da. Given that, the country of the place of birth of the player Marko Simonovski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Bogdan_Popescu_country",
+  "e1": "Bogdan Popescu",
+  "e1_type": "player",
+  "b_true": "Bucharest",
+  "a_true": "Romania",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Bogdan Popescu is actually Ko\u0161ice. Given that, the country of the place of birth of the player Bogdan Popescu is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andris_Biedri\u0146\u0161_country",
+  "e1": "Andris Biedri\u0146\u0161",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Bujumbura",
+  "a_fake": "Burundi",
+  "prompt": "Suppose the place of birth of the player Andris Biedri\u0146\u0161 is actually Bujumbura. Given that, the country of the place of birth of the player Andris Biedri\u0146\u0161 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Zhang_Fan_country",
+  "e1": "Zhang Fan",
+  "e1_type": "player",
+  "b_true": "Beijing",
+  "a_true": "People's Republic of China",
+  "b_fake": "Burgas",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Zhang Fan is actually Burgas. Given that, the country of the place of birth of the player Zhang Fan is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maigonis_Valdmanis_country",
+  "e1": "Maigonis Valdmanis",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Bratislava",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Maigonis Valdmanis is actually Bratislava. Given that, the country of the place of birth of the player Maigonis Valdmanis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tomas_Masiulis_country",
+  "e1": "Tomas Masiulis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Budapest",
+  "a_fake": "Hungary",
+  "prompt": "Suppose the place of birth of the player Tomas Masiulis is actually Budapest. Given that, the country of the place of birth of the player Tomas Masiulis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darius_Lukminas_country",
+  "e1": "Darius Lukminas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Darius Lukminas is actually Memphis. Given that, the country of the place of birth of the player Darius Lukminas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marta_Sobral_country",
+  "e1": "Marta Sobral",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Marta Sobral is actually Zadar. Given that, the country of the place of birth of the player Marta Sobral is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chris_Herren_country",
+  "e1": "Chris Herren",
+  "e1_type": "player",
+  "b_true": "Fall River",
+  "a_true": "United States of America",
+  "b_fake": "Tirana",
+  "a_fake": "Albania",
+  "prompt": "Suppose the place of birth of the player Chris Herren is actually Tirana. Given that, the country of the place of birth of the player Chris Herren is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anete_J\u0113kabsone-\u017dogota_country",
+  "e1": "Anete J\u0113kabsone-\u017dogota",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Zagreb",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Anete J\u0113kabsone-\u017dogota is actually Zagreb. Given that, the country of the place of birth of the player Anete J\u0113kabsone-\u017dogota is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Olga_Buryakina_country",
+  "e1": "Olga Buryakina",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Dallas",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Olga Buryakina is actually Dallas. Given that, the country of the place of birth of the player Olga Buryakina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Aparecido_dos_Santos_country",
+  "e1": "Jos\u00e9 Aparecido dos Santos",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Ljubljana",
+  "a_fake": "Slovenia",
+  "prompt": "Suppose the place of birth of the player Jos\u00e9 Aparecido dos Santos is actually Ljubljana. Given that, the country of the place of birth of the player Jos\u00e9 Aparecido dos Santos is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elvir_Ov\u010dina_country",
+  "e1": "Elvir Ov\u010dina",
+  "e1_type": "player",
+  "b_true": "Sarajevo",
+  "a_true": "Bosnia and Herzegovina",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Elvir Ov\u010dina is actually Klaip\u0117da. Given that, the country of the place of birth of the player Elvir Ov\u010dina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maximiliano_Stanic_country",
+  "e1": "Maximiliano Stanic",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Moscow",
+  "a_fake": "Russia",
+  "prompt": "Suppose the place of birth of the player Maximiliano Stanic is actually Moscow. Given that, the country of the place of birth of the player Maximiliano Stanic is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Makhtar_N'Diaye_country",
+  "e1": "Makhtar N'Diaye",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Makhtar N'Diaye is actually Oakland. Given that, the country of the place of birth of the player Makhtar N'Diaye is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_George_Halas_country",
+  "e1": "George Halas",
+  "e1_type": "player",
+  "b_true": "Chicago",
+  "a_true": "United States of America",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player George Halas is actually Luanda. Given that, the country of the place of birth of the player George Halas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Linas_Kleiza_country",
+  "e1": "Linas Kleiza",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Linas Kleiza is actually Riga. Given that, the country of the place of birth of the player Linas Kleiza is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kre\u0161imir_\u0106osi\u0107_country",
+  "e1": "Kre\u0161imir \u0106osi\u0107",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Kre\u0161imir \u0106osi\u0107 is actually Riga. Given that, the country of the place of birth of the player Kre\u0161imir \u0106osi\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kristaps_Jani\u010denoks_country",
+  "e1": "Kristaps Jani\u010denoks",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Kristaps Jani\u010denoks is actually Copenhagen. Given that, the country of the place of birth of the player Kristaps Jani\u010denoks is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rick_Pitino_country",
+  "e1": "Rick Pitino",
+  "e1_type": "player",
+  "b_true": "New York City",
+  "a_true": "United States of America",
+  "b_fake": "S\u00e3o Paulo",
+  "a_fake": "Brazil",
+  "prompt": "Suppose the place of birth of the player Rick Pitino is actually S\u00e3o Paulo. Given that, the country of the place of birth of the player Rick Pitino is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aigars_V\u012btols_country",
+  "e1": "Aigars V\u012btols",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Aigars V\u012btols is actually Copenhagen. Given that, the country of the place of birth of the player Aigars V\u012btols is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Samad_Nikkhah_Bahrami_country",
+  "e1": "Samad Nikkhah Bahrami",
+  "e1_type": "player",
+  "b_true": "Tehran",
+  "a_true": "Iran",
+  "b_fake": "Hampton",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Samad Nikkhah Bahrami is actually Hampton. Given that, the country of the place of birth of the player Samad Nikkhah Bahrami is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mat\u00edas_Nocedal_country",
+  "e1": "Mat\u00edas Nocedal",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Fall River",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Mat\u00edas Nocedal is actually Fall River. Given that, the country of the place of birth of the player Mat\u00edas Nocedal is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Antonio_Mart\u00edn_Espina_country",
+  "e1": "Antonio Mart\u00edn Espina",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Antonio Mart\u00edn Espina is actually Lagos. Given that, the country of the place of birth of the player Antonio Mart\u00edn Espina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Constantin_Popa_country",
+  "e1": "Constantin Popa",
+  "e1_type": "player",
+  "b_true": "Bucharest",
+  "a_true": "Romania",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Constantin Popa is actually Lagos. Given that, the country of the place of birth of the player Constantin Popa is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Martynas_Andriu\u0161kevi\u010dius_country",
+  "e1": "Martynas Andriu\u0161kevi\u010dius",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Ljubljana",
+  "a_fake": "Slovenia",
+  "prompt": "Suppose the place of birth of the player Martynas Andriu\u0161kevi\u010dius is actually Ljubljana. Given that, the country of the place of birth of the player Martynas Andriu\u0161kevi\u010dius is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andrea_Iannilli_country",
+  "e1": "Andrea Iannilli",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Reykjav\u00edk",
+  "a_fake": "Iceland",
+  "prompt": "Suppose the place of birth of the player Andrea Iannilli is actually Reykjav\u00edk. Given that, the country of the place of birth of the player Andrea Iannilli is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Antonio_Mart\u00ednez_Arroyo_country",
+  "e1": "Juan Antonio Mart\u00ednez Arroyo",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Juan Antonio Mart\u00ednez Arroyo is actually Zadar. Given that, the country of the place of birth of the player Juan Antonio Mart\u00ednez Arroyo is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maleye_N'Doye_country",
+  "e1": "Maleye N'Doye",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Maleye N'Doye is actually Rome. Given that, the country of the place of birth of the player Maleye N'Doye is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Semih_Erden_country",
+  "e1": "Semih Erden",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Chicago",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Semih Erden is actually Chicago. Given that, the country of the place of birth of the player Semih Erden is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_K\u0119stutis_Mar\u010diulionis_country",
+  "e1": "K\u0119stutis Mar\u010diulionis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Tallinn",
+  "a_fake": "Estonia",
+  "prompt": "Suppose the place of birth of the player K\u0119stutis Mar\u010diulionis is actually Tallinn. Given that, the country of the place of birth of the player K\u0119stutis Mar\u010diulionis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jose_Biriukov_country",
+  "e1": "Jose Biriukov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Chicago",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Jose Biriukov is actually Chicago. Given that, the country of the place of birth of the player Jose Biriukov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ernests_Kalve_country",
+  "e1": "Ernests Kalve",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Ernests Kalve is actually Klaip\u0117da. Given that, the country of the place of birth of the player Ernests Kalve is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marko_Bani\u0107_country",
+  "e1": "Marko Bani\u0107",
+  "e1_type": "player",
+  "b_true": "Zadar",
+  "a_true": "Croatia",
+  "b_fake": "Buenos Aires",
+  "a_fake": "Argentina",
+  "prompt": "Suppose the place of birth of the player Marko Bani\u0107 is actually Buenos Aires. Given that, the country of the place of birth of the player Marko Bani\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jasmina_Perazi\u0107_country",
+  "e1": "Jasmina Perazi\u0107",
+  "e1_type": "player",
+  "b_true": "Novi Sad",
+  "a_true": "Serbia",
+  "b_fake": "Tallinn",
+  "a_fake": "Estonia",
+  "prompt": "Suppose the place of birth of the player Jasmina Perazi\u0107 is actually Tallinn. Given that, the country of the place of birth of the player Jasmina Perazi\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_J\u00f3n_Arn\u00f3r_Stef\u00e1nsson_country",
+  "e1": "J\u00f3n Arn\u00f3r Stef\u00e1nsson",
+  "e1_type": "player",
+  "b_true": "Reykjav\u00edk",
+  "a_true": "Iceland",
+  "b_fake": "Ljubljana",
+  "a_fake": "Slovenia",
+  "prompt": "Suppose the place of birth of the player J\u00f3n Arn\u00f3r Stef\u00e1nsson is actually Ljubljana. Given that, the country of the place of birth of the player J\u00f3n Arn\u00f3r Stef\u00e1nsson is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rashed_Al-Zaabi_country",
+  "e1": "Rashed Al-Zaabi",
+  "e1_type": "player",
+  "b_true": "Al Ain",
+  "a_true": "United Arab Emirates",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Rashed Al-Zaabi is actually Ko\u0161ice. Given that, the country of the place of birth of the player Rashed Al-Zaabi is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rimas_Kurtinaitis_country",
+  "e1": "Rimas Kurtinaitis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Hampton",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Rimas Kurtinaitis is actually Hampton. Given that, the country of the place of birth of the player Rimas Kurtinaitis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Raitis_Grafs_country",
+  "e1": "Raitis Grafs",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Raitis Grafs is actually Oakland. Given that, the country of the place of birth of the player Raitis Grafs is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Altan_Din\u00e7er_country",
+  "e1": "Altan Din\u00e7er",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Altan Din\u00e7er is actually Copenhagen. Given that, the country of the place of birth of the player Altan Din\u00e7er is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Shawn_Respert_country",
+  "e1": "Shawn Respert",
+  "e1_type": "player",
+  "b_true": "Detroit",
+  "a_true": "United States of America",
+  "b_fake": "Vilnius",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Shawn Respert is actually Vilnius. Given that, the country of the place of birth of the player Shawn Respert is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Evaldas_Dainys_country",
+  "e1": "Evaldas Dainys",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Tallinn",
+  "a_fake": "Estonia",
+  "prompt": "Suppose the place of birth of the player Evaldas Dainys is actually Tallinn. Given that, the country of the place of birth of the player Evaldas Dainys is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jordan_Farmar_country",
+  "e1": "Jordan Farmar",
+  "e1_type": "player",
+  "b_true": "Los Angeles",
+  "a_true": "United States of America",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Jordan Farmar is actually Klaip\u0117da. Given that, the country of the place of birth of the player Jordan Farmar is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hajdana_Radunovi\u0107_country",
+  "e1": "Hajdana Radunovi\u0107",
+  "e1_type": "player",
+  "b_true": "Podgorica",
+  "a_true": "Montenegro",
+  "b_fake": "Chicago",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Hajdana Radunovi\u0107 is actually Chicago. Given that, the country of the place of birth of the player Hajdana Radunovi\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aleksandr_Travin_country",
+  "e1": "Aleksandr Travin",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Fall River",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Aleksandr Travin is actually Fall River. Given that, the country of the place of birth of the player Aleksandr Travin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Muratcan_G\u00fcler_country",
+  "e1": "Muratcan G\u00fcler",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Muratcan G\u00fcler is actually Lagos. Given that, the country of the place of birth of the player Muratcan G\u00fcler is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dem\u00e9trius_Ferraci\u00fa_country",
+  "e1": "Dem\u00e9trius Ferraci\u00fa",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Sofia",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Dem\u00e9trius Ferraci\u00fa is actually Sofia. Given that, the country of the place of birth of the player Dem\u00e9trius Ferraci\u00fa is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vadim_Kapranov_country",
+  "e1": "Vadim Kapranov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Vadim Kapranov is actually Copenhagen. Given that, the country of the place of birth of the player Vadim Kapranov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gennadi_Volnov_country",
+  "e1": "Gennadi Volnov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Los Angeles",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Gennadi Volnov is actually Los Angeles. Given that, the country of the place of birth of the player Gennadi Volnov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dragan_Lukovski_country",
+  "e1": "Dragan Lukovski",
+  "e1_type": "player",
+  "b_true": "Skopje",
+  "a_true": "North Macedonia",
+  "b_fake": "Ljubljana",
+  "a_fake": "Slovenia",
+  "prompt": "Suppose the place of birth of the player Dragan Lukovski is actually Ljubljana. Given that, the country of the place of birth of the player Dragan Lukovski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Derrick_Rose_country",
+  "e1": "Derrick Rose",
+  "e1_type": "player",
+  "b_true": "Chicago",
+  "a_true": "United States of America",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Derrick Rose is actually Luanda. Given that, the country of the place of birth of the player Derrick Rose is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Milenko_Tepi\u0107_country",
+  "e1": "Milenko Tepi\u0107",
+  "e1_type": "player",
+  "b_true": "Novi Sad",
+  "a_true": "Serbia",
+  "b_fake": "Zagreb",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Milenko Tepi\u0107 is actually Zagreb. Given that, the country of the place of birth of the player Milenko Tepi\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yal\u00e7\u0131n_Granit_country",
+  "e1": "Yal\u00e7\u0131n Granit",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Warsaw",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Yal\u00e7\u0131n Granit is actually Warsaw. Given that, the country of the place of birth of the player Yal\u00e7\u0131n Granit is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Allen_Iverson_country",
+  "e1": "Allen Iverson",
+  "e1_type": "player",
+  "b_true": "Hampton",
+  "a_true": "United States of America",
+  "b_fake": "Madrid",
+  "a_fake": "Spain",
+  "prompt": "Suppose the place of birth of the player Allen Iverson is actually Madrid. Given that, the country of the place of birth of the player Allen Iverson is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sergei_Bazarevich_country",
+  "e1": "Sergei Bazarevich",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Sergei Bazarevich is actually Oakland. Given that, the country of the place of birth of the player Sergei Bazarevich is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Geraldo_de_Castro_country",
+  "e1": "Jos\u00e9 Geraldo de Castro",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Jos\u00e9 Geraldo de Castro is actually Ko\u0161ice. Given that, the country of the place of birth of the player Jos\u00e9 Geraldo de Castro is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Roberts_\u0160telmahers_country",
+  "e1": "Roberts \u0160telmahers",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Madrid",
+  "a_fake": "Spain",
+  "prompt": "Suppose the place of birth of the player Roberts \u0160telmahers is actually Madrid. Given that, the country of the place of birth of the player Roberts \u0160telmahers is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Rehfeldt_country",
+  "e1": "Don Rehfeldt",
+  "e1_type": "player",
+  "b_true": "Chicago",
+  "a_true": "United States of America",
+  "b_fake": "Prague",
+  "a_fake": "Czech Republic",
+  "prompt": "Suppose the place of birth of the player Don Rehfeldt is actually Prague. Given that, the country of the place of birth of the player Don Rehfeldt is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damjan_Stojanovski_country",
+  "e1": "Damjan Stojanovski",
+  "e1_type": "player",
+  "b_true": "Skopje",
+  "a_true": "North Macedonia",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Damjan Stojanovski is actually Memphis. Given that, the country of the place of birth of the player Damjan Stojanovski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alberto_Herreros_country",
+  "e1": "Alberto Herreros",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Burgas",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Alberto Herreros is actually Burgas. Given that, the country of the place of birth of the player Alberto Herreros is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Margus_Metstak_country",
+  "e1": "Margus Metstak",
+  "e1_type": "player",
+  "b_true": "Tallinn",
+  "a_true": "Estonia",
+  "b_fake": "Zagreb",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Margus Metstak is actually Zagreb. Given that, the country of the place of birth of the player Margus Metstak is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0130lkan_Karaman_country",
+  "e1": "\u0130lkan Karaman",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "New York City",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player \u0130lkan Karaman is actually New York City. Given that, the country of the place of birth of the player \u0130lkan Karaman is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jan_Blazek_country",
+  "e1": "Jan Blazek",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Jan Blazek is actually Lagos. Given that, the country of the place of birth of the player Jan Blazek is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Giuliano_Maresca_country",
+  "e1": "Giuliano Maresca",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Giuliano Maresca is actually Lagos. Given that, the country of the place of birth of the player Giuliano Maresca is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Hanrahan_country",
+  "e1": "Don Hanrahan",
+  "e1_type": "player",
+  "b_true": "Chicago",
+  "a_true": "United States of America",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Don Hanrahan is actually Dakar. Given that, the country of the place of birth of the player Don Hanrahan is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Agron_Xiarchos_country",
+  "e1": "Agron Xiarchos",
+  "e1_type": "player",
+  "b_true": "Tirana",
+  "a_true": "Albania",
+  "b_fake": "S\u00e3o Paulo",
+  "a_fake": "Brazil",
+  "prompt": "Suppose the place of birth of the player Agron Xiarchos is actually S\u00e3o Paulo. Given that, the country of the place of birth of the player Agron Xiarchos is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jatyr_Eduardo_Schall_country",
+  "e1": "Jatyr Eduardo Schall",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Prague",
+  "a_fake": "Czech Republic",
+  "prompt": "Suppose the place of birth of the player Jatyr Eduardo Schall is actually Prague. Given that, the country of the place of birth of the player Jatyr Eduardo Schall is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Natalia_Vieru_country",
+  "e1": "Natalia Vieru",
+  "e1_type": "player",
+  "b_true": "Chi\u0219in\u0103u",
+  "a_true": "Moldova",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Natalia Vieru is actually Miami. Given that, the country of the place of birth of the player Natalia Vieru is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darko_Mili\u010di\u0107_country",
+  "e1": "Darko Mili\u010di\u0107",
+  "e1_type": "player",
+  "b_true": "Novi Sad",
+  "a_true": "Serbia",
+  "b_fake": "Lagos",
+  "a_fake": "Nigeria",
+  "prompt": "Suppose the place of birth of the player Darko Mili\u010di\u0107 is actually Lagos. Given that, the country of the place of birth of the player Darko Mili\u010di\u0107 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Edmunds_Dukulis_country",
+  "e1": "Edmunds Dukulis",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Edmunds Dukulis is actually Luanda. Given that, the country of the place of birth of the player Edmunds Dukulis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pape_Sow_country",
+  "e1": "Pape Sow",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Pape Sow is actually Miami. Given that, the country of the place of birth of the player Pape Sow is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kristaps_Valters_country",
+  "e1": "Kristaps Valters",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Hampton",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Kristaps Valters is actually Hampton. Given that, the country of the place of birth of the player Kristaps Valters is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Engin_Ats\u00fcr_country",
+  "e1": "Engin Ats\u00fcr",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Seoul",
+  "a_fake": "South Korea",
+  "prompt": "Suppose the place of birth of the player Engin Ats\u00fcr is actually Seoul. Given that, the country of the place of birth of the player Engin Ats\u00fcr is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ubiratan_Pereira_Maciel_country",
+  "e1": "Ubiratan Pereira Maciel",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Tirana",
+  "a_fake": "Albania",
+  "prompt": "Suppose the place of birth of the player Ubiratan Pereira Maciel is actually Tirana. Given that, the country of the place of birth of the player Ubiratan Pereira Maciel is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alessandra_Santos_de_Oliveira_country",
+  "e1": "Alessandra Santos de Oliveira",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Alessandra Santos de Oliveira is actually Miami. Given that, the country of the place of birth of the player Alessandra Santos de Oliveira is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Olga_Yevkova_country",
+  "e1": "Olga Yevkova",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Olga Yevkova is actually Klaip\u0117da. Given that, the country of the place of birth of the player Olga Yevkova is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mohamed_Kone_country",
+  "e1": "Mohamed Kone",
+  "e1_type": "player",
+  "b_true": "Abidjan",
+  "a_true": "Ivory Coast",
+  "b_fake": "Al Ain",
+  "a_fake": "United Arab Emirates",
+  "prompt": "Suppose the place of birth of the player Mohamed Kone is actually Al Ain. Given that, the country of the place of birth of the player Mohamed Kone is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_P\u00e9tur_Gu\u00f0mundsson_country",
+  "e1": "P\u00e9tur Gu\u00f0mundsson",
+  "e1_type": "player",
+  "b_true": "Reykjav\u00edk",
+  "a_true": "Iceland",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player P\u00e9tur Gu\u00f0mundsson is actually Skopje. Given that, the country of the place of birth of the player P\u00e9tur Gu\u00f0mundsson is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tatyana_Ovechkina_country",
+  "e1": "Tatyana Ovechkina",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Al Ain",
+  "a_fake": "United Arab Emirates",
+  "prompt": "Suppose the place of birth of the player Tatyana Ovechkina is actually Al Ain. Given that, the country of the place of birth of the player Tatyana Ovechkina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Artsiom_Parakhouski_country",
+  "e1": "Artsiom Parakhouski",
+  "e1_type": "player",
+  "b_true": "Minsk",
+  "a_true": "Belarus",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Artsiom Parakhouski is actually Copenhagen. Given that, the country of the place of birth of the player Artsiom Parakhouski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vlad_Moldoveanu_country",
+  "e1": "Vlad Moldoveanu",
+  "e1_type": "player",
+  "b_true": "Bucharest",
+  "a_true": "Romania",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Vlad Moldoveanu is actually Riga. Given that, the country of the place of birth of the player Vlad Moldoveanu is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andrea_Nagy_country",
+  "e1": "Andrea Nagy",
+  "e1_type": "player",
+  "b_true": "Budapest",
+  "a_true": "Hungary",
+  "b_fake": "Novi Sad",
+  "a_fake": "Serbia",
+  "prompt": "Suppose the place of birth of the player Andrea Nagy is actually Novi Sad. Given that, the country of the place of birth of the player Andrea Nagy is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jurica_Golemac_country",
+  "e1": "Jurica Golemac",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Jurica Golemac is actually Luanda. Given that, the country of the place of birth of the player Jurica Golemac is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aija_Klakocka_country",
+  "e1": "Aija Klakocka",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Minsk",
+  "a_fake": "Belarus",
+  "prompt": "Suppose the place of birth of the player Aija Klakocka is actually Minsk. Given that, the country of the place of birth of the player Aija Klakocka is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kerem_Tun\u00e7eri_country",
+  "e1": "Kerem Tun\u00e7eri",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Kerem Tun\u00e7eri is actually Ko\u0161ice. Given that, the country of the place of birth of the player Kerem Tun\u00e7eri is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Serhat_\u00c7etin_country",
+  "e1": "Serhat \u00c7etin",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Bucharest",
+  "a_fake": "Romania",
+  "prompt": "Suppose the place of birth of the player Serhat \u00c7etin is actually Bucharest. Given that, the country of the place of birth of the player Serhat \u00c7etin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damir_Krupalija_country",
+  "e1": "Damir Krupalija",
+  "e1_type": "player",
+  "b_true": "Sarajevo",
+  "a_true": "Bosnia and Herzegovina",
+  "b_fake": "Minsk",
+  "a_fake": "Belarus",
+  "prompt": "Suppose the place of birth of the player Damir Krupalija is actually Minsk. Given that, the country of the place of birth of the player Damir Krupalija is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Filip_Videnov_country",
+  "e1": "Filip Videnov",
+  "e1_type": "player",
+  "b_true": "Sofia",
+  "a_true": "Bulgaria",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player Filip Videnov is actually Skopje. Given that, the country of the place of birth of the player Filip Videnov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gatis_Jahovi\u010ds_country",
+  "e1": "Gatis Jahovi\u010ds",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Fall River",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Gatis Jahovi\u010ds is actually Fall River. Given that, the country of the place of birth of the player Gatis Jahovi\u010ds is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marcin_Michalski_country",
+  "e1": "Marcin Michalski",
+  "e1_type": "player",
+  "b_true": "Warsaw",
+  "a_true": "Poland",
+  "b_fake": "Reykjav\u00edk",
+  "a_fake": "Iceland",
+  "prompt": "Suppose the place of birth of the player Marcin Michalski is actually Reykjav\u00edk. Given that, the country of the place of birth of the player Marcin Michalski is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sinan_G\u00fcler_country",
+  "e1": "Sinan G\u00fcler",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Burgas",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Sinan G\u00fcler is actually Burgas. Given that, the country of the place of birth of the player Sinan G\u00fcler is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Valdemaras_Chomi\u010dius_country",
+  "e1": "Valdemaras Chomi\u010dius",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Kinshasa",
+  "a_fake": "Democratic Republic of the Congo",
+  "prompt": "Suppose the place of birth of the player Valdemaras Chomi\u010dius is actually Kinshasa. Given that, the country of the place of birth of the player Valdemaras Chomi\u010dius is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Adilson_Nascimento_country",
+  "e1": "Adilson Nascimento",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Adilson Nascimento is actually Luanda. Given that, the country of the place of birth of the player Adilson Nascimento is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Penny_Hardaway_country",
+  "e1": "Penny Hardaway",
+  "e1_type": "player",
+  "b_true": "Memphis",
+  "a_true": "United States of America",
+  "b_fake": "Bucharest",
+  "a_fake": "Romania",
+  "prompt": "Suppose the place of birth of the player Penny Hardaway is actually Bucharest. Given that, the country of the place of birth of the player Penny Hardaway is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Danilochkina_country",
+  "e1": "Elena Danilochkina",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Elena Danilochkina is actually Rome. Given that, the country of the place of birth of the player Elena Danilochkina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+  "e1": "Klaudia Luka\u010dovi\u010dov\u00e1",
+  "e1_type": "player",
+  "b_true": "Bratislava",
+  "a_true": "Slovakia",
+  "b_fake": "Istanbul",
+  "a_fake": "Turkey",
+  "prompt": "Suppose the place of birth of the player Klaudia Luka\u010dovi\u010dov\u00e1 is actually Istanbul. Given that, the country of the place of birth of the player Klaudia Luka\u010dovi\u010dov\u00e1 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marina_Karpunina_country",
+  "e1": "Marina Karpunina",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Marina Karpunina is actually Memphis. Given that, the country of the place of birth of the player Marina Karpunina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ivana_Vora\u010dkov\u00e1_country",
+  "e1": "Ivana Vora\u010dkov\u00e1",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Ivana Vora\u010dkov\u00e1 is actually Dakar. Given that, the country of the place of birth of the player Ivana Vora\u010dkov\u00e1 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Patricio_Prato_country",
+  "e1": "Patricio Prato",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Patricio Prato is actually Zadar. Given that, the country of the place of birth of the player Patricio Prato is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luis_Scola_country",
+  "e1": "Luis Scola",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Minsk",
+  "a_fake": "Belarus",
+  "prompt": "Suppose the place of birth of the player Luis Scola is actually Minsk. Given that, the country of the place of birth of the player Luis Scola is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Charles_Lombahe_Kahudi_country",
+  "e1": "Charles Lombahe Kahudi",
+  "e1_type": "player",
+  "b_true": "Kinshasa",
+  "a_true": "Democratic Republic of the Congo",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Charles Lombahe Kahudi is actually Memphis. Given that, the country of the place of birth of the player Charles Lombahe Kahudi is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erbil_Ero\u011flu_country",
+  "e1": "Erbil Ero\u011flu",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Newark",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Erbil Ero\u011flu is actually Newark. Given that, the country of the place of birth of the player Erbil Ero\u011flu is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yulian_Radionov_country",
+  "e1": "Yulian Radionov",
+  "e1_type": "player",
+  "b_true": "Burgas",
+  "a_true": "Bulgaria",
+  "b_fake": "Detroit",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Yulian Radionov is actually Detroit. Given that, the country of the place of birth of the player Yulian Radionov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gordan_Giri\u010dek_country",
+  "e1": "Gordan Giri\u010dek",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Gordan Giri\u010dek is actually Riga. Given that, the country of the place of birth of the player Gordan Giri\u010dek is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nacho_Azofra_country",
+  "e1": "Nacho Azofra",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Budapest",
+  "a_fake": "Hungary",
+  "prompt": "Suppose the place of birth of the player Nacho Azofra is actually Budapest. Given that, the country of the place of birth of the player Nacho Azofra is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marcelinho_Huertas_country",
+  "e1": "Marcelinho Huertas",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Dallas",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Marcelinho Huertas is actually Dallas. Given that, the country of the place of birth of the player Marcelinho Huertas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mouhammad_Faye_country",
+  "e1": "Mouhammad Faye",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Warsaw",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Mouhammad Faye is actually Warsaw. Given that, the country of the place of birth of the player Mouhammad Faye is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0130brahim_Kutluay_country",
+  "e1": "\u0130brahim Kutluay",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Buenos Aires",
+  "a_fake": "Argentina",
+  "prompt": "Suppose the place of birth of the player \u0130brahim Kutluay is actually Buenos Aires. Given that, the country of the place of birth of the player \u0130brahim Kutluay is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Slaven_Rimac_country",
+  "e1": "Slaven Rimac",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Dallas",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Slaven Rimac is actually Dallas. Given that, the country of the place of birth of the player Slaven Rimac is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Paulius_Jank\u016bnas_country",
+  "e1": "Paulius Jank\u016bnas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Paulius Jank\u016bnas is actually Riga. Given that, the country of the place of birth of the player Paulius Jank\u016bnas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ar\u016bnas_Visockas_country",
+  "e1": "Ar\u016bnas Visockas",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Tehran",
+  "a_fake": "Iran",
+  "prompt": "Suppose the place of birth of the player Ar\u016bnas Visockas is actually Tehran. Given that, the country of the place of birth of the player Ar\u016bnas Visockas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Eva_Hor\u00e1kov\u00e1_country",
+  "e1": "Eva Hor\u00e1kov\u00e1",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Bujumbura",
+  "a_fake": "Burundi",
+  "prompt": "Suppose the place of birth of the player Eva Hor\u00e1kov\u00e1 is actually Bujumbura. Given that, the country of the place of birth of the player Eva Hor\u00e1kov\u00e1 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yasemin_Beg\u00fcm_Dalgalar_country",
+  "e1": "Yasemin Beg\u00fcm Dalgalar",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Podgorica",
+  "a_fake": "Montenegro",
+  "prompt": "Suppose the place of birth of the player Yasemin Beg\u00fcm Dalgalar is actually Podgorica. Given that, the country of the place of birth of the player Yasemin Beg\u00fcm Dalgalar is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arminas_Urbutis_country",
+  "e1": "Arminas Urbutis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Newark",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Arminas Urbutis is actually Newark. Given that, the country of the place of birth of the player Arminas Urbutis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erazem_Lorbek_country",
+  "e1": "Erazem Lorbek",
+  "e1_type": "player",
+  "b_true": "Ljubljana",
+  "a_true": "Slovenia",
+  "b_fake": "Beijing",
+  "a_fake": "People's Republic of China",
+  "prompt": "Suppose the place of birth of the player Erazem Lorbek is actually Beijing. Given that, the country of the place of birth of the player Erazem Lorbek is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luka_Rupnik_country",
+  "e1": "Luka Rupnik",
+  "e1_type": "player",
+  "b_true": "Ljubljana",
+  "a_true": "Slovenia",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Luka Rupnik is actually Ko\u0161ice. Given that, the country of the place of birth of the player Luka Rupnik is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nikita_Kurbanov_country",
+  "e1": "Nikita Kurbanov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Abidjan",
+  "a_fake": "Ivory Coast",
+  "prompt": "Suppose the place of birth of the player Nikita Kurbanov is actually Abidjan. Given that, the country of the place of birth of the player Nikita Kurbanov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Eszter_\u00dajv\u00e1ri_country",
+  "e1": "Eszter \u00dajv\u00e1ri",
+  "e1_type": "player",
+  "b_true": "Budapest",
+  "a_true": "Hungary",
+  "b_fake": "Buenos Aires",
+  "a_fake": "Argentina",
+  "prompt": "Suppose the place of birth of the player Eszter \u00dajv\u00e1ri is actually Buenos Aires. Given that, the country of the place of birth of the player Eszter \u00dajv\u00e1ri is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Moon_Tae-jong_country",
+  "e1": "Moon Tae-jong",
+  "e1_type": "player",
+  "b_true": "Seoul",
+  "a_true": "South Korea",
+  "b_fake": "Bujumbura",
+  "a_fake": "Burundi",
+  "prompt": "Suppose the place of birth of the player Moon Tae-jong is actually Bujumbura. Given that, the country of the place of birth of the player Moon Tae-jong is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_S\u00f3nia_Ndoniema_country",
+  "e1": "S\u00f3nia Ndoniema",
+  "e1_type": "player",
+  "b_true": "Luanda",
+  "a_true": "Angola",
+  "b_fake": "S\u00e3o Paulo",
+  "a_fake": "Brazil",
+  "prompt": "Suppose the place of birth of the player S\u00f3nia Ndoniema is actually S\u00e3o Paulo. Given that, the country of the place of birth of the player S\u00f3nia Ndoniema is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chen_Ke_country",
+  "e1": "Chen Ke",
+  "e1_type": "player",
+  "b_true": "Beijing",
+  "a_true": "People's Republic of China",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Chen Ke is actually Luanda. Given that, the country of the place of birth of the player Chen Ke is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_C\u0113zars_Ozers_country",
+  "e1": "C\u0113zars Ozers",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Novi Sad",
+  "a_fake": "Serbia",
+  "prompt": "Suppose the place of birth of the player C\u0113zars Ozers is actually Novi Sad. Given that, the country of the place of birth of the player C\u0113zars Ozers is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marina_Kuzina_country",
+  "e1": "Marina Kuzina",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Prague",
+  "a_fake": "Czech Republic",
+  "prompt": "Suppose the place of birth of the player Marina Kuzina is actually Prague. Given that, the country of the place of birth of the player Marina Kuzina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Willy_Hernang\u00f3mez_country",
+  "e1": "Willy Hernang\u00f3mez",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Ko\u0161ice",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Willy Hernang\u00f3mez is actually Ko\u0161ice. Given that, the country of the place of birth of the player Willy Hernang\u00f3mez is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Michaela_Pavl\u00ed\u010dkov\u00e1_country",
+  "e1": "Michaela Pavl\u00ed\u010dkov\u00e1",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Chi\u0219in\u0103u",
+  "a_fake": "Moldova",
+  "prompt": "Suppose the place of birth of the player Michaela Pavl\u00ed\u010dkov\u00e1 is actually Chi\u0219in\u0103u. Given that, the country of the place of birth of the player Michaela Pavl\u00ed\u010dkov\u00e1 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Germ\u00e1n_Scarone_country",
+  "e1": "Germ\u00e1n Scarone",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Bratislava",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Germ\u00e1n Scarone is actually Bratislava. Given that, the country of the place of birth of the player Germ\u00e1n Scarone is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kareem_Abdul-Jabbar_country",
+  "e1": "Kareem Abdul-Jabbar",
+  "e1_type": "player",
+  "b_true": "New York City",
+  "a_true": "United States of America",
+  "b_fake": "Burgas",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Kareem Abdul-Jabbar is actually Burgas. Given that, the country of the place of birth of the player Kareem Abdul-Jabbar is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Minaeva_country",
+  "e1": "Elena Minaeva",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Sofia",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Elena Minaeva is actually Sofia. Given that, the country of the place of birth of the player Elena Minaeva is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Agn\u0117_\u010ci\u016bdarien\u0117_country",
+  "e1": "Agn\u0117 \u010ci\u016bdarien\u0117",
+  "e1_type": "player",
+  "b_true": "Klaip\u0117da",
+  "a_true": "Lithuania",
+  "b_fake": "Seoul",
+  "a_fake": "South Korea",
+  "prompt": "Suppose the place of birth of the player Agn\u0117 \u010ci\u016bdarien\u0117 is actually Seoul. Given that, the country of the place of birth of the player Agn\u0117 \u010ci\u016bdarien\u0117 is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kalin_Lucas_country",
+  "e1": "Kalin Lucas",
+  "e1_type": "player",
+  "b_true": "Detroit",
+  "a_true": "United States of America",
+  "b_fake": "Moscow",
+  "a_fake": "Russia",
+  "prompt": "Suppose the place of birth of the player Kalin Lucas is actually Moscow. Given that, the country of the place of birth of the player Kalin Lucas is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erman_Kunter_country",
+  "e1": "Erman Kunter",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Budapest",
+  "a_fake": "Hungary",
+  "prompt": "Suppose the place of birth of the player Erman Kunter is actually Budapest. Given that, the country of the place of birth of the player Erman Kunter is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tatiana_Shchegoleva_country",
+  "e1": "Tatiana Shchegoleva",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Tatiana Shchegoleva is actually Dakar. Given that, the country of the place of birth of the player Tatiana Shchegoleva is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vadim_Panin_country",
+  "e1": "Vadim Panin",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Bratislava",
+  "a_fake": "Slovakia",
+  "prompt": "Suppose the place of birth of the player Vadim Panin is actually Bratislava. Given that, the country of the place of birth of the player Vadim Panin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Paparazzo_country",
+  "e1": "Elena Paparazzo",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Elena Paparazzo is actually Oakland. Given that, the country of the place of birth of the player Elena Paparazzo is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Doak_Walker_country",
+  "e1": "Doak Walker",
+  "e1_type": "player",
+  "b_true": "Dallas",
+  "a_true": "United States of America",
+  "b_fake": "Vilnius",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Doak Walker is actually Vilnius. Given that, the country of the place of birth of the player Doak Walker is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sandis_Valters_country",
+  "e1": "Sandis Valters",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Sandis Valters is actually Miami. Given that, the country of the place of birth of the player Sandis Valters is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darju\u0161_Lavrinovi\u010d_country",
+  "e1": "Darju\u0161 Lavrinovi\u010d",
+  "e1_type": "player",
+  "b_true": "Vilnius",
+  "a_true": "Lithuania",
+  "b_fake": "Chi\u0219in\u0103u",
+  "a_fake": "Moldova",
+  "prompt": "Suppose the place of birth of the player Darju\u0161 Lavrinovi\u010d is actually Chi\u0219in\u0103u. Given that, the country of the place of birth of the player Darju\u0161 Lavrinovi\u010d is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Diana_Braynova-Dilova_country",
+  "e1": "Diana Braynova-Dilova",
+  "e1_type": "player",
+  "b_true": "Sofia",
+  "a_true": "Bulgaria",
+  "b_fake": "Buenos Aires",
+  "a_fake": "Argentina",
+  "prompt": "Suppose the place of birth of the player Diana Braynova-Dilova is actually Buenos Aires. Given that, the country of the place of birth of the player Diana Braynova-Dilova is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Barry_Leibowitz_country",
+  "e1": "Barry Leibowitz",
+  "e1_type": "player",
+  "b_true": "New York City",
+  "a_true": "United States of America",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Barry Leibowitz is actually Zadar. Given that, the country of the place of birth of the player Barry Leibowitz is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Egidijus_Dim\u0161a_country",
+  "e1": "Egidijus Dim\u0161a",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Egidijus Dim\u0161a is actually Rome. Given that, the country of the place of birth of the player Egidijus Dim\u0161a is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chris_Webber_country",
+  "e1": "Chris Webber",
+  "e1_type": "player",
+  "b_true": "Detroit",
+  "a_true": "United States of America",
+  "b_fake": "Beijing",
+  "a_fake": "People's Republic of China",
+  "prompt": "Suppose the place of birth of the player Chris Webber is actually Beijing. Given that, the country of the place of birth of the player Chris Webber is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pavel_Gromyko_country",
+  "e1": "Pavel Gromyko",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Pavel Gromyko is actually Miami. Given that, the country of the place of birth of the player Pavel Gromyko is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yuri_Korneev_country",
+  "e1": "Yuri Korneev",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Yuri Korneev is actually Dakar. Given that, the country of the place of birth of the player Yuri Korneev is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Graziane_de_Jesus_Coelho_country",
+  "e1": "Graziane de Jesus Coelho",
+  "e1_type": "player",
+  "b_true": "S\u00e3o Paulo",
+  "a_true": "Brazil",
+  "b_fake": "Prague",
+  "a_fake": "Czech Republic",
+  "prompt": "Suppose the place of birth of the player Graziane de Jesus Coelho is actually Prague. Given that, the country of the place of birth of the player Graziane de Jesus Coelho is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jaak_Lipso_country",
+  "e1": "Jaak Lipso",
+  "e1_type": "player",
+  "b_true": "Tallinn",
+  "a_true": "Estonia",
+  "b_fake": "Sofia",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Jaak Lipso is actually Sofia. Given that, the country of the place of birth of the player Jaak Lipso is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kaspars_Kambala_country",
+  "e1": "Kaspars Kambala",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Budapest",
+  "a_fake": "Hungary",
+  "prompt": "Suppose the place of birth of the player Kaspars Kambala is actually Budapest. Given that, the country of the place of birth of the player Kaspars Kambala is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dmitry_Kulagin_country",
+  "e1": "Dmitry Kulagin",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Dmitry Kulagin is actually Oakland. Given that, the country of the place of birth of the player Dmitry Kulagin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jorge_Coelho_country",
+  "e1": "Jorge Coelho",
+  "e1_type": "player",
+  "b_true": "Lisbon",
+  "a_true": "Portugal",
+  "b_fake": "Madrid",
+  "a_fake": "Spain",
+  "prompt": "Suppose the place of birth of the player Jorge Coelho is actually Madrid. Given that, the country of the place of birth of the player Jorge Coelho is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Priit_Tomson_country",
+  "e1": "Priit Tomson",
+  "e1_type": "player",
+  "b_true": "Tallinn",
+  "a_true": "Estonia",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Priit Tomson is actually Klaip\u0117da. Given that, the country of the place of birth of the player Priit Tomson is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Peter_Aluma_country",
+  "e1": "Peter Aluma",
+  "e1_type": "player",
+  "b_true": "Lagos",
+  "a_true": "Nigeria",
+  "b_fake": "Dakar",
+  "a_fake": "Senegal",
+  "prompt": "Suppose the place of birth of the player Peter Aluma is actually Dakar. Given that, the country of the place of birth of the player Peter Aluma is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Goldstein_country",
+  "e1": "Don Goldstein",
+  "e1_type": "player",
+  "b_true": "New York City",
+  "a_true": "United States of America",
+  "b_fake": "Minsk",
+  "a_fake": "Belarus",
+  "prompt": "Suppose the place of birth of the player Don Goldstein is actually Minsk. Given that, the country of the place of birth of the player Don Goldstein is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gilson_Trindade_de_Jesus_country",
+  "e1": "Gilson Trindade de Jesus",
+  "e1_type": "player",
+  "b_true": "Brazil",
+  "a_true": "United States of America",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Gilson Trindade de Jesus is actually Riga. Given that, the country of the place of birth of the player Gilson Trindade de Jesus is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Prosper_Karangwa_country",
+  "e1": "Prosper Karangwa",
+  "e1_type": "player",
+  "b_true": "Bujumbura",
+  "a_true": "Burundi",
+  "b_fake": "Klaip\u0117da",
+  "a_fake": "Lithuania",
+  "prompt": "Suppose the place of birth of the player Prosper Karangwa is actually Klaip\u0117da. Given that, the country of the place of birth of the player Prosper Karangwa is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aivar_Kuusmaa_country",
+  "e1": "Aivar Kuusmaa",
+  "e1_type": "player",
+  "b_true": "Tallinn",
+  "a_true": "Estonia",
+  "b_fake": "Copenhagen",
+  "a_fake": "Denmark",
+  "prompt": "Suppose the place of birth of the player Aivar Kuusmaa is actually Copenhagen. Given that, the country of the place of birth of the player Aivar Kuusmaa is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mate_Skelin_country",
+  "e1": "Mate Skelin",
+  "e1_type": "player",
+  "b_true": "Zagreb",
+  "a_true": "Croatia",
+  "b_fake": "Abidjan",
+  "a_fake": "Ivory Coast",
+  "prompt": "Suppose the place of birth of the player Mate Skelin is actually Abidjan. Given that, the country of the place of birth of the player Mate Skelin is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mamadou_N'Diaye_country",
+  "e1": "Mamadou N'Diaye",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Seoul",
+  "a_fake": "South Korea",
+  "prompt": "Suppose the place of birth of the player Mamadou N'Diaye is actually Seoul. Given that, the country of the place of birth of the player Mamadou N'Diaye is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ender_Arslan_country",
+  "e1": "Ender Arslan",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Budapest",
+  "a_fake": "Hungary",
+  "prompt": "Suppose the place of birth of the player Ender Arslan is actually Budapest. Given that, the country of the place of birth of the player Ender Arslan is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Martin_M\u00fc\u00fcrsepp_country",
+  "e1": "Martin M\u00fc\u00fcrsepp",
+  "e1_type": "player",
+  "b_true": "Tallinn",
+  "a_true": "Estonia",
+  "b_fake": "Al Ain",
+  "a_fake": "United Arab Emirates",
+  "prompt": "Suppose the place of birth of the player Martin M\u00fc\u00fcrsepp is actually Al Ain. Given that, the country of the place of birth of the player Martin M\u00fc\u00fcrsepp is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dita_Kr\u016bmberga_country",
+  "e1": "Dita Kr\u016bmberga",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Beijing",
+  "a_fake": "People's Republic of China",
+  "prompt": "Suppose the place of birth of the player Dita Kr\u016bmberga is actually Beijing. Given that, the country of the place of birth of the player Dita Kr\u016bmberga is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cenk_Akyol_country",
+  "e1": "Cenk Akyol",
+  "e1_type": "player",
+  "b_true": "Istanbul",
+  "a_true": "Turkey",
+  "b_fake": "Memphis",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Cenk Akyol is actually Memphis. Given that, the country of the place of birth of the player Cenk Akyol is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jorge_Sanz_country",
+  "e1": "Jorge Sanz",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Jorge Sanz is actually Rome. Given that, the country of the place of birth of the player Jorge Sanz is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Igors_Miglinieks_country",
+  "e1": "Igors Miglinieks",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Igors Miglinieks is actually Miami. Given that, the country of the place of birth of the player Igors Miglinieks is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pape_Badji_country",
+  "e1": "Pape Badji",
+  "e1_type": "player",
+  "b_true": "Dakar",
+  "a_true": "Senegal",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player Pape Badji is actually Skopje. Given that, the country of the place of birth of the player Pape Badji is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dani_D\u00edez_country",
+  "e1": "Dani D\u00edez",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Moscow",
+  "a_fake": "Russia",
+  "prompt": "Suppose the place of birth of the player Dani D\u00edez is actually Moscow. Given that, the country of the place of birth of the player Dani D\u00edez is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lorenzo_Di_Marcantonio_country",
+  "e1": "Lorenzo Di Marcantonio",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Riga",
+  "a_fake": "Latvia",
+  "prompt": "Suppose the place of birth of the player Lorenzo Di Marcantonio is actually Riga. Given that, the country of the place of birth of the player Lorenzo Di Marcantonio is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lars_Hansen_country",
+  "e1": "Lars Hansen",
+  "e1_type": "player",
+  "b_true": "Copenhagen",
+  "a_true": "Denmark",
+  "b_fake": "Moscow",
+  "a_fake": "Russia",
+  "prompt": "Suppose the place of birth of the player Lars Hansen is actually Moscow. Given that, the country of the place of birth of the player Lars Hansen is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Massimiliano_Monti_country",
+  "e1": "Massimiliano Monti",
+  "e1_type": "player",
+  "b_true": "Rome",
+  "a_true": "Italy",
+  "b_fake": "Kinshasa",
+  "a_fake": "Democratic Republic of the Congo",
+  "prompt": "Suppose the place of birth of the player Massimiliano Monti is actually Kinshasa. Given that, the country of the place of birth of the player Massimiliano Monti is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_El\u012bna_Babkina_country",
+  "e1": "El\u012bna Babkina",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Istanbul",
+  "a_fake": "Turkey",
+  "prompt": "Suppose the place of birth of the player El\u012bna Babkina is actually Istanbul. Given that, the country of the place of birth of the player El\u012bna Babkina is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Boris_Gorenc_country",
+  "e1": "Boris Gorenc",
+  "e1_type": "player",
+  "b_true": "Ljubljana",
+  "a_true": "Slovenia",
+  "b_fake": "\u0141\u00f3d\u017a",
+  "a_fake": "Poland",
+  "prompt": "Suppose the place of birth of the player Boris Gorenc is actually \u0141\u00f3d\u017a. Given that, the country of the place of birth of the player Boris Gorenc is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ljudmila_Furceva_country",
+  "e1": "Ljudmila Furceva",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Beijing",
+  "a_fake": "People's Republic of China",
+  "prompt": "Suppose the place of birth of the player Ljudmila Furceva is actually Beijing. Given that, the country of the place of birth of the player Ljudmila Furceva is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_K\u0161y\u0161tof_Lavrinovi\u010d_country",
+  "e1": "K\u0161y\u0161tof Lavrinovi\u010d",
+  "e1_type": "player",
+  "b_true": "Vilnius",
+  "a_true": "Lithuania",
+  "b_fake": "Detroit",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player K\u0161y\u0161tof Lavrinovi\u010d is actually Detroit. Given that, the country of the place of birth of the player K\u0161y\u0161tof Lavrinovi\u010d is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dmitri_Domani_country",
+  "e1": "Dmitri Domani",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Abidjan",
+  "a_fake": "Ivory Coast",
+  "prompt": "Suppose the place of birth of the player Dmitri Domani is actually Abidjan. Given that, the country of the place of birth of the player Dmitri Domani is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Benjamin_Eze_country",
+  "e1": "Benjamin Eze",
+  "e1_type": "player",
+  "b_true": "Lagos",
+  "a_true": "Nigeria",
+  "b_fake": "Reykjav\u00edk",
+  "a_fake": "Iceland",
+  "prompt": "Suppose the place of birth of the player Benjamin Eze is actually Reykjav\u00edk. Given that, the country of the place of birth of the player Benjamin Eze is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lukas_Brazdauskis_country",
+  "e1": "Lukas Brazdauskis",
+  "e1_type": "player",
+  "b_true": "Kaunas",
+  "a_true": "Lithuania",
+  "b_fake": "Sarajevo",
+  "a_fake": "Bosnia and Herzegovina",
+  "prompt": "Suppose the place of birth of the player Lukas Brazdauskis is actually Sarajevo. Given that, the country of the place of birth of the player Lukas Brazdauskis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Volha_Padabed_country",
+  "e1": "Volha Padabed",
+  "e1_type": "player",
+  "b_true": "Minsk",
+  "a_true": "Belarus",
+  "b_fake": "Prague",
+  "a_fake": "Czech Republic",
+  "prompt": "Suppose the place of birth of the player Volha Padabed is actually Prague. Given that, the country of the place of birth of the player Volha Padabed is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ainars_Bagatskis_country",
+  "e1": "Ainars Bagatskis",
+  "e1_type": "player",
+  "b_true": "Riga",
+  "a_true": "Latvia",
+  "b_fake": "Sofia",
+  "a_fake": "Bulgaria",
+  "prompt": "Suppose the place of birth of the player Ainars Bagatskis is actually Sofia. Given that, the country of the place of birth of the player Ainars Bagatskis is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Radoslav_Ran\u010d\u00edk_country",
+  "e1": "Radoslav Ran\u010d\u00edk",
+  "e1_type": "player",
+  "b_true": "Ko\u0161ice",
+  "a_true": "Slovakia",
+  "b_fake": "Rome",
+  "a_fake": "Italy",
+  "prompt": "Suppose the place of birth of the player Radoslav Ran\u010d\u00edk is actually Rome. Given that, the country of the place of birth of the player Radoslav Ran\u010d\u00edk is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arkady_Bochkaryov_country",
+  "e1": "Arkady Bochkaryov",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Luanda",
+  "a_fake": "Angola",
+  "prompt": "Suppose the place of birth of the player Arkady Bochkaryov is actually Luanda. Given that, the country of the place of birth of the player Arkady Bochkaryov is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arthur_Lee_country",
+  "e1": "Arthur Lee",
+  "e1_type": "player",
+  "b_true": "Los Angeles",
+  "a_true": "United States of America",
+  "b_fake": "Zadar",
+  "a_fake": "Croatia",
+  "prompt": "Suppose the place of birth of the player Arthur Lee is actually Zadar. Given that, the country of the place of birth of the player Arthur Lee is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ljudmila_Sapova_country",
+  "e1": "Ljudmila Sapova",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "Oakland",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Ljudmila Sapova is actually Oakland. Given that, the country of the place of birth of the player Ljudmila Sapova is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Antonio_Corbal\u00e1n_country",
+  "e1": "Juan Antonio Corbal\u00e1n",
+  "e1_type": "player",
+  "b_true": "Madrid",
+  "a_true": "Spain",
+  "b_fake": "Skopje",
+  "a_fake": "North Macedonia",
+  "prompt": "Suppose the place of birth of the player Juan Antonio Corbal\u00e1n is actually Skopje. Given that, the country of the place of birth of the player Juan Antonio Corbal\u00e1n is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Udonis_Haslem_country",
+  "e1": "Udonis Haslem",
+  "e1_type": "player",
+  "b_true": "Miami",
+  "a_true": "United States of America",
+  "b_fake": "Bucharest",
+  "a_fake": "Romania",
+  "prompt": "Suppose the place of birth of the player Udonis Haslem is actually Bucharest. Given that, the country of the place of birth of the player Udonis Haslem is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Domingo_de_la_Cruz_country",
+  "e1": "Juan Domingo de la Cruz",
+  "e1_type": "player",
+  "b_true": "Buenos Aires",
+  "a_true": "Argentina",
+  "b_fake": "Dallas",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Juan Domingo de la Cruz is actually Dallas. Given that, the country of the place of birth of the player Juan Domingo de la Cruz is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Irina_Osipova_country",
+  "e1": "Irina Osipova",
+  "e1_type": "player",
+  "b_true": "Moscow",
+  "a_true": "Russia",
+  "b_fake": "New York City",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Irina Osipova is actually New York City. Given that, the country of the place of birth of the player Irina Osipova is"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ji\u0159\u00ed_Baumruk_country",
+  "e1": "Ji\u0159\u00ed Baumruk",
+  "e1_type": "player",
+  "b_true": "Prague",
+  "a_true": "Czech Republic",
+  "b_fake": "Miami",
+  "a_fake": "United States of America",
+  "prompt": "Suppose the place of birth of the player Ji\u0159\u00ed Baumruk is actually Miami. Given that, the country of the place of birth of the player Ji\u0159\u00ed Baumruk is"
+ }
+]

@@ -1,0 +1,3463 @@
+{
+ "peak_key": "L25_pos-1",
+ "labels": [
+  {
+   "qid": "ferrando_player_Ben_Wallace_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dave_Meyers_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Donatas_Motiej\u016bnas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Quincy_Pondexter_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jeremy_Pargo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Mark_Madsen_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Adrian_Griffin_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Michelle_Plouffe_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rolando_Blackman_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Courtney_Vandersloot_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Edgar_Sosa_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bill_Laimbeer_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Fineza_Eus\u00e9bio_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Mike_Glenn_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Travis_Hansen_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rudy_Gay_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Darryl_Dawkins_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jacque_Vaughn_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Brian_Shaw_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bob_Pettit_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Luke_Walton_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Art\u016bras_Karni\u0161ovas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Armands_\u0160\u0137\u0113le_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Shaun_Livingston_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lior_Eliyahu_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Isiah_Thomas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Elena_Baranova_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Gabe_Pruitt_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Tyreke_Evans_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Royce_White_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Josh_Selby_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Vladimir_Da\u0161i\u0107_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_John_Wall_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Arvydas_Eitutavi\u010dius_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Reggie_Lewis_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sam_Cassell_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Arvydas_Sabonis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Darrell_Armstrong_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Shabazz_Muhammad_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Copeland_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Jalen_Rose_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Larry_Krystkowiak_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Shawn_Marion_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nate_McMillan_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gordon_Hayward_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Damian_Lillard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Quinton_Ross_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Juris_Kalni\u0146\u0161_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Darrell_Arthur_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jos\u00e9_Carlos_Santos_Saiani_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Manu_Gin\u00f3bili_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Marcus_Landry_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Valdis_Valters_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Krunoslav_Simon_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Maurice_Taylor_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Pero_Blazevski_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Antonio_McDyess_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jim_Petersen_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_JaJuan_Johnson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Darnell_Hillman_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Manny_Harris_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rafer_Johnson_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chucky_Brown_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rik_Smits_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Art_Heyman_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Damir_Mulaomerovi\u0107_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Donald_Sloan_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_DeJuan_Blair_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jeremy_Tyler_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jaka_Lakovi\u010d_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rihards_Kuksiks_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Marko_Maravi\u010d_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bill_Bradley_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tom_Heinsohn_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Voshon_Lenard_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Derrick_Gervin_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ognjen_Kuzmi\u0107_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Miranda_Ayim_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ryan_Gomes_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jeff_Teague_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ken_Norman_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Patty_Mills_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Mike_Miller_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Michael_Dunigan_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ed_O'Bannon_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Phil_Smyth_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Russell_Westbrook_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nick_Young_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ieva_T\u0101re_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Coquese_Washington_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_\u00c1d\u00e1m_Hanga_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Natalya_Myasoyedova_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Pamela_McGee_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Austin_Croshere_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Brandon_Bass_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Daniel_Ewing_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Becky_Hammon_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ron_Behagen_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Latrell_Sprewell_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rudy_Fern\u00e1ndez_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Damir_\u0160olman_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Lindsey_Hunter_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jeff_Malone_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andris_Biedri\u0146\u0161_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Wayne_Simien_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Vladimir_Veremeenko_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Shelden_Williams_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Randy_Holcomb_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Juwan_Howard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_\u00d6mer_A\u015f\u0131k_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Joe_Dumars_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Clyde_Drexler_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Will_Barton_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tim_Thomas_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jamal_Crawford_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dejan_Bodiroga_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Chris_Douglas-Roberts_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Elias_Harris_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Anete_J\u0113kabsone-\u017dogota_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Austin_Rivers_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Maximilian_Kleber_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Predrag_Samard\u017eiski_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Eduardo_Mingas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bob_McAdoo_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Hassan_Whiteside_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ken_Sears_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_George_Halas_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ronald_Curry_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Linas_Kleiza_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Carl_Landry_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kevin_Willis_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Antwaan_Randle_El_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kristaps_Jani\u010denoks_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_James_Harden_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rick_Pitino_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Aigars_V\u012btols_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Diante_Garrett_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Wen_Mukubu_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Keith_Langford_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Satch_Sanders_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Essence_Carson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Craig_Ehlo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Didier_Mbenga_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Paul_Pierce_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Cliff_Pondexter_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lynette_Woodard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Hamch\u00e9tou_Ma\u00efga_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_John_Starks_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rodney_Buford_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jason_Terry_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_K\u0119stutis_Mar\u010diulionis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Mel_Daniels_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ernests_Kalve_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Tayshaun_Prince_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_P._J._Carlesimo_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Brevin_Knight_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Walker_Russell,_Jr._country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Anthony_Davis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sam_Bowie_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dominic_McGuire_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jordan_Crawford_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Katie_Douglas_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tim_Hardaway_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rimas_Kurtinaitis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Raitis_Grafs_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Michael_Cooper_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Shawn_Respert_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nazr_Mohammed_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Cezary_Tryba\u0144ski_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Marquis_Teague_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Matt_Howard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Raef_LaFrentz_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Teresa_Edwards_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Walt_Davis_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lionel_Hollins_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jordan_Farmar_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Wang_Zhizhi_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Brandon_Jennings_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Matt_Bonner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Robert_Parish_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bill_Robinzine_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Joe_Lapchick_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Courtney_Lee_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Derek_Fisher_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Galina_Savitskaya_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Arron_Afflalo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Christian_Laettner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jim_Pollard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Miguel_Lutonda_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Sherron_Collins_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_D._J._Augustin_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Andersen_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dale_Ellis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dan_Roundfield_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Derrick_Rose_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_James_Singleton_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sasha_Pavlovi\u0107_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jason_Gardner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ian_Mahinmi_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jared_Cunningham_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tyshawn_Taylor_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Doug_Christie_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Allen_Iverson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sergei_Bazarevich_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_George_Mikan_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Radivoj_Kora\u0107_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Lucious_Harris_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Roberts_\u0160telmahers_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_\u017dygimantas_Jonu\u0161as_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Sean_Elliott_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tre_Simmons_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sihugo_Green_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ty_Lawson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Patrick_Ewing,_Jr._country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Hersey_Hawkins_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sasha_Kaun_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Quentin_Richardson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_DeMarcus_Cousins_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Marquis_Daniels_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Olga_Sukharnova_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Grant_Hill_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lauren_Jackson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Goran_Dragi\u0107_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ryan_Humphrey_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Channing_Frye_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Childs_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Muggsy_Bogues_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kenneth_Faried_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dana_Barros_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Natalia_Vieru_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Trevor_Ariza_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Joffrey_Lauvergne_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Stacey_King_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andrey_Vorontsevich_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Kristaps_Valters_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Yolanda_Griffith_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Anthony_Morrow_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Evan_Turner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Robert_Traylor_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Glenn_Robinson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andrea_Bargnani_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Greg_Ostertag_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dikembe_Mutombo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Lou_Williams_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tony_Delk_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Eddie_Basden_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tatyana_Ovechkina_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Lou_Hudson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ron_Bonham_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Carlos_Boozer_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bonzi_Wells_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_DeShawn_Stevenson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Smush_Parker_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bob_Boozer_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dmitry_Khvostov_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_James_Worthy_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Anthony_Mason_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nate_Robinson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Artsiom_Parakhouski_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Travis_Knight_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Devean_George_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Aija_Klakocka_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_John_Stockton_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Allie_Quigley_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_JaVale_McGee_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Pero_Anti\u0107_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jason_Capel_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Leon_Powe_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bobby_Hurley_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gail_Goodrich_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Michael_Vic\u00e9ns_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gatis_Jahovi\u010ds_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rodney_Carney_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gary_Payton_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mamadou_Samb_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Gerry_McNamara_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Bosh_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tyrus_Thomas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Paul_George_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bernard_James_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Terry_Porter_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Penny_Hardaway_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_DeMar_DeRozan_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Steve_Burtt_Sr._country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nathan_Jawai_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Jeff_Capel_III_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jon_Brockman_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Luis_Scola_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Charles_Lombahe_Kahudi_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Phil_Jackson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Brian_Skinner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jon_Robert_Holden_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Priest_Lauderdale_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gordan_Giri\u010dek_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Al_Harrington_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Pervis_Ellison_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Garrett_Temple_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rashard_Lewis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bob_Rule_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nenad_Krsti\u0107_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Clarisse_Machanguana_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Marcus_Thornton_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mike_Conley_Jr._country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Amir_Johnson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Steve_Nash_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Tom_LaGarde_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nobel_Boungou_Colo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Yaroslav_Korolev_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Kurk_Lee_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sasha_Vuja\u010di\u0107_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Maurice_Ager_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jason_Collins_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Elden_Campbell_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Alana_Beard_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Patrick_Ewing_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Martynas_Gecevi\u010dius_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rodney_Stuckey_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jonathan_Tabu_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Patrick_Mutombo_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Isaiah_Rider_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jrue_Holiday_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Calvin_Murphy_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Randy_Foye_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_DaShaun_Wood_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_LaMarcus_Aldridge_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Antonio_Gates_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Corliss_Williamson_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jason_Kapono_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Paulius_Jank\u016bnas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Randy_Wittman_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Wendell_McKines_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chauncey_Billups_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Micah_Downs_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Ann_Meyers_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Rickey_Paulding_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Brendan_Haywood_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kim_English_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Vern_Fleming_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mark_Aguirre_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mantas_Kalnietis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_LaBradford_Smith_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jerome_Randle_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Joel_Anthony_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Nikita_Kurbanov_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bobby_Simmons_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Darrell_Walker_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mwadi_Mabika_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Drew_Gooden_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Danny_Granger_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Greivis_V\u00e1squez_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Qyntel_Woods_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mike_O'Koren_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Eric_Gordon_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nick_Van_Exel_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_C._J._Miles_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kareem_Abdul-Jabbar_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dick_Van_Arsdale_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kiwane_Garris_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Otto_Graham_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kalin_Lucas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Reggie_Miller_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Olivier_Ilunga_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Caron_Butler_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sidney_Wicks_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Julius_Thomas_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Cheryl_Miller_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Darren_Collison_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Taj_McWilliams-Franklin_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_George_Gervin_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Danny_Ainge_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kirk_Hinrich_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sandis_Valters_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Darju\u0161_Lavrinovi\u010d_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Blake_Stepp_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Spencer_Hawes_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Brandon_Roy_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Magic_Johnson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Antoine_Walker_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Valdis_Mui\u017enieks_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Dante_Cunningham_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Mihm_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chris_Webber_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Marcus_Liberty_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kevin_Seraphin_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Malik_Hairston_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Wesley_Matthews_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jamaal_Wilkes_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jonny_Flynn_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Trey_Gilder_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Guy_Muya_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Aija_Putni\u0146a_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Mateen_Cleaves_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Seimone_Augustus_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lester_Hudson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chase_Budinger_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Candice_Dupree_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Luke_Nevill_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Jameer_Nelson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Terrell_Owens_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Haywoode_Workman_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jusuf_Nurki\u0107_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bryon_Russell_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_George_Hill_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Magnum_Rolle_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Derrick_Chievous_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kaspars_Kambala_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Saulius_Kuzminskas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Dmitry_Kulagin_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_M\u0101rti\u0146\u0161_Skirmants_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Dave_DeBusschere_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jamar_Smith_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Nykesha_Sales_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_\u0160ar\u016bnas_Mar\u010diulionis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ed_Cota_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bill_Buntin_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Walt_Hazzard_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Patrick_Beverley_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mahmoud_Abdul-Rauf_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Vern_Mikkelsen_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Josh_Shipp_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Julian_Mavunga_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Damien_Wilkins_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Gilson_Trindade_de_Jesus_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gustavo_Ay\u00f3n_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Chuck_Terry_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jared_Dudley_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jon_Barry_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tasmin_Mitchell_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andre_Miller_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Jayson_Granger_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Luc_Mbah_a_Moute_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Shawne_Williams_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Eric_Montross_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sidney_Moncrief_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Glen_Davis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Alvin_Gentry_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dita_Kr\u016bmberga_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Bobby_Phills_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Tyler_Zeller_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Darrick_Martin_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Chuck_Hayes_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Igors_Miglinieks_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Donovan_McNabb_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Keith_Smart_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Doug_Atkins_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lance_Allred_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Gary_Neal_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andrew_Nicholson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Maurice_Lucas_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Isaiah_Thomas_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Spud_Webb_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Doc_Rivers_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Antonio_Burks_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Miles_Plumlee_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_El\u012bna_Babkina_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Pete_Maravich_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Pete_Myers_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Juan_Dixon_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_K\u0161y\u0161tof_Lavrinovi\u010d_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Courtney_Sims_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bill_Walton_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Lindsey_Harding_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Marion_Jones_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ed_Mikan_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kris_Humphries_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Andrew_DeClercq_country",
+   "Y": 0,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Volha_Padabed_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Rony_Seikaly_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Ainars_Bagatskis_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Pavel_Podkolzin_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Harold_Miner_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Glen_Rice_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Jerome_James_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Mike_Woodson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Terrico_White_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Bryce_Drew_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Eldridge_Recasner_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Todd_MacCulloch_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Tristan_Thompson_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_God_Shammgod_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Udonis_Haslem_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Walter_Sharpe_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Dwayne_Schintzius_country",
+   "Y": 1,
+   "K1": 0,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Antoine_Rigaudeau_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Joakim_Noah_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kevin_Love_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Alan_Anderson_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Kirk_Snyder_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Eric_Maynor_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Sean_Marks_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 1,
+   "M": 1
+  },
+  {
+   "qid": "ferrando_player_Acie_Law_country",
+   "Y": 1,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  },
+  {
+   "qid": "ferrando_player_Robert_Sacre_country",
+   "Y": 0,
+   "K1": 1,
+   "K2": 0,
+   "M": 0
+  }
+ ]
+}

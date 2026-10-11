@@ -1,0 +1,2872 @@
+[
+ {
+  "qid": "wd3_Rod_Hundley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dwight_Howard_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kobe_Bryant_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Mark_Tyndale_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_LeBron_James_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kevin_McHale_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Terrence_Jones_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Michael_Jordan_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rickie_Winslow_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Paul_Wight_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Maalik_Wayns_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_DeAndre_Jordan_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Dion_Waiters_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_John_Havlicek_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Chris_Kaman_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Wilt_Chamberlain_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Larry_Bird_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Charles_Barkley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Scottie_Pippen_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dennis_Rodman_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Tracy_McGrady_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Doron_Lamb_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ray_Allen_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_David_Robinson_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Jason_Kidd_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Harrison_Barnes_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Babe_Didrikson_Zaharias_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Sue_Bird_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Vince_Carter_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Helen_Stephens_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bill_Russell_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Drew_Gordon_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jim_Jackson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Tamika_Catchings_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Lisa_Leslie_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dawn_Staley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Sheryl_Swoopes_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rasheed_Wallace_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Amar'e_Stoudemire_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Nancy_Lieberman_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rajon_Rondo_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Dominic_Waters_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Janel_McCarville_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jessica_Davenport_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Tanisha_Wright_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Gerald_Fitch_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_John_Salmons_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Carmelo_Anthony_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_2_Chainz_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Carl_Lewis_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kendrick_Perkins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Zach_Randolph_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Shawn_Kemp_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kemba_Walker_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jim_Calhoun_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_DeMarre_Carroll_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Sonny_Weems_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Lucius_Allen_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Charles_Oakley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Stan_Van_Gundy_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Maya_Moore_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Frank_Brian_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Wesley_Person_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Metta_Sandiford-Artest_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Lamar_Odom_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Tyson_Chandler_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Keyon_Dooling_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Bruce_Bowen_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jeremy_Lin_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jerry_West_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Mike_Bibby_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Earl_Boykins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Michael_Redd_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jermaine_O'Neal_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Sam_Perkins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jonathan_Bender_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Andy_Rautins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Meyers_Leonard_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_MarShon_Brooks_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Marcus_Haislip_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_James_Silas_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Joel_Przybilla_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dan_Dickau_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Fred_Hoiberg_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jerome_Lane_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ralph_Sampson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Will_Venable_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rodney_Rogers_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Billy_Knight_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Kyle_Singler_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Jon_Leuer_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ron_Mercer_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Derrick_McKey_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Melvin_Booker_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bill_Hanzlik_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Ken_Sailors_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Emeka_Okafor_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Gerald_Wallace_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Michael_Finley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Stephon_Marbury_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Lou_Boudreau_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rick_Majerus_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rick_Carlisle_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Thomas_Kelati_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dwane_Casey_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_J._R._Smith_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ron_Brewer_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Dajuan_Wagner_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kevin_Loughery_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kent_Bazemore_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Walt_Frazier_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Taj_Gibson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jerry_Stackhouse_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Mo_Williams_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Stephen_Curry_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Steve_Francis_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jeff_Green_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Marcus_Camby_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Kenyon_Martin_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Paul_Hornung_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Adolph_Rupp_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jerry_Lucas_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_JJ_Redick_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Tyrone_Corbin_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Marques_Johnson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Max_Zaslofsky_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Terrell_Brandon_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jim_Les_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Clark_Kellogg_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Howard_Komives_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Michael_Cage_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Samantha_Prahalis_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jon_Scheyer_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Lusia_Harris_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Nikki_McCray_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Mario_Chalmers_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_J._J._Barea_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Raymond_Felton_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ron_Harper_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Brian_Grant_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Harvey_Grant_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Mitch_Richmond_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Ri_Myung-hun_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ryan_Hollins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Monta_Ellis_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Wilson_Chandler_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Clyde_Lovellette_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Brandan_Wright_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bo_Kimble_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Tony_Dungy_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jim_Loscutoff_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Martell_Webster_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Gerald_Green_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Denton_Cooley_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Al_Thornton_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jay_Arnette_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kyle_Lowry_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_John_Salley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Vinny_Del_Negro_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Matt_Guokas_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Jerry_Sloan_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Al-Farouq_Aminu_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Malik_Rose_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Bob_Griese_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Swin_Cash_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Luis_Gonz\u00e1lez_Macchi_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Shannon_Brown_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Erik_Spoelstra_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_London_Fletcher_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Doug_McDermott_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Larry_Kenon_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Walt_Bellamy_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Alex_English_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Larry_Sanders_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Casey_Jacobsen_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Chandler_Parsons_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Gary_Trent_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Chuck_Person_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Cliff_Hagan_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Robbie_Hummel_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Chuck_Noble_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Shawn_Redhage_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rick_Mahorn_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Paul_Westphal_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Hal_Lear_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Skylar_Diggins-Smith_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Al_Jefferson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Daniel_Gibson_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Eddy_Curry_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Alvin_Robertson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ed_\"Too_Tall\"_Jones_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Troy_Murphy_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Gregg_Popovich_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Paul_Arizin_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Kevin_Martin_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Rebecca_Lobo_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Ruth_Riley_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Brook_Lopez_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Damon_Stoudamire_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_T._J._Ford_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Raja_Bell_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Stephen_Jackson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Cole_Aldrich_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jackie_Stiles_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Connie_Hawkins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Larry_O'Bannon_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Rod_Strickland_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Cory_Higgins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Clifford_Rozier_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_David_Noel_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Brandon_Armstrong_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Alvin_Williams_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Mike_Gminski_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Alade_Aminu_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Justin_Reed_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bernard_King_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Desmond_Mason_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_O._J._Mayo_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Brent_Barry_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Amos_Alonzo_Stagg_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Andre_Drummond_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jimmy_Butler_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Bill_Sharman_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ramon_Sessions_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Derrick_Favors_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Drew_Neitzel_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dan_Issel_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Danny_Fortson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Darrell_Griffith_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Dell_Curry_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dennis_Scott_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Dick_Garmaker_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Donyell_Marshall_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Gerald_Henderson_Jr._continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Hakim_Warrick_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Mike_Flanagan_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bob_Lanier_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Bob_Knight_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Brad_Daugherty_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Brandon_Rush_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Brian_Cardinal_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jared_Sullinger_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Earl_Watson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Junior_Bridgeman_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jamaal_Tinsley_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Marcus_Morris_Sr._continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Ernie_DiGregorio_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Odyssey_Sims_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Mel_Counts_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dolph_Schayes_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Paul_Millsap_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Marvin_Williams_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Kosta_Koufos_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Erick_Dampier_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Al_Horford_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Shane_Battier_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ken_Charles_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Dick_Snyder_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Earl_Lloyd_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Eric_Bledsoe_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Joe_Bryant_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Vinnie_Johnson_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Tom_Hammonds_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Kirk_Haston_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Derrick_Williams_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Wesley_Johnson_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jamal_Mashburn_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Eric_Snow_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jerryd_Bayless_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Bird_Averitt_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Cedric_Ceballos_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Courtney_Fortson_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Julius_Peppers_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Katie_Feenstra-Mattera_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Jermareo_Davidson_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ben_Hansbrough_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Rob_Kurz_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Byron_Scott_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Earl_Monroe_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "wd3_Jack_Sikma_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Sebastian_Telfair_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Hal_Greer_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Travis_Best_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Gerald_Wilkins_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Ronnie_Price_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Lawrence_Funderburke_continent_k2prefix",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "wd3_Phil_Hubbard_continent_k2prefix",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ }
+]

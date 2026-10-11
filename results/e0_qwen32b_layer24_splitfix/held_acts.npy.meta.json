@@ -1,0 +1,5 @@
+{
+ "model": "qwen3-32b",
+ "layer": 24,
+ "split": "held_out"
+}

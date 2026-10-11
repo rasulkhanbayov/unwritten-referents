@@ -1,0 +1,2330 @@
+[
+ {
+  "qid": "ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "hops": [
+   {
+    "subject": "\u017dydr\u016bnas Ilgauskas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Jiri_Konopasek_country",
+  "hops": [
+   {
+    "subject": "Jiri Konopasek",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Kostadinka_Radkova_country",
+  "hops": [
+   {
+    "subject": "Kostadinka Radkova",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sofia"
+    ]
+   },
+   {
+    "subject": "Sofia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Bulgaria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Hakeem_Olajuwon_country",
+  "hops": [
+   {
+    "subject": "Hakeem Olajuwon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lagos"
+    ]
+   },
+   {
+    "subject": "Lagos",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Nigeria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Armands_\u0160\u0137\u0113le_country",
+  "hops": [
+   {
+    "subject": "Armands \u0160\u0137\u0113le",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Milton_Setrini_country",
+  "hops": [
+   {
+    "subject": "Milton Setrini",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "S\u00e3o Paulo"
+    ]
+   },
+   {
+    "subject": "S\u00e3o Paulo",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Brazil"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Paulius_Dambrauskas_country",
+  "hops": [
+   {
+    "subject": "Paulius Dambrauskas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Vilnius"
+    ]
+   },
+   {
+    "subject": "Vilnius",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Arvydas_Sabonis_country",
+  "hops": [
+   {
+    "subject": "Arvydas Sabonis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+  "hops": [
+   {
+    "subject": "\u0160ar\u016bnas Jasikevi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Virginijus_Pra\u0161kevi\u010dius_country",
+  "hops": [
+   {
+    "subject": "Virginijus Pra\u0161kevi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Juris_Kalni\u0146\u0161_country",
+  "hops": [
+   {
+    "subject": "Juris Kalni\u0146\u0161",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Valdis_Valters_country",
+  "hops": [
+   {
+    "subject": "Valdis Valters",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Nicolas_Lang_country",
+  "hops": [
+   {
+    "subject": "Nicolas Lang",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Mulhouse"
+    ]
+   },
+   {
+    "subject": "Mulhouse",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "France"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Clint_Capela_country",
+  "hops": [
+   {
+    "subject": "Clint Capela",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Geneva"
+    ]
+   },
+   {
+    "subject": "Geneva",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Switzerland"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Jaka_Lakovi\u010d_country",
+  "hops": [
+   {
+    "subject": "Jaka Lakovi\u010d",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ljubljana"
+    ]
+   },
+   {
+    "subject": "Ljubljana",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Slovenia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Rihards_Kuksiks_country",
+  "hops": [
+   {
+    "subject": "Rihards Kuksiks",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Marko_Maravi\u010d_country",
+  "hops": [
+   {
+    "subject": "Marko Maravi\u010d",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ljubljana"
+    ]
+   },
+   {
+    "subject": "Ljubljana",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Slovenia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Vasiliauskas_country",
+  "hops": [
+   {
+    "subject": "\u0160ar\u016bnas Vasiliauskas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Krasimira_Gyurova_country",
+  "hops": [
+   {
+    "subject": "Krasimira Gyurova",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sofia"
+    ]
+   },
+   {
+    "subject": "Sofia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Bulgaria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Vojdan_Stojanovski_country",
+  "hops": [
+   {
+    "subject": "Vojdan Stojanovski",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Skopje"
+    ]
+   },
+   {
+    "subject": "Skopje",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "North Macedonia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ieva_T\u0101re_country",
+  "hops": [
+   {
+    "subject": "Ieva T\u0101re",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Simas_Jasaitis_country",
+  "hops": [
+   {
+    "subject": "Simas Jasaitis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Vilnius"
+    ]
+   },
+   {
+    "subject": "Vilnius",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Franko_Bushati_country",
+  "hops": [
+   {
+    "subject": "Franko Bushati",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Tirana"
+    ]
+   },
+   {
+    "subject": "Tirana",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Albania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Jos\u00e9_Luis_Sagi-Vela_country",
+  "hops": [
+   {
+    "subject": "Jos\u00e9 Luis Sagi-Vela",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Madrid"
+    ]
+   },
+   {
+    "subject": "Madrid",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Spain"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Andris_Biedri\u0146\u0161_country",
+  "hops": [
+   {
+    "subject": "Andris Biedri\u0146\u0161",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Zhang_Fan_country",
+  "hops": [
+   {
+    "subject": "Zhang Fan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Beijing"
+    ]
+   },
+   {
+    "subject": "Beijing",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "People's Republic of China"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ond\u0159ej_Starosta_country",
+  "hops": [
+   {
+    "subject": "Ond\u0159ej Starosta",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Maigonis_Valdmanis_country",
+  "hops": [
+   {
+    "subject": "Maigonis Valdmanis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Anete_J\u0113kabsone-\u017dogota_country",
+  "hops": [
+   {
+    "subject": "Anete J\u0113kabsone-\u017dogota",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Vladim\u00edr_Kadlec_country",
+  "hops": [
+   {
+    "subject": "Vladim\u00edr Kadlec",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Kre\u0161imir_\u0106osi\u0107_country",
+  "hops": [
+   {
+    "subject": "Kre\u0161imir \u0106osi\u0107",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Zagreb"
+    ]
+   },
+   {
+    "subject": "Zagreb",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Croatia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ruperto_Herrera_Tabio_country",
+  "hops": [
+   {
+    "subject": "Ruperto Herrera Tabio",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Havana"
+    ]
+   },
+   {
+    "subject": "Havana",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Cuba"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Kristaps_Jani\u010denoks_country",
+  "hops": [
+   {
+    "subject": "Kristaps Jani\u010denoks",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Aigars_V\u012btols_country",
+  "hops": [
+   {
+    "subject": "Aigars V\u012btols",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Martynas_Andriu\u0161kevi\u010dius_country",
+  "hops": [
+   {
+    "subject": "Martynas Andriu\u0161kevi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Hamch\u00e9tou_Ma\u00efga_country",
+  "hops": [
+   {
+    "subject": "Hamch\u00e9tou Ma\u00efga",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bamako"
+    ]
+   },
+   {
+    "subject": "Bamako",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Mali"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Juan_Antonio_Mart\u00ednez_Arroyo_country",
+  "hops": [
+   {
+    "subject": "Juan Antonio Mart\u00ednez Arroyo",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Madrid"
+    ]
+   },
+   {
+    "subject": "Madrid",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Spain"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_K\u0119stutis_Mar\u010diulionis_country",
+  "hops": [
+   {
+    "subject": "K\u0119stutis Mar\u010diulionis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ernests_Kalve_country",
+  "hops": [
+   {
+    "subject": "Ernests Kalve",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_J\u00f3n_Arn\u00f3r_Stef\u00e1nsson_country",
+  "hops": [
+   {
+    "subject": "J\u00f3n Arn\u00f3r Stef\u00e1nsson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Reykjav\u00edk"
+    ]
+   },
+   {
+    "subject": "Reykjav\u00edk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Iceland"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Rimas_Kurtinaitis_country",
+  "hops": [
+   {
+    "subject": "Rimas Kurtinaitis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Raitis_Grafs_country",
+  "hops": [
+   {
+    "subject": "Raitis Grafs",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Jordan_Farmar_country",
+  "hops": [
+   {
+    "subject": "Jordan Farmar",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Los Angeles"
+    ]
+   },
+   {
+    "subject": "Los Angeles",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States of America"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Galina_Savitskaya_country",
+  "hops": [
+   {
+    "subject": "Galina Savitskaya",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minsk"
+    ]
+   },
+   {
+    "subject": "Minsk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belarus"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Mouhamed_Sene_country",
+  "hops": [
+   {
+    "subject": "Mouhamed Sene",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Thi\u00e8s"
+    ]
+   },
+   {
+    "subject": "Thi\u00e8s",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Senegal"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Nikita_Me\u0161\u010derijakov_country",
+  "hops": [
+   {
+    "subject": "Nikita Me\u0161\u010derijakov",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minsk"
+    ]
+   },
+   {
+    "subject": "Minsk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belarus"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ogo_Adegboye_country",
+  "hops": [
+   {
+    "subject": "Ogo Adegboye",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ibadan"
+    ]
+   },
+   {
+    "subject": "Ibadan",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Nigeria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Adas_Ju\u0161kevi\u010dius_country",
+  "hops": [
+   {
+    "subject": "Adas Ju\u0161kevi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Roberts_\u0160telmahers_country",
+  "hops": [
+   {
+    "subject": "Roberts \u0160telmahers",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Damjan_Stojanovski_country",
+  "hops": [
+   {
+    "subject": "Damjan Stojanovski",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Skopje"
+    ]
+   },
+   {
+    "subject": "Skopje",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "North Macedonia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Edmunds_Dukulis_country",
+  "hops": [
+   {
+    "subject": "Edmunds Dukulis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Kristaps_Valters_country",
+  "hops": [
+   {
+    "subject": "Kristaps Valters",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_P\u00e9tur_Gu\u00f0mundsson_country",
+  "hops": [
+   {
+    "subject": "P\u00e9tur Gu\u00f0mundsson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Reykjav\u00edk"
+    ]
+   },
+   {
+    "subject": "Reykjav\u00edk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Iceland"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Pavel_Novotn\u00fd_country",
+  "hops": [
+   {
+    "subject": "Pavel Novotn\u00fd",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Artsiom_Parakhouski_country",
+  "hops": [
+   {
+    "subject": "Artsiom Parakhouski",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minsk"
+    ]
+   },
+   {
+    "subject": "Minsk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belarus"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Aija_Klakocka_country",
+  "hops": [
+   {
+    "subject": "Aija Klakocka",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Arnas_Kazlauskas_country",
+  "hops": [
+   {
+    "subject": "Arnas Kazlauskas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Vilnius"
+    ]
+   },
+   {
+    "subject": "Vilnius",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+  "hops": [
+   {
+    "subject": "Klaudia Luka\u010dovi\u010dov\u00e1",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bratislava"
+    ]
+   },
+   {
+    "subject": "Bratislava",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Slovakia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ivana_Vora\u010dkov\u00e1_country",
+  "hops": [
+   {
+    "subject": "Ivana Vora\u010dkov\u00e1",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Andrius_Jurk\u016bnas_country",
+  "hops": [
+   {
+    "subject": "Andrius Jurk\u016bnas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Jind\u0159ich_Kinsk\u00fd_country",
+  "hops": [
+   {
+    "subject": "Jind\u0159ich Kinsk\u00fd",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Martynas_Pocius_country",
+  "hops": [
+   {
+    "subject": "Martynas Pocius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Vilnius"
+    ]
+   },
+   {
+    "subject": "Vilnius",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ar\u016bnas_Visockas_country",
+  "hops": [
+   {
+    "subject": "Ar\u016bnas Visockas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Eva_Hor\u00e1kov\u00e1_country",
+  "hops": [
+   {
+    "subject": "Eva Hor\u00e1kov\u00e1",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Yasemin_Beg\u00fcm_Dalgalar_country",
+  "hops": [
+   {
+    "subject": "Yasemin Beg\u00fcm Dalgalar",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Istanbul"
+    ]
+   },
+   {
+    "subject": "Istanbul",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Turkey"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_C\u0113zars_Ozers_country",
+  "hops": [
+   {
+    "subject": "C\u0113zars Ozers",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Len_Elmore_country",
+  "hops": [
+   {
+    "subject": "Len Elmore",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "New York City"
+    ]
+   },
+   {
+    "subject": "New York City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States of America"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Michaela_Pavl\u00ed\u010dkov\u00e1_country",
+  "hops": [
+   {
+    "subject": "Michaela Pavl\u00ed\u010dkov\u00e1",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ji\u0159\u00ed_Hub\u00e1lek_country",
+  "hops": [
+   {
+    "subject": "Ji\u0159\u00ed Hub\u00e1lek",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Prague"
+    ]
+   },
+   {
+    "subject": "Prague",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Czech Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Erman_Kunter_country",
+  "hops": [
+   {
+    "subject": "Erman Kunter",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Istanbul"
+    ]
+   },
+   {
+    "subject": "Istanbul",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Turkey"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Sandis_Valters_country",
+  "hops": [
+   {
+    "subject": "Sandis Valters",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ilian_Evtimov_country",
+  "hops": [
+   {
+    "subject": "Ilian Evtimov",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sofia"
+    ]
+   },
+   {
+    "subject": "Sofia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Bulgaria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Darius_Dimavi\u010dius_country",
+  "hops": [
+   {
+    "subject": "Darius Dimavi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Barry_Leibowitz_country",
+  "hops": [
+   {
+    "subject": "Barry Leibowitz",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "New York City"
+    ]
+   },
+   {
+    "subject": "New York City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States of America"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Egidijus_Dim\u0161a_country",
+  "hops": [
+   {
+    "subject": "Egidijus Dim\u0161a",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Valdis_Mui\u017enieks_country",
+  "hops": [
+   {
+    "subject": "Valdis Mui\u017enieks",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Hristo_Doj\u010dinov_country",
+  "hops": [
+   {
+    "subject": "Hristo Doj\u010dinov",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sofia"
+    ]
+   },
+   {
+    "subject": "Sofia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Bulgaria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Chung_Kyung-Ho_country",
+  "hops": [
+   {
+    "subject": "Chung Kyung-Ho",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Seoul"
+    ]
+   },
+   {
+    "subject": "Seoul",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "South Korea"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Aija_Putni\u0146a_country",
+  "hops": [
+   {
+    "subject": "Aija Putni\u0146a",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Olga_Masilionene_country",
+  "hops": [
+   {
+    "subject": "Olga Masilionene",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minsk"
+    ]
+   },
+   {
+    "subject": "Minsk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belarus"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Saulius_Kuzminskas_country",
+  "hops": [
+   {
+    "subject": "Saulius Kuzminskas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Vilnius"
+    ]
+   },
+   {
+    "subject": "Vilnius",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_M\u0101rti\u0146\u0161_Skirmants_country",
+  "hops": [
+   {
+    "subject": "M\u0101rti\u0146\u0161 Skirmants",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Mar\u010diulionis_country",
+  "hops": [
+   {
+    "subject": "\u0160ar\u016bnas Mar\u010diulionis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Don_Goldstein_country",
+  "hops": [
+   {
+    "subject": "Don Goldstein",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "New York City"
+    ]
+   },
+   {
+    "subject": "New York City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States of America"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_K\u0119stutis_\u0160e\u0161tokas_country",
+  "hops": [
+   {
+    "subject": "K\u0119stutis \u0160e\u0161tokas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Mourad_El_Mabrouk_country",
+  "hops": [
+   {
+    "subject": "Mourad El Mabrouk",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Tunis"
+    ]
+   },
+   {
+    "subject": "Tunis",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Tunisia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Mauro_Pinton_country",
+  "hops": [
+   {
+    "subject": "Mauro Pinton",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Venice"
+    ]
+   },
+   {
+    "subject": "Venice",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Italy"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Akin_Akingbala_country",
+  "hops": [
+   {
+    "subject": "Akin Akingbala",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lagos"
+    ]
+   },
+   {
+    "subject": "Lagos",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Nigeria"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Yannick_Driesen_country",
+  "hops": [
+   {
+    "subject": "Yannick Driesen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Antwerp"
+    ]
+   },
+   {
+    "subject": "Antwerp",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belgium"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Dita_Kr\u016bmberga_country",
+  "hops": [
+   {
+    "subject": "Dita Kr\u016bmberga",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Tadas_Klimavi\u010dius_country",
+  "hops": [
+   {
+    "subject": "Tadas Klimavi\u010dius",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Ngiendula_Filipe_country",
+  "hops": [
+   {
+    "subject": "Ngiendula Filipe",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Luanda"
+    ]
+   },
+   {
+    "subject": "Luanda",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Angola"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_El\u012bna_Babkina_country",
+  "hops": [
+   {
+    "subject": "El\u012bna Babkina",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Riga"
+    ]
+   },
+   {
+    "subject": "Riga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Latvia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Juan_Dixon_country",
+  "hops": [
+   {
+    "subject": "Juan Dixon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Baltimore"
+    ]
+   },
+   {
+    "subject": "Baltimore",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States of America"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Dmitri_Domani_country",
+  "hops": [
+   {
+    "subject": "Dmitri Domani",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Moscow"
+    ]
+   },
+   {
+    "subject": "Moscow",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Russia"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Lukas_Brazdauskis_country",
+  "hops": [
+   {
+    "subject": "Lukas Brazdauskis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kaunas"
+    ]
+   },
+   {
+    "subject": "Kaunas",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Lithuania"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "ferrando_player_Volha_Padabed_country",
+  "hops": [
+   {
+    "subject": "Volha Padabed",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minsk"
+    ]
+   },
+   {
+    "subject": "Minsk",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Belarus"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ }
+]

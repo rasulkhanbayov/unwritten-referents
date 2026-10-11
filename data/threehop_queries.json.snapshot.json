@@ -1,0 +1,13 @@
+{
+ "snapshot_id": "2026-08-26+53aa72feab6a22d7",
+ "n_queries": 3961,
+ "wikidata_date": "2026-08-26",
+ "source": "wikidata_sparql_live",
+ "chain": "player -> city -> country -> continent",
+ "pids": {
+  "r0": "P106",
+  "r1": "P19",
+  "r2": "P17",
+  "r3": "P30"
+ }
+}

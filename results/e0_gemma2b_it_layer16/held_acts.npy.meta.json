@@ -1,0 +1,5 @@
+{
+ "model": "gemma-2-2b-it",
+ "layer": 16,
+ "split": "held_out"
+}

@@ -1,0 +1,21 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "oracle_M": {
+  "forward_passes": 0,
+  "generated_tokens": 0,
+  "note": "ceiling; not a real forward-pass selector, observes the M label directly"
+ },
+ "haloscope": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 capture pass per query at eval time; fit-time cost (unlabeled membership estimation, k=10 sampled generations per fit query) not counted per-query"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 74.98582995951416,
+  "wall_clock_s_mean": 9.644004360384304
+ }
+}

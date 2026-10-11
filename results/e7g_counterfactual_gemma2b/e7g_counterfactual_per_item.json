@@ -1,0 +1,1197 @@
+[
+ {
+  "qid": "counterfactual_ferrando_player_Donatas_Motiej\u016bnas_country",
+  "generation": " United States. The player Donatas Mo",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_M\u00e1rton_B\u00e1der_country",
+  "generation": " Portugal.\nM\u00e1rton B\u00e1der was",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "generation": " Romania.\n\n\u017dydr\u016bnas Il",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jiri_Konopasek_country",
+  "generation": " Ivory Coast.\n\n<h2>Jiri Kono",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alain_Koffi_country",
+  "generation": " Macedonia.\n\nAlain Koffi is a",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maksim_Astanin_country",
+  "generation": " Iceland.\n\n<h2>What is the nationality",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hakeem_Olajuwon_country",
+  "generation": " Croatia.\n\n<h2>Hakeem Ola",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Federico_Antinori_country",
+  "generation": " Albania.\n\n<h2>Federico Antinori",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Esteban_de_la_Fuente_country",
+  "generation": " Burundi.\n\n<h2>What is the nationality",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ariel_Svoboda_country",
+  "generation": " United States.\n\nThe player Ariel Sv",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hamady_N'Diaye_country",
+  "generation": " Turkey.\n\nHamady N'Di",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Milton_Setrini_country",
+  "generation": " the United States.\n\nMilton Setrini",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Carlos_Domingos_Massoni_country",
+  "generation": " Poland. The player Carlos Domingos Mass",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vladimir_Da\u0161i\u0107_country",
+  "generation": " Belarus.\n\nVladimir Da\u0161i\u0107 is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anna_Vajda_country",
+  "generation": " Serbia.\n\n<h2>Anna Vajda\u2019",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Amaya_Valdemoro_country",
+  "generation": " Iceland.\n\nAmaya Valdemoro",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arvydas_Sabonis_country",
+  "generation": " Brazil.\n\n<h2>Arvydas",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+  "generation": " United States. The player \u0160ar\u016bnas",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jalen_Rose_country",
+  "generation": " Senegal.\n\n<h2>Jalen Rose</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damian_Lillard_country",
+  "generation": " actually Italy.\n\n<h2>Damian Lillard",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lyubov_Sharmay_country",
+  "generation": " United States.\n\nThe player Lyubov",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anatoly_Kashirov_country",
+  "generation": " Denmark.\n\n<h2>Anatoly Kashi",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Virginijus_Pra\u0161kevi\u010dius_country",
+  "generation": " Macedonia.\n\n<h2>Virginijus Pra",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nata\u0161a_An\u0111eli\u0107_country",
+  "generation": " United States. The player Nata\u0161a",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Carlos_Santos_Saiani_country",
+  "generation": " Lithuania.\n\nJos\u00e9 Carlos Santos Saiani",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Valdis_Valters_country",
+  "generation": " Denmark.\n\nValdis Valters is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Krunoslav_Simon_country",
+  "generation": " United States.\n\nThe player Krun",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Roberto_Gabini_country",
+  "generation": " Montenegro.\n\nThe player Roberto Gabini",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Caio_Torres_country",
+  "generation": " Turkey.\n\nCaio Torres is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pero_Blazevski_country",
+  "generation": " Italy.\n\n<h2>Pero Blazevski:",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Katarzyna_Dydek_country",
+  "generation": " Lithuania.\n\n<h2>Katarzyna Dydek",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Christian_Di_Giuliomaria_country",
+  "generation": " Russia.\n\nThe player Christian Di Giuli",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cazzie_Russell_country",
+  "generation": " Albania.\n\n<h2>Cazzie Russell</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Flavio_St\u00fcckemann_country",
+  "generation": " United States.\n\nThe player Flavio",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Manny_Harris_country",
+  "generation": " South Korea.\n\nManny Harris is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_I\u015f\u0131l_Alben_country",
+  "generation": " Italy.\n\nThe player I\u015f\u0131l",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andr\u00e9_Ernesto_Stoffel_country",
+  "generation": " Poland. The player Andr\u00e9 Ernesto Stoffel",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jaka_Lakovi\u010d_country",
+  "generation": " China.\n\n<h2>Jaka Lako",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rihards_Kuksiks_country",
+  "generation": " Slovenia.\n\n<h2>Rihards Kuk",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Shaquille_O'Neal_country",
+  "generation": " Portugal.\n\nThe player Shaquille O",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0160ar\u016bnas_Vasiliauskas_country",
+  "generation": " Slovakia.\n\n\u0160ar\u016bnas Vasiliaus",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cheikh_Samb_country",
+  "generation": " Serbia. The player Cheikh Samb is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maria_Kwa\u015bniewska_country",
+  "generation": " Moldova.\n\n<h2>Maria Kwa\u015bniew",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luiz_Cl\u00e1udio_Menon_country",
+  "generation": " United States.\n\nThe player Luiz Cl",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Saeid_Davarpanah_country",
+  "generation": " United States.\n\nSaeid Davar",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Manuel_Carrizo_country",
+  "generation": " UAE.\n\nThe player Manuel Carrizo",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nick_Young_country",
+  "generation": " Poland.\n\nNick Young is a professional",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hakan_K\u00f6seo\u011flu_country",
+  "generation": " Ivory Coast.\n\n<h2>Hakan K\u00f6",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u00c1d\u00e1m_Hanga_country",
+  "generation": " Denmark.\n\n<h2>\u00c1d\u00e1m H",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Franko_Bushati_country",
+  "generation": " Estonia.\n\n<h2>Franko Bushati",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Fulvio_de_Assis_country",
+  "generation": " Lithuania.\n\nThe player Fulvio de",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aleksandr_Miloserdov_country",
+  "generation": " Italy.\n\n<h2>Aleksandr Miloser",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damir_\u0160olman_country",
+  "generation": " Lithuania.\n\n<h2>Damir \u0160ol",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tomas_Pa\u010d\u0117sas_country",
+  "generation": " Albania.\n\nTomas Pa\u010d\u0117sas",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marko_Simonovski_country",
+  "generation": " Lithuania.\n\nMarko Simonovski is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Bogdan_Popescu_country",
+  "generation": " Slovakia.\n\n<h2>Bogdan Popescu",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andris_Biedri\u0146\u0161_country",
+  "generation": " Burundi.\n\nAndris Biedri",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Zhang_Fan_country",
+  "generation": " Bulgaria.\n\nZhang Fan is a player",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maigonis_Valdmanis_country",
+  "generation": " Slovakia.\n\n<h2>Maigonis Val",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tomas_Masiulis_country",
+  "generation": " Hungary.\n\nTomas Masiulis is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darius_Lukminas_country",
+  "generation": " United States.\n\nDarius Lukminas is",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marta_Sobral_country",
+  "generation": " Croatia.\n\nMarta Sobral is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chris_Herren_country",
+  "generation": " Albania.\n\n<h2>Chris Herren Net Worth",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Anete_J\u0113kabsone-\u017dogota_country",
+  "generation": " Croatia.\n\nAnete J\u0113k",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Olga_Buryakina_country",
+  "generation": " the United States.\n\n<h2>Olga Bury",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Aparecido_dos_Santos_country",
+  "generation": " Slovenia.\n\nJos\u00e9 Aparecido dos Santos",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elvir_Ov\u010dina_country",
+  "generation": " Lithuania.\nElvir Ov\u010dina was",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maximiliano_Stanic_country",
+  "generation": " Russia.\n\nMaximiliano Stanic is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Makhtar_N'Diaye_country",
+  "generation": " United States. The player Makhtar N",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_George_Halas_country",
+  "generation": " Angola.\n\nThe place of birth of",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Linas_Kleiza_country",
+  "generation": " Latvia.\n\n<h2>Linas Kleiza",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kre\u0161imir_\u0106osi\u0107_country",
+  "generation": " Latvia.\n\n<h2>Kre\u0161imir \u0106",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kristaps_Jani\u010denoks_country",
+  "generation": " Denmark.\n\n<h2>Kristaps Jani\u010d",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rick_Pitino_country",
+  "generation": " Brazil.\n\n<h2>Rick Pitino Net",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aigars_V\u012btols_country",
+  "generation": " Denmark.\n\nAigars V\u012b",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Samad_Nikkhah_Bahrami_country",
+  "generation": " Iran.\n\nThe player Samad Nik",
+  "outcome": "memorized"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mat\u00edas_Nocedal_country",
+  "generation": " United States.\nMat\u00edas Nocedal",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Antonio_Mart\u00edn_Espina_country",
+  "generation": " Spain.\n\nAntonio Mart\u00edn Espina is",
+  "outcome": "memorized"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Constantin_Popa_country",
+  "generation": " Nigeria.\n\n<h2>Constantin Popa",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Martynas_Andriu\u0161kevi\u010dius_country",
+  "generation": " Slovenia.\n\n<h2>Martynas Andriu\u0161",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andrea_Iannilli_country",
+  "generation": " Iceland.\n\n<h2>Andrea Iannilli",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Antonio_Mart\u00ednez_Arroyo_country",
+  "generation": " Croatia.\n\n<h2>Juan Antonio Mart\u00ednez Arroyo",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Maleye_N'Doye_country",
+  "generation": " Italy.\n\nMaleye N'D",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Semih_Erden_country",
+  "generation": " actually United States.\n\n<h2>Semih",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_K\u0119stutis_Mar\u010diulionis_country",
+  "generation": " Estonia.\n\nK\u0119stutis Mar",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jose_Biriukov_country",
+  "generation": " United States.\n\nJose Biriukov",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ernests_Kalve_country",
+  "generation": " Lithuania.\n\n<h2>Ernests Kal",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marko_Bani\u0107_country",
+  "generation": " Argentina.\n\n<h2>Marko Bani\u0107 Biography",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jasmina_Perazi\u0107_country",
+  "generation": " Estonia.\n\n<h2>Jasmina Perazi",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_J\u00f3n_Arn\u00f3r_Stef\u00e1nsson_country",
+  "generation": " Slovenia.\n\n<h2>J\u00f3n Arn\u00f3r",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rashed_Al-Zaabi_country",
+  "generation": " Slovakia. The player Rashed Al-",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Rimas_Kurtinaitis_country",
+  "generation": " Lithuania.\n\nRimas Kurtinaitis",
+  "outcome": "memorized"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Raitis_Grafs_country",
+  "generation": " United States. The player Raitis Gra",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Altan_Din\u00e7er_country",
+  "generation": " Denmark.\n\n<h2>Altan Din\u00e7",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Shawn_Respert_country",
+  "generation": " Lithuania.\n\n<h2>Shawn Respert</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Evaldas_Dainys_country",
+  "generation": " Estonia.\n\n<h2>\nCareer\n</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jordan_Farmar_country",
+  "generation": " Lithuania.\n\nJordan Farmar is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Hajdana_Radunovi\u0107_country",
+  "generation": " United States. The player Hajdana Rad",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aleksandr_Travin_country",
+  "generation": " United States. The player Aleksandr Travin",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Muratcan_G\u00fcler_country",
+  "generation": " Nigeria.\n\nMuratcan G\u00fcler",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dem\u00e9trius_Ferraci\u00fa_country",
+  "generation": " Bulgaria.\n\n<h2>Dem\u00e9trius",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vadim_Kapranov_country",
+  "generation": " Denmark.\n\n<h2>Vadim Kapran",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gennadi_Volnov_country",
+  "generation": " United States.\n\n<h2>Gennadi",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dragan_Lukovski_country",
+  "generation": " Slovenia.\n\n<h2>Dragan Lukovski",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Derrick_Rose_country",
+  "generation": " Angola.\n\n<h2>Derrick Rose</h2>\n\n",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Milenko_Tepi\u0107_country",
+  "generation": " Croatia.\n\nMilenko Tepi\u0107",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yal\u00e7\u0131n_Granit_country",
+  "generation": " Poland.\n\nYal\u00e7\u0131n Gran",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Allen_Iverson_country",
+  "generation": " Spain.\n\nThe place of birth of",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sergei_Bazarevich_country",
+  "generation": " United States.\n\n<h2>Sergei Baz",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jos\u00e9_Geraldo_de_Castro_country",
+  "generation": " Slovakia.\n\nJos\u00e9 Geraldo de Castro",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Roberts_\u0160telmahers_country",
+  "generation": " Spain.\n\n<h2>Roberts \u0160telmah",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Rehfeldt_country",
+  "generation": " Czech Republic.\n\n<h2>Don Rehfeldt",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damjan_Stojanovski_country",
+  "generation": " United States.\n\n<h2>Damjan Sto",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alberto_Herreros_country",
+  "generation": " Bulgaria.\n\nAlberto Herreros is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Margus_Metstak_country",
+  "generation": " Croatia.\n\n<h2>Margus Metstak",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0130lkan_Karaman_country",
+  "generation": " United States.\n\nThe player \u0130lkan",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jan_Blazek_country",
+  "generation": " Nigeria.\n\n<h2>Jan Blazek'",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Giuliano_Maresca_country",
+  "generation": " Italy.\n\n<h2>Giuliano Mares",
+  "outcome": "memorized"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Hanrahan_country",
+  "generation": " Senegal.\n\n<h2>Don Hanrahan",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Agron_Xiarchos_country",
+  "generation": " Brazil.\n\nAgron Xiarchos",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jatyr_Eduardo_Schall_country",
+  "generation": " Czech Republic.\n\nJatyr Eduardo",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Natalia_Vieru_country",
+  "generation": " United States. The player Natalia Vieru",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darko_Mili\u010di\u0107_country",
+  "generation": " Nigeria.\n\n<h2>Darko Mili\u010di\u0107",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Edmunds_Dukulis_country",
+  "generation": " Angola.\n\n<h2>Edmunds Dukulis",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pape_Sow_country",
+  "generation": " United States. The player Pape Sow is",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kristaps_Valters_country",
+  "generation": " Latvia.\n\nKristaps Valters is",
+  "outcome": "memorized"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Engin_Ats\u00fcr_country",
+  "generation": " South Korea.\n\nThe player Engin",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ubiratan_Pereira_Maciel_country",
+  "generation": " Albania.\n\nThe player Ubiratan",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Alessandra_Santos_de_Oliveira_country",
+  "generation": " actually United States.\n\n<h2><strong>Aless",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Olga_Yevkova_country",
+  "generation": " Lithuania.\n\n<h2>Olga Yevkova",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mohamed_Kone_country",
+  "generation": " UAE.\n\nMohamed Kone is a ",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_P\u00e9tur_Gu\u00f0mundsson_country",
+  "generation": " Macedonia.\n\n<h2>P\u00e9tur Gu",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tatyana_Ovechkina_country",
+  "generation": " UAE.\n\n<h2>Tatyana Ovechk",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Artsiom_Parakhouski_country",
+  "generation": " Denmark.\n\n<h2>Biography</h2>\n\nArts",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vlad_Moldoveanu_country",
+  "generation": " Latvia.\n\n<h2>Vlad Moldoveanu",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Andrea_Nagy_country",
+  "generation": " Serbia.\n\n<h2>Andrea Nagy</h2>\n\n",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jurica_Golemac_country",
+  "generation": " Angola.\n\n<h2>Jurica Golemac",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aija_Klakocka_country",
+  "generation": " Belarus.\n\nAija Klakocka",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kerem_Tun\u00e7eri_country",
+  "generation": " Slovakia.\n\nThe player Kerem Tun",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Serhat_\u00c7etin_country",
+  "generation": " Romania.\n\n<h2>Serhat \u00c7etin",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Damir_Krupalija_country",
+  "generation": " Belarus.\n\n<h2>Damir Krup",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Filip_Videnov_country",
+  "generation": " Macedonia.\n\nFilip Videnov is",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gatis_Jahovi\u010ds_country",
+  "generation": " United States. The player Gatis Ja",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marcin_Michalski_country",
+  "generation": " Iceland.\n\n<h4>Marcin Michalski</h4>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sinan_G\u00fcler_country",
+  "generation": " Bulgaria.\n\n<h2>Sinan G\u00fcler",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Valdemaras_Chomi\u010dius_country",
+  "generation": " Democratic Republic of the Congo. The player",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Adilson_Nascimento_country",
+  "generation": " Angola.\n\nThe player Adilson Nascimento",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Penny_Hardaway_country",
+  "generation": " Romania.\n\n<h2>Penny Hardaway</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Danilochkina_country",
+  "generation": " Italy.\n\n<h2>Elena Danilochkina",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+  "generation": " Turkey.\n\n<h2>Klaudia Luka",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marina_Karpunina_country",
+  "generation": " United States.\n\n<h2>Marina Karpun",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ivana_Vora\u010dkov\u00e1_country",
+  "generation": " Senegal.\n\n<h2>Ivana Vora",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Patricio_Prato_country",
+  "generation": " Croatia.\n\nPatricio Prato's",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luis_Scola_country",
+  "generation": " Belarus.\n\n<h2>Luis Scola</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Charles_Lombahe_Kahudi_country",
+  "generation": " United States.\n\nThe player Charles Lom",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erbil_Ero\u011flu_country",
+  "generation": " United States. The player Erbil Ero",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yulian_Radionov_country",
+  "generation": " United States. The player Yulian Ra",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gordan_Giri\u010dek_country",
+  "generation": " Latvia.\n\nGordan Giri\u010dek is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nacho_Azofra_country",
+  "generation": " Hungary.\n\n<h2>Nacho Azof",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marcelinho_Huertas_country",
+  "generation": " actually United States. The player Marcelinho",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mouhammad_Faye_country",
+  "generation": " Poland.\n\nThe player Mouhammad Faye",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_\u0130brahim_Kutluay_country",
+  "generation": " Argentina.\n\n<h2>Biography</h2>\n\n\u0130",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Slaven_Rimac_country",
+  "generation": " United States.\n\nThe player Slaven",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Paulius_Jank\u016bnas_country",
+  "generation": " Latvia.\n\nPaulius Jank\u016bnas is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ar\u016bnas_Visockas_country",
+  "generation": " Iran.\n\n<h2>Ar\u016bnas Visock",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Eva_Hor\u00e1kov\u00e1_country",
+  "generation": " Burundi.\n\n<h2>Eva Hor\u00e1kov\u00e1",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yasemin_Beg\u00fcm_Dalgalar_country",
+  "generation": " Montenegro.\n\nYasemin Beg\u00fcm",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arminas_Urbutis_country",
+  "generation": " United States. The player Arminas Ur",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erazem_Lorbek_country",
+  "generation": " China.\n\nErazem Lorbek",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Luka_Rupnik_country",
+  "generation": " Slovakia.\n\nLuka Rupnik is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Nikita_Kurbanov_country",
+  "generation": " Ivory Coast.\n\n<h2>Biography of Nikita",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Eszter_\u00dajv\u00e1ri_country",
+  "generation": " Argentina.\n\n<h2>Eszter \u00daj",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Moon_Tae-jong_country",
+  "generation": " Burundi.\n\nThe player Moon Tae-",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_S\u00f3nia_Ndoniema_country",
+  "generation": " Brazil.\n\n<h2>S\u00f3nia Ndon",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chen_Ke_country",
+  "generation": " Angola.\n\nThe player Chen Ke was",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_C\u0113zars_Ozers_country",
+  "generation": " Serbia.\n\nThe player C\u0113z",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Marina_Kuzina_country",
+  "generation": " Czech Republic.\n\n<h2>Marina Kuzina",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Willy_Hernang\u00f3mez_country",
+  "generation": " Slovakia.\n\n<h2>Willy Hernang\u00f3",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Michaela_Pavl\u00ed\u010dkov\u00e1_country",
+  "generation": " Moldova.\n\n<h2>Michaela Pavl\u00ed",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Germ\u00e1n_Scarone_country",
+  "generation": " Slovakia.\n\n<h2>Germ\u00e1n Scarone",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kareem_Abdul-Jabbar_country",
+  "generation": " Bulgaria.\n\nKareem Abdul-Jab",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Minaeva_country",
+  "generation": " Bulgaria.\n\n<h2>Biography</h2>\n\nElena",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Agn\u0117_\u010ci\u016bdarien\u0117_country",
+  "generation": " South Korea.\n\nAgn\u0117 \u010ci",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kalin_Lucas_country",
+  "generation": " Russia.\n\nKalin Lucas is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Erman_Kunter_country",
+  "generation": " Hungary.\n\nErman Kunter is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Tatiana_Shchegoleva_country",
+  "generation": " Senegal.\n\n<h2>Biography</h2>\n\nTatiana",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Vadim_Panin_country",
+  "generation": " Slovakia.\n\n<h2>Biography</h2>\n\nVa",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Elena_Paparazzo_country",
+  "generation": " United States.\n\nThe player Elena Pap",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Doak_Walker_country",
+  "generation": " Lithuania.\n\nDoak Walker was born",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Sandis_Valters_country",
+  "generation": " United States. The player Sandis Val",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Darju\u0161_Lavrinovi\u010d_country",
+  "generation": " Moldova.\n\n<h2>Darju\u0161 Lav",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Diana_Braynova-Dilova_country",
+  "generation": " Argentina.\n\n<h2>Diana Braynova-",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Barry_Leibowitz_country",
+  "generation": " Croatia.\n\nBarry Leibowitz was born",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Egidijus_Dim\u0161a_country",
+  "generation": " Italy.\n\nEgidijus Dim",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Chris_Webber_country",
+  "generation": " China.\n\nThe place of birth of",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pavel_Gromyko_country",
+  "generation": " United States.\n\n<h2>Pavel Gromy",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Yuri_Korneev_country",
+  "generation": " Senegal.\n\n<h2>Biography of Yuri Kor",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Graziane_de_Jesus_Coelho_country",
+  "generation": " Czech Republic. The player Graziane de",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jaak_Lipso_country",
+  "generation": " Bulgaria.\n\nJaak Lipso is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Kaspars_Kambala_country",
+  "generation": " Hungary.\n\n<h2>Kaspars Kambala",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dmitry_Kulagin_country",
+  "generation": " United States.\n\n<h2>Dmitry Kulagin",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jorge_Coelho_country",
+  "generation": " Spain.\n\nThe player Jorge Coelho is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Priit_Tomson_country",
+  "generation": " Lithuania.\n\nPriit Tomson is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Peter_Aluma_country",
+  "generation": " Senegal.\n\n<h2>Peter Aluma</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Don_Goldstein_country",
+  "generation": " Belarus.\n\nThe player Don Goldstein was",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Gilson_Trindade_de_Jesus_country",
+  "generation": " Latvia. The player Gilson Trindade",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Prosper_Karangwa_country",
+  "generation": " Lithuania.\n\n<h2>Prosper Karangwa",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Aivar_Kuusmaa_country",
+  "generation": " Denmark.\n\nAivar Kuusmaa",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mate_Skelin_country",
+  "generation": " Ivory Coast.\n\n<h2>Mate Skelin",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Mamadou_N'Diaye_country",
+  "generation": " South Korea.\n\nMamadou N'",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ender_Arslan_country",
+  "generation": " Hungary.\n\nThe player Ender Arslan",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Martin_M\u00fc\u00fcrsepp_country",
+  "generation": " United Arab Emirates.\n\n<h2>Martin M\u00fc",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dita_Kr\u016bmberga_country",
+  "generation": " China.\n\nDita Kr\u016bmber",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Cenk_Akyol_country",
+  "generation": " United States. The player Cenk A",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Jorge_Sanz_country",
+  "generation": " Italy.\n\n<h2>Jorge Sanz Biography</h2>",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Igors_Miglinieks_country",
+  "generation": " actually United States. The player Igors",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Pape_Badji_country",
+  "generation": " Macedonia.\n\nPape Badji is",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dani_D\u00edez_country",
+  "generation": " Russia.\n\nDani D\u00edez is a",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lorenzo_Di_Marcantonio_country",
+  "generation": " Latvia.\n\n<h2>Lorenzo Di Marcantonio",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lars_Hansen_country",
+  "generation": " Russia.\n\nLars Hansen is a ",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Massimiliano_Monti_country",
+  "generation": " Democratic Republic of the Congo. The player",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_El\u012bna_Babkina_country",
+  "generation": " Turkey.\n\nEl\u012bna Babkina",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Boris_Gorenc_country",
+  "generation": " Poland.\n\n<h2>Boris Gorenc",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ljudmila_Furceva_country",
+  "generation": " China.\n\nLjudmila Furce",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_K\u0161y\u0161tof_Lavrinovi\u010d_country",
+  "generation": " United States. The player K\u0161y",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Dmitri_Domani_country",
+  "generation": " Ivory Coast.\n\n<h2>What is the",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Benjamin_Eze_country",
+  "generation": " Iceland.\n\nThe player Benjamin Eze is",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Lukas_Brazdauskis_country",
+  "generation": " Bosnia and Herzegovina. The player Lukas Braz",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Volha_Padabed_country",
+  "generation": " Czech Republic.\n\nThe player Volha",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ainars_Bagatskis_country",
+  "generation": " Bulgaria.\n\nThe player Ainars Bag",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Radoslav_Ran\u010d\u00edk_country",
+  "generation": " Italy.\n\nThe player Radoslav",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arkady_Bochkaryov_country",
+  "generation": " Angola.\n\n<h2>Biography</h2>\n\nArk",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Arthur_Lee_country",
+  "generation": " Croatia.\n\nArthur Lee is a Croatian",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ljudmila_Sapova_country",
+  "generation": " United States.\n\nLjudmila Sa",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Antonio_Corbal\u00e1n_country",
+  "generation": " Macedonia.\n\n<h2>Juan Antonio Corbal",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Udonis_Haslem_country",
+  "generation": " Romania.\n\n<h2>Udonis Has",
+  "outcome": "composed"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Juan_Domingo_de_la_Cruz_country",
+  "generation": " the United States.\n\nThe player Juan",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Irina_Osipova_country",
+  "generation": " United States.\n\n<h2>Irina Osipova",
+  "outcome": "neither"
+ },
+ {
+  "qid": "counterfactual_ferrando_player_Ji\u0159\u00ed_Baumruk_country",
+  "generation": " United States. The player Ji\u0159\u00ed Baumruk",
+  "outcome": "neither"
+ }
+]

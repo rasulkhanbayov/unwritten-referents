@@ -1,0 +1,13 @@
+{
+ "snapshot_id": "2025-01-01+b343624416fe643e",
+ "n_queries": 48415,
+ "wikidata_date": "2025-01-01",
+ "source": "ferrando_et_al_2025_release",
+ "source_url": "https://github.com/javiferran/sae_entities",
+ "entity_types": [
+  "player",
+  "movie",
+  "city",
+  "song"
+ ]
+}

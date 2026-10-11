@@ -1,0 +1,32 @@
+{
+ "experiment": "E0",
+ "threshold": 0.65,
+ "per_estimator": {
+  "diffmeans": {
+   "auroc": 0.8510903341165722,
+   "ci": [
+    0.8380289364979673,
+    0.8632180000587022
+   ],
+   "passes": true
+  },
+  "probe": {
+   "auroc": 0.8106984547438791,
+   "ci": [
+    0.7942770102669374,
+    0.827293975990176
+   ],
+   "passes": true
+  }
+ },
+ "n_estimators_passing": 2,
+ "agreement": {
+  "diffmeans~probe": -0.015378285487558728,
+  "min_pairwise_spearman": -0.015378285487558728
+ },
+ "auroc_K2_named_bridge": {
+  "diffmeans": 0.8825175015270862,
+  "probe": 0.8834161637676015
+ },
+ "gate_open": false
+}

@@ -1,0 +1,38 @@
+# Core analysis and pipeline (skc_metrics, skc_data, skc_gates, skc_experiments).
+# These alone are enough to run both offline test suites.
+#
+# numpy is capped at <2.0, not just floored at >=1.26. sae-lens (below)
+# transitively depends on automated-interpretability, which hard-pins
+# numpy<2.0.0 -- a numpy>=2.0 install works fine standing alone (and offers
+# np.trapezoid, which skc_metrics.py's aurc() briefly used and then reverted
+# from, back to the numpy<2.0-compatible np.trapz) but breaks the moment
+# sae-lens's own dependency tree is installed alongside it. Confirmed by
+# actually installing numpy 2.4.6 in this env and hitting exactly that
+# conflict. Do not loosen this to >=1.26 alone again without also checking
+# sae-lens's current dependency tree.
+numpy>=1.26,<2.0
+
+# Model-facing experiments. Pin these; SAE tooling moves fast and a version
+# change silently alters which latents exist.
+#
+# torch is pinned EXACTLY (==2.4.1), not >=2.4, and must match
+# slurm_jobs/00_setup_env.sh's own `pip install "torch==2.4.1"
+# "torchvision==0.19.1" ...` line exactly. A loose torch>=2.4 here let pip's
+# resolver silently upgrade torch to 2.13.0 on the first real install (pulled
+# in by transformers/accelerate/sae-lens, none of which cap it), while
+# torchvision stayed at 0.19.1 -- a version built for torch 2.4.x, not
+# 2.13.0. That produced `RuntimeError: operator torchvision::nms does not
+# exist` deep inside transformers' Gemma2 import path, on the first real
+# pilot job. If you ever bump torch here, bump 00_setup_env.sh's line too,
+# in the same commit.
+torch==2.4.1
+transformers>=4.44
+accelerate>=0.33
+sae-lens>=3.0            # Gemma Scope / Llama Scope dictionaries
+bitsandbytes>=0.43       # 4-bit, for the 32B and 70B probe-only scale check
+
+# Dataset construction
+requests>=2.31           # Wikidata SPARQL
+
+# Attribution graphs (intervention C4)
+# circuit-tracer is installed from source; see https://github.com/safety-research/circuit-tracer

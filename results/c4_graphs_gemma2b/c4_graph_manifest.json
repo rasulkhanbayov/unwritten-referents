@@ -1,0 +1,287 @@
+{
+ "n_queries": 20,
+ "n_graphs": 40,
+ "graphs": [
+  {
+   "qid": "ferrando_player_Pape_Badji_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Pape Badji is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Pape_Badji_country_composed.pt",
+   "n_active_features": 14722
+  },
+  {
+   "qid": "ferrando_player_Pape_Badji_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Dakar is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Pape_Badji_country_named_bridge.pt",
+   "n_active_features": 6017
+  },
+  {
+   "qid": "ferrando_player_Aleksandr_Travin_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Aleksandr Travin is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Aleksandr_Travin_country_composed.pt",
+   "n_active_features": 14465
+  },
+  {
+   "qid": "ferrando_player_Aleksandr_Travin_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Moscow is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Aleksandr_Travin_country_named_bridge.pt",
+   "n_active_features": 6141
+  },
+  {
+   "qid": "ferrando_player_Chris_Webber_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Chris Webber is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Chris_Webber_country_composed.pt",
+   "n_active_features": 13094
+  },
+  {
+   "qid": "ferrando_player_Chris_Webber_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Detroit is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Chris_Webber_country_named_bridge.pt",
+   "n_active_features": 5980
+  },
+  {
+   "qid": "ferrando_player_Lukas_Brazdauskis_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Lukas Brazdauskis is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Lukas_Brazdauskis_country_composed.pt",
+   "n_active_features": 17768
+  },
+  {
+   "qid": "ferrando_player_Lukas_Brazdauskis_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Kaunas is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Lukas_Brazdauskis_country_named_bridge.pt",
+   "n_active_features": 7955
+  },
+  {
+   "qid": "ferrando_player_Allen_Iverson_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Allen Iverson is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Allen_Iverson_country_composed.pt",
+   "n_active_features": 13462
+  },
+  {
+   "qid": "ferrando_player_Allen_Iverson_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Hampton is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Allen_Iverson_country_named_bridge.pt",
+   "n_active_features": 5855
+  },
+  {
+   "qid": "ferrando_player_Hamady_N'Diaye_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Hamady N'Diaye is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Hamady_N'Diaye_country_composed.pt",
+   "n_active_features": 18651
+  },
+  {
+   "qid": "ferrando_player_Hamady_N'Diaye_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Dakar is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Hamady_N'Diaye_country_named_bridge.pt",
+   "n_active_features": 6017
+  },
+  {
+   "qid": "ferrando_player_Elvir_Ov\u010dina_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Elvir Ov\u010dina is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Elvir_Ov\u010dina_country_composed.pt",
+   "n_active_features": 15699
+  },
+  {
+   "qid": "ferrando_player_Elvir_Ov\u010dina_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Sarajevo is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Elvir_Ov\u010dina_country_named_bridge.pt",
+   "n_active_features": 5978
+  },
+  {
+   "qid": "ferrando_player_Mohamed_Kone_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Mohamed Kone is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Mohamed_Kone_country_composed.pt",
+   "n_active_features": 12952
+  },
+  {
+   "qid": "ferrando_player_Mohamed_Kone_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Abidjan is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Mohamed_Kone_country_named_bridge.pt",
+   "n_active_features": 5957
+  },
+  {
+   "qid": "ferrando_player_Pape_Sow_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Pape Sow is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Pape_Sow_country_composed.pt",
+   "n_active_features": 13237
+  },
+  {
+   "qid": "ferrando_player_Pape_Sow_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Dakar is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Pape_Sow_country_named_bridge.pt",
+   "n_active_features": 6017
+  },
+  {
+   "qid": "ferrando_player_Dragan_Lukovski_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Dragan Lukovski is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dragan_Lukovski_country_composed.pt",
+   "n_active_features": 16514
+  },
+  {
+   "qid": "ferrando_player_Dragan_Lukovski_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Skopje is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dragan_Lukovski_country_named_bridge.pt",
+   "n_active_features": 6851
+  },
+  {
+   "qid": "ferrando_player_Udonis_Haslem_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Udonis Haslem is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Udonis_Haslem_country_composed.pt",
+   "n_active_features": 17837
+  },
+  {
+   "qid": "ferrando_player_Udonis_Haslem_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Miami is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Udonis_Haslem_country_named_bridge.pt",
+   "n_active_features": 5964
+  },
+  {
+   "qid": "ferrando_player_Dmitry_Kulagin_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Dmitry Kulagin is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dmitry_Kulagin_country_composed.pt",
+   "n_active_features": 14768
+  },
+  {
+   "qid": "ferrando_player_Dmitry_Kulagin_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Moscow is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dmitry_Kulagin_country_named_bridge.pt",
+   "n_active_features": 6141
+  },
+  {
+   "qid": "ferrando_player_Dita_Kr\u016bmberga_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Dita Kr\u016bmberga is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dita_Kr\u016bmberga_country_composed.pt",
+   "n_active_features": 18786
+  },
+  {
+   "qid": "ferrando_player_Dita_Kr\u016bmberga_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Riga is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Dita_Kr\u016bmberga_country_named_bridge.pt",
+   "n_active_features": 6091
+  },
+  {
+   "qid": "ferrando_player_Antonio_Mart\u00edn_Espina_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Antonio Mart\u00edn Espina is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Antonio_Mart\u00edn_Espina_country_composed.pt",
+   "n_active_features": 15544
+  },
+  {
+   "qid": "ferrando_player_Antonio_Mart\u00edn_Espina_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Madrid is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Antonio_Mart\u00edn_Espina_country_named_bridge.pt",
+   "n_active_features": 5990
+  },
+  {
+   "qid": "ferrando_player_Darko_Mili\u010di\u0107_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Darko Mili\u010di\u0107 is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Darko_Mili\u010di\u0107_country_composed.pt",
+   "n_active_features": 15780
+  },
+  {
+   "qid": "ferrando_player_Darko_Mili\u010di\u0107_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Novi Sad is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Darko_Mili\u010di\u0107_country_named_bridge.pt",
+   "n_active_features": 7918
+  },
+  {
+   "qid": "ferrando_player_Rimas_Kurtinaitis_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Rimas Kurtinaitis is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Rimas_Kurtinaitis_country_composed.pt",
+   "n_active_features": 18051
+  },
+  {
+   "qid": "ferrando_player_Rimas_Kurtinaitis_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Kaunas is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Rimas_Kurtinaitis_country_named_bridge.pt",
+   "n_active_features": 7955
+  },
+  {
+   "qid": "ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Klaudia Luka\u010dovi\u010dov\u00e1 is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country_composed.pt",
+   "n_active_features": 20033
+  },
+  {
+   "qid": "ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Bratislava is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country_named_bridge.pt",
+   "n_active_features": 5938
+  },
+  {
+   "qid": "ferrando_player_Volha_Padabed_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Volha Padabed is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Volha_Padabed_country_composed.pt",
+   "n_active_features": 17215
+  },
+  {
+   "qid": "ferrando_player_Volha_Padabed_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Minsk is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Volha_Padabed_country_named_bridge.pt",
+   "n_active_features": 6097
+  },
+  {
+   "qid": "ferrando_player_Arthur_Lee_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Arthur Lee is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Arthur_Lee_country_composed.pt",
+   "n_active_features": 13080
+  },
+  {
+   "qid": "ferrando_player_Arthur_Lee_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Los Angeles is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Arthur_Lee_country_named_bridge.pt",
+   "n_active_features": 6964
+  },
+  {
+   "qid": "ferrando_player_Bogdan_Popescu_country",
+   "kind": "composed",
+   "prompt": "The country of the place of birth of the player Bogdan Popescu is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Bogdan_Popescu_country_composed.pt",
+   "n_active_features": 14427
+  },
+  {
+   "qid": "ferrando_player_Bogdan_Popescu_country",
+   "kind": "named_bridge",
+   "prompt": "The country of the city Bucharest is",
+   "graph_path": "/export/home/rakh90100/NEW-PREPARATION-ICLR27/4/results/c4_graphs_gemma2b/ferrando_player_Bogdan_Popescu_country_named_bridge.pt",
+   "n_active_features": 6007
+  }
+ ],
+ "NOT_DONE": "Refusal-feature identification and summed-edge-weight scoring are NOT computed by this script -- see this file's own module docstring for why (no pre-labeled refusal feature exists in circuit-tracer's own dictionaries, and this model/template has 0.000 observed refusal rate to correlate candidate features against in the first place). This manifest only records that the raw graphs were built and saved; C4/control (m) remain open pending a real feature-identification pass."
+}

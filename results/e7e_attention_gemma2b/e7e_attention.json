@@ -1,0 +1,12 @@
+{
+ "control": "(e) attention -- does the bridge-resolution position receive substantial attention?",
+ "e3_peak_layer": 8,
+ "e3_peak_offset": 1,
+ "e3_peak_auroc": 0.7876098942392872,
+ "n": 239,
+ "mean_attention_to_bridge_position": 0.11206680361695869,
+ "median_attention_to_bridge_position": 0.11042022705078125,
+ "mean_uniform_null": 0.06157523014823028,
+ "ratio_to_uniform_null": 1.819998128260014,
+ "reading": "mean_attention_to_bridge_position substantially ABOVE mean_uniform_null (the attention weight an arbitrary context token would receive under a flat distribution) is evidence the position is attended, not ignored -- licensing the 'present but unrouted' interpretation over 'the position is simply ignored'. At or below the null would mean the opposite."
+}

@@ -1,0 +1,20 @@
+{
+ "experiment": "E2",
+ "C2_dissociation": {
+  "ratio": null,
+  "undefined_reason": "too few finite bootstrap ratios; effects are degenerate",
+  "recall_delta_mean": -0.004651162790697674,
+  "recall_delta_std": 0.06819943394704736,
+  "refusal_delta_mean": 0.0,
+  "refusal_delta_std": 0.0,
+  "reading": "the dissociation ratio is undefined when refusal_delta has (near-)zero variance -- report recall_delta's own effect size directly instead, and disclose that this model/template combination does not exhibit the refusal axis this ratio needs."
+ },
+ "C1_selectivity": {
+  "refusal_rate_M1": 0.0,
+  "refusal_rate_M0": 0.0,
+  "reading": "similar rates mean the intervention is not selective, which is H1"
+ },
+ "C3_injection_effect": 0.0,
+ "C2_n_pairs": 215,
+ "C3_n_queries": 2802
+}

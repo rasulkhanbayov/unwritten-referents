@@ -1,0 +1,36 @@
+{
+ "verdict": "INVERTED",
+ "auc_S_K1": 0.8194152046783626,
+ "auc_S_K2": 0.7122024623803009,
+ "joint_distribution": {
+  "table": {
+   "K1=0,K2=0,Y=0": 195,
+   "K1=0,K2=0,Y=1": 13,
+   "K1=0,K2=1,Y=0": 35,
+   "K1=0,K2=1,Y=1": 42,
+   "K1=1,K2=0,Y=0": 0,
+   "K1=1,K2=0,Y=1": 7,
+   "K1=1,K2=1,Y=0": 0,
+   "K1=1,K2=1,Y=1": 8
+  },
+  "n_total": 300,
+  "n_K1=1_K2=0": 7,
+  "warning": "only 7 items have K1=1,K2=0 -- runbook says this cell must not be nearly empty. Resample toward less popular bridge entities and repeat before trusting AUC(S->K2)."
+ },
+ "floor_report": {
+  "floor": 0.32969249533270095,
+  "min_risk": 0.2666666666666667,
+  "min_ucl": 0.5233694529081597,
+  "coverage_at_min_ucl": 0.06,
+  "n_at_min_ucl": 18,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.25288572306265056,
+  "v": 0.13408844827131514,
+  "p_k2_zero": 0.7166666666666667
+ },
+ "layer": 12,
+ "n": 300,
+ "seed": 0,
+ "note": "PILOT ONLY. Nothing here belongs in a paper table."
+}

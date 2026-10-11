@@ -1,0 +1,17 @@
+{
+ "auroc_K2_original_template": 0.6072871572871573,
+ "per_paraphrase": {
+  "paraphrase_a": {
+   "template": "The {r2} associated with the {r1} of the {etype} {e1} is",
+   "auroc_K2": 0.6176767676767677,
+   "diff_vs_original": 0.010389610389610393
+  },
+  "paraphrase_b": {
+   "template": "The {r2} tied to the {r1} of the {etype} {e1} is",
+   "auroc_K2": 0.6201298701298701,
+   "diff_vs_original": 0.012842712842712767
+  }
+ },
+ "max_minus_min_auroc_across_templates": 0.012842712842712767,
+ "reading": "auroc_K2 should stay CLOSE across the original template and both paraphrases -- a small max_minus_min_auroc_across_templates is evidence the paper's own gate result is not an artifact of this one specific phrasing (the formatting-sensitivity concern from Tamoyan et al. 2025 this control checks for); a large spread would mean the opposite."
+}

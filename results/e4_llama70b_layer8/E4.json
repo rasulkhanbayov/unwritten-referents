@@ -1,0 +1,49 @@
+{
+ "experiment": "E4",
+ "coverage": 0.5,
+ "selectors": {
+  "surface_gate": {
+   "auroc": 0.5840565417488495,
+   "aurc": 0.46869046201375,
+   "risk_at_coverage": 0.4655870445344129
+  },
+  "final_token_probe_PLACEHOLDER": {
+   "auroc": 0.5840565417488495,
+   "aurc": 0.46869046201375,
+   "risk_at_coverage": 0.4655870445344129
+  },
+  "self_ask": {
+   "auroc": 0.5,
+   "aurc": 0.5366435038618274,
+   "risk_at_coverage": 0.534412955465587
+  },
+  "BGR-min": {
+   "auroc": 0.6659763313609467,
+   "aurc": 0.3797160300346564,
+   "risk_at_coverage": 0.42914979757085026
+  },
+  "BGR-lr": {
+   "auroc": 0.6690499671268902,
+   "aurc": 0.39258766635512593,
+   "risk_at_coverage": 0.417004048582996
+  }
+ },
+ "rho_BGR_min": {
+  "rho": null,
+  "undefined_reason": "Delta_blind (0.05668) is within sampling noise (0.09544). rho is a share OF the blind term and is undefined when there is no measurable blind term. Report Delta_blind with its interval and state that rho is undefined, rather than dividing by a noise-level number."
+ },
+ "vs_surface_gate": {
+  "BGR-min": {
+   "diff": 0.08191978961209723,
+   "lo": 0.041711815987785006,
+   "hi": 0.12345655567786346,
+   "p_two_sided": 0.001
+  },
+  "BGR-lr": {
+   "diff": 0.08499342537804078,
+   "lo": 0.03421759018466217,
+   "hi": 0.1368739546253572,
+   "p_two_sided": 0.0
+  }
+ }
+}

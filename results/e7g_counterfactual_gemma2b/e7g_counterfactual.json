@@ -1,0 +1,7 @@
+{
+ "n": 239,
+ "p_composed": 0.7322175732217573,
+ "p_memorized": 0.02092050209205021,
+ "p_neither_or_ambiguous": 0.24686192468619247,
+ "reading": "p_composed >> p_memorized is evidence the model genuinely composes e1 -> bridge -> answer rather than relying on a memorized (e1, a_true) composite; the reverse pattern would mean memorized composites, not composition, drive the paper's main result."
+}

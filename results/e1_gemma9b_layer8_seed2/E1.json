@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 346,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8102674852287146,
+  "gate_to_M": 0.3445959296581703,
+  "gate_to_Y": 0.3695220798439444
+ },
+ "floor": {
+  "floor": 0.027299758494494147,
+  "min_risk": 0.18518518518518523,
+  "min_ucl": 0.3590919263885678,
+  "coverage_at_min_ucl": 0.07803468208092486,
+  "n_at_min_ucl": 27,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.20981058088661098,
+  "v": 0.06635786871138041,
+  "p_k2_zero": 0.30346820809248554
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.5576923076923077,
+   "irreducible": 0.21153846153846156,
+   "blind": 0.10576923076923073,
+   "subopt": 0.24038461538461542,
+   "blind_clipped": 0.10576923076923073,
+   "subopt_clipped": 0.24038461538461542,
+   "noise_tolerance": 0.14708710135363803,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.189655172413793
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.5838150289017341,
+   "irreducible": 0.18497109826589597,
+   "blind": 0.1502890173410405,
+   "subopt": 0.24855491329479762,
+   "blind_clipped": 0.1502890173410405,
+   "subopt_clipped": 0.24855491329479762,
+   "noise_tolerance": 0.11404288819045583,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.2574257425742575
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.516245487364621,
+   "irreducible": 0.3465703971119134,
+   "blind": 0.11913357400722013,
+   "subopt": 0.05054151624548742,
+   "blind_clipped": 0.11913357400722013,
+   "subopt_clipped": 0.05054151624548742,
+   "noise_tolerance": 0.09012626521891645,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.23076923076923062
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.7833716776253328,
+  "cohens_d": -2.021098411299727,
+  "n_composed": 346,
+  "n_singlehop_correct": 1309,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

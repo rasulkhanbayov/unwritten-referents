@@ -1,0 +1,41 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "oracle_M": {
+  "forward_passes": 0,
+  "generated_tokens": 0,
+  "note": "ceiling; not a real forward-pass selector, observes the M label directly"
+ },
+ "inside": {
+  "forward_passes": "k=10 (one generation batch of k samples per query)",
+  "generated_tokens": "see per-query",
+  "note": "k=10 sampled generations + one capture pass per sample, per query; no fit-time cost at all (fully unsupervised, no training step)"
+ },
+ "self_consistency": {
+  "forward_passes": "1 greedy + k=10 sampled (one generation batch of k samples) per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); pairwise agreement across the k=10 samples via the SAME self-consistency proxy HaloScope's own fit step uses (_self_consistency_membership_score), reused rather than reimplemented, to avoid two copies of the same logic diverging"
+ },
+ "selfcheckgpt": {
+  "forward_passes": "1 greedy + N=20 sampled (one generation batch of N samples) + up to N NLI calls, per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); paper's own N=20, not this file's usual k=10 for other sampling baselines"
+ },
+ "semantic_entropy": {
+  "forward_passes": "k=10 (one generation batch of k samples) + up to k*(k-1) NLI calls, per query",
+  "generated_tokens": "see per-query",
+  "note": "no fit-time cost at all (fully unsupervised, no training step); this is the DIRECT method -- costs paid at EVAL time per query, unlike Semantic Entropy Probe which pays this cost only at fit time and is cheap at eval time by design"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 74.98582995951416,
+  "wall_clock_s_mean": 9.62095321672648
+ },
+ "operadic_consistency": {
+  "forward_passes_mean": 4.0,
+  "generated_tokens_mean": 99.82186234817814,
+  "wall_clock_s_mean": 12.12598907320123
+ }
+}

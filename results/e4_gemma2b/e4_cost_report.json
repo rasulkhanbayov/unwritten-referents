@@ -1,0 +1,11 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 2.748559266706056
+ }
+}

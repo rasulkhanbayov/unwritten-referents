@@ -1,0 +1,21 @@
+{
+ "experiment": "E5",
+ "k2": {
+  "k": 2,
+  "p_M_zero": 0.1777777777777778,
+  "delta_k": 0.1408909574956455,
+  "v_k": 0.30715727106625973,
+  "floor": 0.0
+ },
+ "k3": {
+  "k": 3,
+  "p_M_zero": 0.5604938271604938,
+  "delta_k": 0.2780421243486667,
+  "v_k": 0.2694523765577543,
+  "floor": 0.012999326254072796
+ },
+ "leading_term_grows": true,
+ "floor_grows": true,
+ "slack_growth": 0.0994462723445157,
+ "reading": "the theorem bounds the leading term only. If the floor falls because slack grew faster, that is a measurement, not a contradiction; report it."
+}

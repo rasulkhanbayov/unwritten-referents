@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 346,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8022561112931901,
+  "gate_to_M": 0.32669432918395575,
+  "gate_to_Y": 0.33585578313658226
+ },
+ "floor": {
+  "floor": 0.020375844047764574,
+  "min_risk": 0.37037037037037035,
+  "min_ucl": 0.5218638137238093,
+  "coverage_at_min_ucl": 1.0,
+  "n_at_min_ucl": 346,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.2224220618603665,
+  "v": 0.06067030218435446,
+  "p_k2_zero": 0.30346820809248554
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.5480769230769231,
+   "irreducible": 0.22115384615384615,
+   "blind": 0.038461538461538436,
+   "subopt": 0.28846153846153855,
+   "blind_clipped": 0.038461538461538436,
+   "subopt_clipped": 0.28846153846153855,
+   "noise_tolerance": 0.14708710135363803,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.07017543859649117
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.6011560693641618,
+   "irreducible": 0.21387283236994215,
+   "blind": 0.10404624277456653,
+   "subopt": 0.2832369942196531,
+   "blind_clipped": 0.10404624277456653,
+   "subopt_clipped": 0.2832369942196531,
+   "noise_tolerance": 0.11404288819045583,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.1730769230769232
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.5270758122743682,
+   "irreducible": 0.3465703971119134,
+   "blind": 0.09386281588447654,
+   "subopt": 0.08664259927797824,
+   "blind_clipped": 0.09386281588447654,
+   "subopt_clipped": 0.08664259927797824,
+   "noise_tolerance": 0.09012626521891645,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.17808219178082194
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.7930357639640196,
+  "cohens_d": -2.115951541690271,
+  "n_composed": 346,
+  "n_singlehop_correct": 1309,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

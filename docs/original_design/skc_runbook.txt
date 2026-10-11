@@ -1,0 +1,596 @@
+=======================================================================
+skc_runbook.txt
+EXPERIMENT RUNBOOK
+"Tokens, Not Referents: Latent Entities and the Limits of
+ Knowledge-Aware Abstention"
+Target: ICLR 2027.  Abstract deadline 18 Sep 2026 AOE, paper 25 Sep 2026 AOE.
+=======================================================================
+
+
+#######################################################################
+# READ THIS BEFORE YOU RUN ANYTHING. THESE TWO THINGS DECIDE THE PAPER.
+#######################################################################
+
+  (1) RUN E0 FIRST AND TREAT IT AS A STOP GATE.
+
+      E0 checks that the frozen gate directions reproduce the known
+      Ferrando et al. (2025) known/unknown entity separation on ONE-HOP
+      prompts. If they do not, your measuring instrument is broken and
+      every result after it is uninterpretable. A null result in E1 would
+      then mean "my probe does not work", not "the model is blind".
+      Those two are indistinguishable from the E1 output alone, which is
+      why E0 has to come first.
+
+      Do not proceed past E0 until at least two of the three gate
+      estimators clear the threshold on HELD-OUT entities. If E0 fails,
+      flag back (see FLAG-BACK TRIGGERS) rather than tuning until it
+      passes. Tuning the gate on the data you will later test on
+      destroys the result.
+
+  (2) CONDITION EVERY PRIMARY ANALYSIS ON K1 = 1.
+
+      A two-hop query the model gets wrong because it failed the FIRST
+      hop tells you nothing about self-knowledge composition. If you do
+      not filter these out, you will measure first-hop failure and
+      report it as a blind spot. Reviewers will find this immediately
+      and it is fatal.
+
+      Filter on BOTH:
+        (a) K1 = 1, the model answers the first hop correctly when asked
+            in isolation; and
+        (b) independent evidence the bridge was resolved internally,
+            obtained by decoding the bridge position (Patchscopes,
+            following Biran et al. 2024).
+
+      Report the retained fraction. Repeat unrestricted in the appendix.
+
+  One more, because the code caught me making this mistake:
+  NEVER call estimate_shortcut_v() without passing features. The
+  marginal shortcut rate under-estimates the essential supremum and
+  makes the Proposition 2 floor ANTI-CONSERVATIVE, which fabricates an
+  apparent violation of a theorem that actually holds. The released code
+  now refuses the marginal by default. Use floor_report() and you cannot
+  get this wrong.
+
+
+#######################################################################
+# 0. RESOURCES
+#######################################################################
+
+MODELS  (all open-weight, all on HuggingFace)
+  google/gemma-2-2b            base, locates the gate
+  google/gemma-2-2b-it         chat, carries refusal behavior
+  google/gemma-2-9b            base
+  google/gemma-2-9b-it         chat
+  meta-llama/Llama-3.1-8B      base
+  meta-llama/Llama-3.1-8B-Instruct
+
+  SCALE CHECK (no SAE needed, difference-of-means and probes only):
+  meta-llama/Llama-3.1-70B     4-bit
+  Qwen/Qwen3-32B               4-bit
+  These answer the "does it only hold on small models" objection. The SAE
+  analysis cannot extend here because no public dictionaries exist; say so
+  in the paper rather than implying the SAE result covers them.
+
+SPARSE AUTOENCODERS
+  Gemma Scope   google/gemma-scope-2b-pt-res, gemma-scope-9b-pt-res
+                (JumpReLU, residual stream, all layers)
+  Llama Scope   fnlp/Llama3_1-8B-Base-LX-R  (residual stream)
+
+  >>> TO RUN: pin the exact SAE width and sparsity (L0) you use and
+  record them in Appendix B. Different widths give different features;
+  a result that only holds at one width is not a result.
+
+DATA
+  TwoHopFact          Yang et al. (2024), Wikidata-derived,
+                      45,595 two-hop prompts with matched one-hop
+                      counterparts, 52 fact-composition types.
+                      This is the workhorse. The matched one-hop
+                      prompts are what make K1 and K2 free.
+  Biran et al. (2024) two-hop set, for the bridge-position localization
+                      protocol.
+  Controlled set      built by you over the Ferrando et al. entity types
+                      (player, movie, city, song) so the gate directions
+                      transfer without domain shift.
+  MuSiQue             Trivedi et al. (2022), natural-language check.
+  2WikiMultiHopQA     Ho et al. (2020), natural-language check.
+
+  Correctness is alias-aware exact match against Wikidata. No human
+  annotation anywhere in this pipeline. Record the Wikidata snapshot
+  date; entity knowledge changes and an unrecorded snapshot is
+  irreproducible.
+
+SOFTWARE  (pin these, record in Appendix B)
+  python        3.11 or 3.12
+  torch         >= 2.4
+  transformers  >= 4.44
+  sae_lens      >= 3.0        (or load SAE weights directly)
+  numpy         >= 1.26
+  skc_metrics.py                shipped with this bundle, numpy only
+
+COMPUTE
+  One 40-80GB GPU is enough for 2B and 8-9B in bf16.
+  The expensive parts are activation caching and the patching sweeps.
+  Cache activations to disk once, keyed by (model, layer, position);
+  every downstream analysis reads the cache. Do not recompute.
+  Rough envelope: E0-E1 a few GPU-days on 2B, E2-E3 the bulk of it.
+
+
+#######################################################################
+# 1. CHEAP PILOT. DO THIS FIRST, IT TAKES AN AFTERNOON.
+#######################################################################
+
+  Purpose: find out whether the whole idea is alive before you spend
+  weeks on it.
+
+  Scope:  Gemma-2-2B only. 300 two-hop queries. One SAE layer, the one
+          Ferrando et al. report as the peak for entity latents.
+
+  Steps:
+    P1. Label K1, K2, Y on the 300 queries by alias-aware exact match.
+    P2. Report the joint distribution of (K1, K2, Y). You need a
+        reasonable number of cases with K1=1 and K2=0. If that cell is
+        nearly empty, your query sample is too easy; resample toward
+        less popular bridge entities and repeat.
+    P3. Extract the gate at the surface entity position. Compute
+        AUC(S -> K1) and AUC(S -> K2).
+    P4. Run floor_report() from skc_metrics.
+
+  What you are looking for:
+    ALIVE     AUC(S -> K1) clearly above chance AND
+              AUC(S -> K2) near chance.
+              That is the H1 signature. Proceed to the full protocol.
+    DEAD      AUC(S -> K1) also near chance.
+              Your gate is not working. Go back to E0, do not proceed.
+    INVERTED  AUC(S -> K2) clearly above chance.
+              H1 is false and the paper's central hypothesis is wrong.
+              This is a real outcome, not a failure. FLAG BACK
+              IMMEDIATELY. The honest paper becomes a negative result
+              that corrects a plausible structural prediction, and it
+              still contributes the floor, the benchmark, and the
+              diagnostics. Do not try to rescue H1.
+
+  The pilot is not a result. Do not put pilot numbers in the paper.
+
+
+#######################################################################
+# 2. THE EXPERIMENTS
+#######################################################################
+
+-----------------------------------------------------------------------
+E0  POSITIVE CONTROL. THE STOP GATE.
+-----------------------------------------------------------------------
+Objective   Confirm the measuring instrument works before using it.
+Claim       None directly. E0 makes E1-E4 interpretable.
+Reduces     The single most likely reviewer objection to a null result:
+            "your probe just does not work."
+
+Data        One-hop prompts only, over the four Ferrando et al. entity
+            types plus the TwoHopFact one-hop counterparts.
+            Split entities into fit / held-out. Never reuse.
+
+Method      Fit THREE gate estimators on the FIT split only, then FREEZE:
+              (i)   SAE latent selection by separation score
+                    (Ferrando et al. protocol; separation_score() in
+                    skc_metrics.py)
+              (ii)  difference-of-means between known and unknown
+                    entity activations
+              (iii) L2-regularized logistic probe
+
+            "Frozen" means: after this point you never refit on
+            anything. A direction refit on two-hop data would only show
+            that some linear readout exists. A FROZEN direction that
+            transfers to the bridge position shows the bridge state is
+            expressed in the format the refusal mechanism already reads.
+            That distinction is the whole argument of Section 6.4.
+            Do not lose it by refitting for convenience.
+
+Metrics     AUROC per estimator, per model, per entity type, held-out.
+            Also AUC(gate -> K2) when the bridge is NAMED explicitly.
+
+Expected    Reproduction of the published separation, and above-chance
+            prediction of K2 when the entity is written. The second part
+            is the premise whose ABSENCE the rest of the paper tests.
+
+GATE        Proceed only if >= 2 of 3 estimators clear threshold on
+            held-out entities. Record the threshold BEFORE running.
+
+-----------------------------------------------------------------------
+E1  THE BLIND SPOT AND ITS SILENCE.  (main result)
+-----------------------------------------------------------------------
+Objective   Decide between H1, H2, H3, and quantify the decomposition.
+
+THE HEADLINE IS PART (d), NOT PART (a). Everyone reports AUROCs.
+The memorable result is that the model's own abstention signal is
+JUST AS CONFIDENT on composed queries as on single-hop queries it
+answers correctly, while being far more often wrong. That is what
+makes the failure silent rather than merely present. Compute the
+two-sample distance between the gate's score distributions and the
+accuracy gap at matched gate score. Lead with it.
+
+ALSO REQUIRED: run blind_spot_decomposition() at several coverages.
+A large blind term with a small subopt term means the shortfall is
+in WHERE the rule looks, so no better scoring function on the same
+positions can fix it. The reverse pattern means our framing is wrong
+and the problem is ordinary estimator quality. Report both.
+
+NOTE ON SIGNS: non-negativity of the two terms is a POPULATION
+statement. Cross-fitted plug-in estimates can go slightly negative;
+on synthetic data the violations sit near a tenth of a binomial
+standard error. The code tolerates violations inside sampling noise
+and RAISES on anything larger. If it raises, you have an estimation
+bug (eta not out-of-fold, reference not a superset, folds too small),
+not a discovery.
+Claim       The surface gate sees hop 1 and not hop 2.
+Reduces     The risk that the effect is a granularity artifact.
+
+Data        Two-hop queries, RESTRICTED to K1=1 with verified bridge
+            resolution. Report the retained fraction.
+
+Method      Read the frozen gate at the surface entity position.
+            Compute AUC against Y, K1, K2.
+            Run floor_report() for delta, v, floor, and the
+            confidence-based violation check.
+            Plot the risk-coverage curve against the floor.
+
+Baselines   Named-bridge control: the same query with the descriptive
+            mention replaced by the bridge name. The gap MUST close
+            here. If it does not, something other than latency is
+            driving your effect.
+
+Metrics     AUC(S->K1), AUC(S->K2), AUC(S->Y), delta-hat, v-hat,
+            floor, AURC. Percentile bootstrap, 2000 resamples.
+
+Expected    Under H1: AUC(S->K1) high, AUC(S->K2) near chance,
+            delta near zero, and the risk-coverage curve flattening onto
+            the floor instead of descending.
+
+WRITE IT EITHER WAY. A large delta-hat refutes the paper's hypothesis
+and you report that.
+
+-----------------------------------------------------------------------
+E2  CAUSAL TESTS.  (Table 1 design)
+-----------------------------------------------------------------------
+Objective   Separate "no signal" from "signal not routed".
+Claim       The bridge is causally used for recall and not for refusal.
+Reduces     "This is just correlational probing."
+
+C1 Surface steer
+   Add the unknown-entity direction at the surface entity position.
+   Select the steering coefficient on a VALIDATION split, as in
+   Ferrando et al. Do not tune it on your test set.
+   Measure refusal rate split by K2. H1 predicts refusal rises
+   regardless of K2, that is, the intervention is not selective.
+
+C2 Bridge patch  <-- THE DECISIVE ONE
+   Replace the bridge-position residual with that of a matched query
+   whose bridge is unknown. Match on: relation type, prompt length,
+   surface entity popularity decile.
+   Measure, ON THE SAME QUERIES AND THE SAME PATCH:
+     - change in target-token recall
+     - change in refusal rate
+   Report the dissociation as the ratio of STANDARDIZED effects with a
+   paired bootstrap interval. Unstandardized effects are not comparable
+   across two differently scaled outcomes; do not skip the
+   standardization.
+
+C4 Graph trace  <-- ADDED AFTER THE 2026 LITERATURE PASS
+   Compute attribution graphs with circuit-tracer (Hanna et al. 2025)
+   on matched composed and named-bridge prompts. Ask whether a path
+   exists from bridge-position knowledge features to the refusal
+   features, and compare its summed edge weight against the path from
+   the surface entity.
+
+   This makes "not routed" a DIRECTLY MEASURED property of the
+   computational graph rather than an inference from behavior. The
+   field moved to transcoders and attribution graphs during 2025-2026;
+   a 2027 reviewer will ask why you did not use the tool built for
+   exactly this feature-to-feature question.
+
+   circuit-tracer supports Gemma-2-2B (Gemma Scope transcoders),
+   Llama-3.1-1B and Qwen3-4B. Neuronpedia offers on-demand graph
+   generation for Gemma-2-2B. Budget: graphs are large (hundreds to
+   thousands of nodes) and annotation is slow.
+
+   CAUTION: attribution graphs describe a REPLACEMENT model, not the
+   model itself. Following Lindsey et al. (2025), validate every
+   graph-derived claim by intervening in the underlying model. Do not
+   report a graph property as a fact about the model without that step.
+
+   Use the named-bridge prompts as the positive control: there the
+   entity IS written, so a path SHOULD appear. If it does not, you have
+   a graph-construction problem, not a finding.
+
+C3 Gate inject
+   Add the unknown-entity direction at the BRIDGE position.
+   Little effect  -> the routing pathway is absent; a repair must add
+                     routing.
+   Refusal rises  -> the pathway exists but is not driven by the real
+                     bridge knowledge state; a repair only needs to
+                     supply the signal.
+   Either outcome is publishable and they imply different repairs.
+
+-----------------------------------------------------------------------
+E3  THE SIGNAL IS PRESENT AND UNUSED.  (Section 6.4)
+-----------------------------------------------------------------------
+Objective   Show the bridge state is decodable by the FROZEN direction.
+Claim       The failure is routing, not information.
+Reduces     "The model obviously cannot gate on what it never computed."
+            This experiment is what makes the paper non-trivial.
+
+Method      Take the frozen surface-entity gate direction from E0.
+            Evaluate it at the bridge-resolution position. DO NOT REFIT.
+            Sweep layers x positions and report the FULL map, not the
+            maximum. Reporting only the argmax over a large sweep is
+            selection on noise.
+            Permutation null over positions to calibrate the maximum.
+
+Metrics     AUROC against K2 at each (layer, position). Peak layer.
+            Permutation null distribution.
+
+Expected    Above-chance transfer near the bridge-resolution layer
+            identified by the Biran et al. protocol, and chance
+            elsewhere.
+
+-----------------------------------------------------------------------
+E4  REPAIR.  (Table 3)
+-----------------------------------------------------------------------
+Objective   Show the floor is escapable.
+Claim       Routing the latent gate recovers rho of the blind spot.
+
+Methods     BGR-min: s = min(z(g_S), z(g_B)). No trained parameters.
+            BGR-lr:  cross-fitted two-feature logistic regression.
+
+Baselines   COMPARE WITHIN INFERENCE-COST CLASSES. This is how the
+            hallucination-detection literature compares methods, and it
+            is the only fair framing: SEP's own paper notes it "approaches
+            but does not match 10x costlier baselines", and ICR Probe
+            flags its comparison with Semantic Entropy as
+            "computationally imbalanced". Reporting a single leaderboard
+            across cost classes is a known way to look better than you
+            are, and reviewers in this area know it.
+
+            Class 0 - one forward pass, no extra generation:
+              surface gate (Ferrando et al. 2025)
+              accuracy probe / final-token probe (Tamoyan-style)
+              Semantic Entropy Probes (Kossen et al. 2024)
+              HaloScope (Du et al. 2024)         <-- widely used as the
+                                                     "highest performing
+                                                     open baseline"
+              INSIDE (Chen et al. 2024)
+              ICR Probe (2507.16488)
+              *** BGR-min and BGR-lr live HERE ***
+            Class 1 - one extra call:
+              P(True) (Kadavath et al. 2022), verbalized confidence
+            Class 2 - k generations:
+              Semantic Entropy (Farquhar et al., Nature 2024)
+              SelfCheckGPT (Manakul et al. 2023)
+              self-consistency, k=10
+            Class 3 - decomposition pipelines (multi-call):
+              Self-Ask (Press et al. 2023)
+              Decomposed-prompting abstention (Madhwal et al. 2026)
+              Operadic consistency (2606.13649)
+
+            CLASS 3 IS THE ONE THAT CAN KILL THE PAPER'S PRACTICAL CLAIM.
+            "Why do I need a bridge-gate readout when I can just prompt
+            the model to decompose the question?" is the obvious
+            objection and it now has published methods behind it. You
+            must run these. Two outcomes, both fine:
+              - BGR matches them at a fraction of the cost -> the cost
+                argument carries the contribution.
+              - They beat BGR -> report it. They work by making the
+                latent entity explicit, which is our mechanism by a more
+                expensive route, so it CONFIRMS the account even while
+                beating the method. Say exactly that. Do not hide it.
+
+            Report for EVERY selector: forward passes, generated tokens,
+            wall-clock per query. A method that wins by spending 10x has
+            not won in the class that matters.
+
+            >>> TO RUN: re-search for stronger baselines shortly before
+            submission. This list was current as of August 2026.
+
+Metrics     AUROC, AURC, risk at 50% coverage, Delta_blind, rho, ECE
+            (Guo et al. 2017), and the Abstain-QA / AUCM protocol.
+            AUROC alone is not enough for an abstention paper in 2026.
+            Paired bootstrap and DeLong for every comparison.
+
+            USE recovery_fraction(), NOT recoverable_fraction_rho().
+            The paper's rho is the share of Delta_blind that the repair
+            closes, at a stated coverage. The old essential-supremum rho
+            was RETIRED and is kept in the code only as an estimator
+            sanity check. Mixing the two in one table is a real error.
+
+            Do NOT pass a repair (which reads the ENLARGED set) into
+            blind_spot_decomposition(). Lemma 1's guarantee that
+            Delta_subopt >= 0 holds only for a rule reading the SMALLER
+            set, so the guardrail will fire, correctly. This bug was
+            caught by the smoke test during development.
+
+Expected    BGR beats the surface gate. If BGR-min matches BGR-lr, the
+            effect is structural rather than learned, which is the
+            STRONGER outcome. Say so if it happens.
+
+-----------------------------------------------------------------------
+E5  COMPOUNDING ACROSS HOPS  (Proposition 4)
+-----------------------------------------------------------------------
+Objective   Show the blind spot grows with chain length.
+Claim       The uncovered fraction rises with k, so agentic pipelines are
+            worse off than two-hop QA.
+
+Data        Family F2, three-hop Wikidata chains, with all decomposed
+            one-hop prompts so K_2 and K_3 are both labelable.
+
+            USE NESTED CHAINS. Compare each three-hop chain against ITS
+            OWN two-hop prefix, not against a separate two-hop set. The
+            monotonicity clause of Theorem 1 is a POINTWISE statement,
+            M_{k+1} = M_k * K_{k+1} <= M_k, which only makes sense when
+            the two indicators live on the same items. Across unrelated
+            query sets they are defined on different probability spaces
+            and the theorem says nothing, so a rise you observe there
+            could be a dataset difference rather than compounding.
+
+Method      khop_floor() in skc_metrics.py. Compute P(M_k=0), delta_k,
+            v_k and the floor for k=2 and k=3 on matched item sets.
+
+CAUTION     Proposition 4 bounds the LEADING term, P(M_k=0), which is
+            provably non-decreasing in k. It does NOT prove the floor
+            itself rises, because delta_k and v_k could grow faster.
+            That is exactly why this is an experiment. If the slack terms
+            grow faster and the floor falls, report that; it is
+            informative and does not contradict the proposition.
+
+Expected    P(M_k=0) rises with k. Whether the floor rises is open.
+
+-----------------------------------------------------------------------
+E6  CHAIN OF THOUGHT: DOES WRITING THE ENTITY RESTORE GATING?
+-----------------------------------------------------------------------
+Objective   Test our mechanism against a competing published finding.
+Claim       CoT helps factual reliability partly by converting latent
+            entities into written ones, which restores the gate.
+
+Why it      Cheng et al. (Findings EMNLP 2025) report that CoT OBSCURES
+matters     hallucination cues. Our account predicts the gate at the
+            self-written mention becomes MORE informative. These are
+            separable on the same items: theirs concerns aggregate
+            detection scores, ours concerns the entity gate at a specific
+            position. Measure both. A head-to-head test against a
+            published prediction is worth far more than an ablation.
+
+Data        Family F3: F1 items, answered with chain-of-thought prompting
+            on instruction-tuned and reasoning-tuned models.
+
+Method      Locate the model's own written mention of the bridge entity
+            in its trace. Read the FROZEN gate there. Compare against the
+            same items answered directly.
+
+            Watch out: the model may write a WRONG bridge entity. Split
+            the analysis by whether the written bridge is correct. Gating
+            on a confidently-wrong bridge is a different and also
+            interesting result; do not pool the two.
+
+Metrics     Gate AUROC against K_2 at the self-written mention; abstention
+            quality; the Cheng et al. detection metrics on the same items.
+
+Expected    If restored: a mechanism-level account of part of what CoT
+            does, and a cheap mitigation for agentic pipelines.
+            If not restored: our account of CoT is wrong. Say so plainly.
+
+-----------------------------------------------------------------------
+E7  ABLATIONS
+-----------------------------------------------------------------------
+  (a) Named-bridge control (gap must close)
+  (b) Popularity-matched subsets, by Wikipedia pageview decile.
+      This is not optional. Without it a reviewer will say you measured
+      entity frequency, not knowledge.
+  (c) Length-matched distractor control
+  (d) All three gate estimators agree
+  (e) Three-hop queries: does the gap compound?
+  (f) Instruction-tuned versus base
+  (h) Attention control: confirm the bridge position RECEIVES substantial
+      attention. If it does not, "the gate is not routed" collapses into
+      "the position is ignored", which is a weaker and different claim.
+      This control is what licenses the routing interpretation.
+
+  --- ADDED BY THE EXPERIMENTS AUDIT. These are not optional. ---
+
+  (i) COUNTERFACTUAL CHAINS. Wikipedia/Wikidata multi-hop benchmarks are
+      documented to over-state composition because models memorize the
+      composite; counterfactual and knowledge-edited variants recover a
+      15-25 point gap. Our shortcut term v measures exactly this, so
+      report v AND rerun the headline result on counterfactual chains
+      whose composites cannot have been memorized. Without this a
+      reviewer can attribute the whole effect to memorization.
+
+  (j) RANDOM-DIRECTION NEGATIVE CONTROL. A direction of matched norm
+      drawn at random must produce no effect in C1-C3. Without this,
+      every intervention result is uninterpretable, because any
+      large enough perturbation changes behavior.
+
+  (k) LABEL VALIDATION. Alias-aware exact match is reproducible but
+      under-counts unusual surface forms. Validate against an LLM judge
+      (Zheng et al. 2023) on a random subsample; report agreement. Keep
+      exact match primary. If any headline result flips depending on
+      which labeler you use, report that fact rather than picking one.
+
+  (l) CROSS-TYPE GENERALIZATION. Fit the gate on one entity type and the
+      bridge readout on one relation type, then test on held-out types.
+      Without this the readout may be a relation-specific artifact.
+
+  (m) TEMPLATE AND PARAPHRASE ROBUSTNESS. Tamoyan et al. found some
+      templates introduce spurious correlations and that only one of
+      their four survived. Screen yours the same way.
+
+  (n) REASONING-TUNED MODELS. Kirichenko et al. (2025) report that
+      reasoning fine-tuning DEGRADES abstention and that scale barely
+      matters. That competes directly with the E6 prediction. Run at
+      least one reasoning-tuned model and report both outcomes.
+
+  (o) FAITHFULNESS. For C4, report the FRACTION of graph-derived claims
+      that survive intervention in the underlying model, not just the
+      ones that survived. Attribution graphs describe a replacement
+      model; an unvalidated graph property is not a fact about the model.
+
+  (p) POWER. State the minimum detectable effect your item counts
+      support, computed BEFORE collection, for the primary comparison.
+
+
+#######################################################################
+# 3. FLAG-BACK TRIGGERS. STOP AND DISCUSS, DO NOT IMPROVISE.
+#######################################################################
+
+  - E0 fails on more than one estimator.
+  - AUC(S -> K2) is clearly ABOVE chance in the pilot or E1.
+    H1 is false. This is a real finding. Do not rescue the hypothesis.
+  - floor_report() reports violated=True with a correctly computed
+    conditional v. Either the estimator has a bug or an assumption is
+    broken. Investigate before reporting; do not adjust the floor to fit.
+  - The K1=1, K2=0 cell is too small to analyze.
+  - Effects appear only at one SAE width or one layer.
+  - recoverable_fraction_rho() raises on kappa ordering. That is an
+    estimation bug signature, not a real effect.
+  - A baseline beats BGR. Report it. Do not drop the baseline.
+  - blind_spot_decomposition() raises. That is an estimation fault,
+    not a finding. Fix it before reporting anything from that run.
+  - The blind term is SMALL and the subopt term is large. Our framing
+    is wrong: the problem is estimator quality, not read position.
+    Flag back before writing.
+  - The bridge position turns out to receive little attention (E7h). The
+    routing interpretation weakens; reframe before writing.
+  - The k=3 floor FALLS because slack grows faster. Not a contradiction
+    of Proposition 4. Report it as measured.
+  - Anything that would require refitting a "frozen" direction.
+
+
+#######################################################################
+# 4. INTEGRITY
+#######################################################################
+
+  - Every number in the paper is currently a red [RES:] placeholder.
+    Grep the .tex for "RES" to find all 71. None may survive submission.
+    There are 12 ">>> TO RUN" items.
+  - Synthetic numbers from skc_metrics.py --smoke-test are for verifying
+    the propositions. They belong in NO table.
+  - The proofs in Appendix A were AI-drafted and are NOT yet verified.
+    At least two authors must check them line by line. The smoke test
+    verifies the inequalities numerically, which is necessary and not
+    sufficient; numerical agreement does not establish a proof.
+  - The method and experimental design were AI-assisted. Verify them
+    independently. You are the authors; the assistant is not and cannot
+    be an author.
+  - Two bib entries carry placeholder corporate authors
+    (layerorder2026, pretrainexposure2026). BOTH are positioned against
+    in the paper, so both MUST be resolved. Never invent an author name.
+    Clear every "% VERIFY" comment in skc_refs.bib (17 of them).
+  - Re-run the prior-art search shortly before submission. This wedge
+    was open in August 2026. It may not stay open.
+  - Complete the AI disclosure in Appendix D with what you ACTUALLY did,
+    not the template text. ICLR 2027 requires it and holds authors
+    responsible for AI-produced content.
+  - Anonymize for double blind. Do not name your institution, and do not
+    link a repository that identifies you.
+  - When results arrive, reconcile the abstract, the title framing, and
+    the contribution list with what you actually measured. If the effect
+    is softer than hoped, walk the claims back.
+
+=======================================================================

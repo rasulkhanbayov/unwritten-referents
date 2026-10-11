@@ -1,0 +1,18 @@
+{
+ "experiment": "E3",
+ "auroc_grid": {
+  "L8_pos-1": 0.658673669594615,
+  "L8_pos0": 0.6370568250039408,
+  "L8_pos1": 0.7474102917551256
+ },
+ "peak": {
+  "key": "L8_pos1",
+  "auroc": 0.7474102917551256
+ },
+ "permutation_null": {
+  "mean_max": 0.5061159071776657,
+  "q95_max": 0.5205170528674106,
+  "p_value": 0.0
+ },
+ "reading": "a peak above the null's 95th percentile means the state is present at a position the refusal mechanism does not consume"
+}

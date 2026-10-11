@@ -1,0 +1,39 @@
+{
+ "control": "(j) cross-type generalization -- ENTITY-TYPE half only",
+ "relation_type_half_status": "NOT RUN -- data limitation, disclosed: the two-hop bridge dataset (data/twohop_queries.json) has exactly ONE relation pair (place_birth->country) across all 3503 items, so there is nothing to hold out on the relation side with current data.",
+ "reading": "For each held-out type, compare auroc_*_leave_type_out against auroc_*_in_distribution_reference (same held-out type's own data either way). A leave-type-out AUROC close to the in-distribution reference is evidence the gate generalizes across entity types rather than being a type-specific fit; a large drop would mean the readout may be entity-type-specific, exactly what this control checks for.",
+ "per_held_out_type": {
+  "city": {
+   "n_held_out_type": 2000,
+   "k1_rate_held_out_type": 0.358,
+   "auroc_diffmeans_leave_type_out": 0.6901758210202057,
+   "auroc_probe_leave_type_out": 0.5594043143806888,
+   "auroc_diffmeans_in_distribution_reference": 0.7522873915802835,
+   "auroc_probe_in_distribution_reference": 0.8460043367886609
+  },
+  "movie": {
+   "n_held_out_type": 2000,
+   "k1_rate_held_out_type": 0.0435,
+   "auroc_diffmeans_leave_type_out": 0.7040214863817438,
+   "auroc_probe_leave_type_out": 0.6055121942426591,
+   "auroc_diffmeans_in_distribution_reference": 0.7776057791537667,
+   "auroc_probe_in_distribution_reference": 0.6670278637770898
+  },
+  "player": {
+   "n_held_out_type": 2000,
+   "k1_rate_held_out_type": 0.049,
+   "auroc_diffmeans_leave_type_out": 0.8151462477735574,
+   "auroc_probe_leave_type_out": 0.6833837636000772,
+   "auroc_diffmeans_in_distribution_reference": 0.7989761489237929,
+   "auroc_probe_in_distribution_reference": 0.6719720767888308
+  },
+  "song": {
+   "n_held_out_type": 2000,
+   "k1_rate_held_out_type": 0.036,
+   "auroc_diffmeans_leave_type_out": 0.716797775472568,
+   "auroc_probe_leave_type_out": 0.524658540802213,
+   "auroc_diffmeans_in_distribution_reference": 0.7529310459031595,
+   "auroc_probe_in_distribution_reference": 0.7465059283301319
+  }
+ }
+}

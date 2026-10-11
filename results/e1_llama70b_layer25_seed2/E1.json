@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 494,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8751034346353651,
+  "gate_to_M": 0.3270823041201462,
+  "gate_to_Y": 0.49615940126050423
+ },
+ "floor": {
+  "floor": 0.032004962211158616,
+  "min_risk": 0.4824120603015075,
+  "min_ucl": 0.5623655737874916,
+  "coverage_at_min_ucl": 0.4473684210526316,
+  "n_at_min_ucl": 221,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.26175519180567447,
+  "v": 0.41271757877668924,
+  "p_k2_zero": 0.7064777327935223
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.4932432432432432,
+   "irreducible": 0.32432432432432434,
+   "blind": 0.2432432432432432,
+   "subopt": -0.07432432432432434,
+   "blind_clipped": 0.2432432432432432,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.12329924047901797,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.4931506849315068
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.5020242914979758,
+   "irreducible": 0.41295546558704455,
+   "blind": 0.16194331983805665,
+   "subopt": -0.07287449392712542,
+   "blind_clipped": 0.16194331983805665,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.09544271444636665,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.3225806451612902
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.5341772151898734,
+   "irreducible": 0.4759493670886076,
+   "blind": 0.05569620253164553,
+   "subopt": 0.0025316455696202667,
+   "blind_clipped": 0.05569620253164553,
+   "subopt_clipped": 0.0025316455696202667,
+   "noise_tolerance": 0.07547319081399415,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.10426540284360183
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.7811494025871433,
+  "cohens_d": -2.0773662864992186,
+  "n_composed": 494,
+  "n_singlehop_correct": 1435,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

@@ -1,0 +1,212 @@
+[
+ {
+  "qid": "ferrando_player_Andr\u00e9s_Forray_country",
+  "true_bridge": "Buenos Aires",
+  "model_hop1_generation": " the city of Buenos Aires, Argentina. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas, Lithuania. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Kostadinka_Radkova_country",
+  "true_bridge": "Sofia",
+  "model_hop1_generation": " the city of Sofia. She was born on 12",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Courtney_Vandersloot_country",
+  "true_bridge": "Kent",
+  "model_hop1_generation": " in Kent, Washington, United States. She was born on",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Tina_Thompson_country",
+  "true_bridge": "Los Angeles",
+  "model_hop1_generation": " in Los Angeles, California, United States. She was born",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Marcin_Gortat_country",
+  "true_bridge": "\u0141\u00f3d\u017a",
+  "model_hop1_generation": " the city of \u0141\u00f3d\u017a, Poland. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Maksim_Astanin_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on March 1",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Rafael_Vidaurreta_country",
+  "true_bridge": "Madrid",
+  "model_hop1_generation": " in the city of Madrid, Spain. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Shaun_Livingston_country",
+  "true_bridge": "Peoria",
+  "model_hop1_generation": " in Peoria, Illinois, United States. He was born on",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Milton_Setrini_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Danylo_Kozlov_country",
+  "true_bridge": "Dnipro",
+  "model_hop1_generation": " the city of Dnipro. He was born on ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Josh_Selby_country",
+  "true_bridge": "Baltimore",
+  "model_hop1_generation": " in Baltimore, Maryland, United States. He was born on",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Anna_Vajda_country",
+  "true_bridge": "Budapest",
+  "model_hop1_generation": " the city of Budapest, Hungary. She was born on ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Andrzej_Pstroko\u0144ski_country",
+  "true_bridge": "Warsaw",
+  "model_hop1_generation": " the city of Warsaw. He was born on 19",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Oxana_Rakhmatulina_country",
+  "true_bridge": "Almaty",
+  "model_hop1_generation": " the city of Almaty. She was born on March ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Jordan_Bozov_country",
+  "true_bridge": "Sofia",
+  "model_hop1_generation": " the city of Sofia, Bulgaria. He was born on ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Nate_McMillan_country",
+  "true_bridge": "Raleigh",
+  "model_hop1_generation": " in Raleigh, North Carolina, United States. He was born",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Lyubov_Sharmay_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. The date of birth of the athlete",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Anatoly_Kashirov_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on March 1",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Virginijus_Pra\u0161kevi\u010dius_country",
+  "true_bridge": "Kaunas",
+  "model_hop1_generation": " the city of Kaunas. He was born on 1",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Juris_Kalni\u0146\u0161_country",
+  "true_bridge": "Riga",
+  "model_hop1_generation": " the city of Riga, Latvia. He was born on ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Joe_Johnson_country",
+  "true_bridge": "Little Rock",
+  "model_hop1_generation": " in Little Rock, Arkansas, United States. He was born",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Jos\u00e9_Carlos_Santos_Saiani_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Manu_Gin\u00f3bili_country",
+  "true_bridge": "Bah\u00eda Blanca",
+  "model_hop1_generation": " the city of Bah\u00eda Blanca, Argentina. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Vyacheslav_Khrynin_country",
+  "true_bridge": "Moscow",
+  "model_hop1_generation": " the city of Moscow. He was born on May 1",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Pero_Blazevski_country",
+  "true_bridge": "Skopje",
+  "model_hop1_generation": " the city of Skopje, the capital of the Republic of",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Rafer_Johnson_country",
+  "true_bridge": "Hillsboro",
+  "model_hop1_generation": " in Hillsboro, Texas, United States. He was born",
+  "decoded": " -> x in\nx out -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Andr\u00e9_Ernesto_Stoffel_country",
+  "true_bridge": "S\u00e3o Paulo",
+  "model_hop1_generation": " the city of S\u00e3o Paulo, Brazil. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Shaquille_O'Neal_country",
+  "true_bridge": "Newark",
+  "model_hop1_generation": " the city of Newark, New Jersey. He was born on",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ },
+ {
+  "qid": "ferrando_player_Dea_Klein-\u0160umanovac_country",
+  "true_bridge": "Zagreb",
+  "model_hop1_generation": " the city of Zagreb, Croatia. She was born on ",
+  "decoded": " -> x of\nx of -> x",
+  "resolved": false
+ }
+]

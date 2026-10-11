@@ -1,0 +1,16 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "semantic_entropy_probe": {
+  "forward_passes": 1,
+  "generated_tokens": 0,
+  "note": "eval time: ONE capture pass per query, no generation or sampling at all -- the whole point of a probe that PREDICTS semantic entropy instead of computing it via sampling. Fit-time cost (k=10 sampled generations + NLI clustering per fit query, ~10k fit queries) is NOT counted per-query and is substantial -- see this run's own wall-clock time."
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 2.198802547973569
+ }
+}

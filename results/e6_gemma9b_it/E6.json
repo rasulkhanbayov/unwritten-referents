@@ -1,0 +1,9 @@
+{
+ "experiment": "E6",
+ "auroc_direct": 0.3691516114089074,
+ "auroc_cot_bridge_correct": 0.6228287841191067,
+ "auroc_cot_bridge_wrong": 0.477284826974268,
+ "n_correct": 44,
+ "n_wrong": 889,
+ "reading": "gating restored only where the written bridge is correct supports our account; no restoration anywhere supports Cheng et al. (2025)"
+}

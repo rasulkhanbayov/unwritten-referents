@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 346,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8282814042013252,
+  "gate_to_M": 0.374510966212211,
+  "gate_to_Y": 0.39952241617058487
+ },
+ "floor": {
+  "floor": 0.07064171690319984,
+  "min_risk": 0.16666666666666663,
+  "min_ucl": 0.37101129224582496,
+  "coverage_at_min_ucl": 0.05202312138728324,
+  "n_at_min_ucl": 18,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.17007431669611553,
+  "v": 0.06275217449317017,
+  "p_k2_zero": 0.30346820809248554
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.4903846153846154,
+   "irreducible": 0.1923076923076923,
+   "blind": 0.10576923076923084,
+   "subopt": 0.1923076923076923,
+   "blind_clipped": 0.10576923076923084,
+   "subopt_clipped": 0.1923076923076923,
+   "noise_tolerance": 0.14708710135363803,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.21568627450980404
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.5664739884393064,
+   "irreducible": 0.17341040462427748,
+   "blind": 0.19075144508670516,
+   "subopt": 0.20231213872832376,
+   "blind_clipped": 0.19075144508670516,
+   "subopt_clipped": 0.20231213872832376,
+   "noise_tolerance": 0.11404288819045583,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.3367346938775509
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.5126353790613718,
+   "irreducible": 0.33574007220216606,
+   "blind": 0.12635379061371843,
+   "subopt": 0.050541516245487306,
+   "blind_clipped": 0.12635379061371843,
+   "subopt_clipped": 0.050541516245487306,
+   "noise_tolerance": 0.09012626521891645,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.24647887323943668
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.7919406333211162,
+  "cohens_d": -2.178006213861401,
+  "n_composed": 346,
+  "n_singlehop_correct": 1309,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "surface_gate": {
+  "forward_passes": 1,
+  "generated_tokens": 0
+ },
+ "saplma": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 capture pass per query at eval time; training cost (fit split) not counted per-query"
+ },
+ "entity_token_probe": {
+  "forward_passes": 2,
+  "generated_tokens": "see per-query",
+  "note": "1 generation + 1 capture pass per query at eval time; training cost (fit split) not counted per-query"
+ },
+ "self_ask": {
+  "forward_passes_mean": 3.0,
+  "generated_tokens_mean": 75.0,
+  "wall_clock_s_mean": 1.94043981181029
+ }
+}

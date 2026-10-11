@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 158,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.7763890598080236,
+  "gate_to_M": 0.3742690058479532,
+  "gate_to_Y": 0.673469387755102
+ },
+ "floor": {
+  "floor": 0.0,
+  "min_risk": 0.0,
+  "min_ucl": 6.451995332393753e-07,
+  "coverage_at_min_ucl": 0.08227848101265822,
+  "n_at_min_ucl": 13,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.13960444691301446,
+  "v": 0.49235634105292503,
+  "p_k2_zero": 0.3987341772151899
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.04255319148936165,
+   "irreducible": 0.04255319148936165,
+   "blind": 0.021276595744680882,
+   "subopt": -0.021276595744680882,
+   "blind_clipped": 0.021276595744680882,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.21879748724684184,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.5000000000000013
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.05063291139240511,
+   "irreducible": 0.05063291139240511,
+   "blind": 0.0,
+   "subopt": 0.0,
+   "blind_clipped": 0.0,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.1687631851389036,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.0
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.04761904761904767,
+   "irreducible": 0.04761904761904767,
+   "blind": 0.0,
+   "subopt": 0.0,
+   "blind_clipped": 0.0,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.1336306209562122,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.0
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.641476890694887,
+  "cohens_d": -0.9757931783419393,
+  "n_composed": 158,
+  "n_singlehop_correct": 1732,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

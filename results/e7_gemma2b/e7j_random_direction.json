@@ -1,0 +1,5 @@
+{
+ "refusal_rate_real_direction": 0.0,
+ "refusal_rate_random_direction": 0.0,
+ "reading": "random-direction refusal rate should be near the UNSTEERED baseline and far below the real direction's; if they are close, C1's effect is not specific to the entity-gate direction"
+}

@@ -1,0 +1,10 @@
+{
+ "auroc_K2_composed": 0.6072871572871573,
+ "auroc_K2_distractor_named_bridge": 0.5307359307359307,
+ "gap_vs_composed": -0.07655122655122659,
+ "n": 239,
+ "n_distractor_prompts_padded_with_filler": 37,
+ "frac_distractor_prompts_padded_with_filler": 0.15481171548117154,
+ "length_matching_note": "length_match_named_bridge() pads ONE-DIRECTIONALLY (distractor toward the true named-bridge prompt's own length only); most real distractor city names are already >= the true bridge's name length, so only the fraction above actually receive the 'well-known' filler at all -- a real, minor asymmetry versus the true-bridge condition (which never receives this filler either), disclosed here rather than hidden.",
+ "reading": "auroc_K2_distractor_named_bridge should be CLOSE TO CHANCE (0.5) -- a distractor city bears no real relationship to this query's own K2 label, so a gate genuinely reading the TRUE bridge's properties (not merely detecting that SOME city is named here) should not be fooled by it. Compare directly against control (a)'s own auroc_K2_named_bridge (the TRUE bridge result) -- a large drop from that number toward chance here is the evidence this control needs; a similarly elevated AUROC here would suggest the gate is not specific to the true bridge's actual properties."
+}

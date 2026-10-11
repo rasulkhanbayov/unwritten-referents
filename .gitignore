@@ -1,0 +1,34 @@
+# --- secrets ---------------------------------------------------------------
+.env
+
+# --- large artifacts: hosted on Hugging Face, see HF_MANIFEST.md ------------
+# (scripts/upload_to_hf.sh / download_from_hf.sh use the SAME patterns)
+results/**/*.npy
+results/**/*.pt
+results/**/*_raw_generations.json
+logs/
+
+# --- local-only material (third-party clones, PDFs); re-downloadable --------
+archive/local_only/
+
+# --- Slurm logs written to the submit dir by new runs ----------------------
+slurm_jobs/*.out
+slurm_jobs/*.err
+*.out
+*.err
+
+# --- python / tooling -------------------------------------------------------
+__pycache__/
+*.pyc
+.cache/
+.claude/
+.ipynb_checkpoints/
+
+# --- LaTeX build byproducts -------------------------------------------------
+VERSION3/paper/*.aux
+VERSION3/paper/*.log
+VERSION3/paper/*.out
+VERSION3/paper/*.blg
+VERSION3/paper/*.toc
+VERSION3/paper/*.fls
+VERSION3/paper/*.fdb_latexmk

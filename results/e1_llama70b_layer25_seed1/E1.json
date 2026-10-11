@@ -1,0 +1,70 @@
+{
+ "experiment": "E1",
+ "n": 494,
+ "auroc_K1_computed_on": "unfiltered set (K1 is constant after conditioning)",
+ "auroc": {
+  "gate_to_K1": 0.8748336636514209,
+  "gate_to_M": 0.31817014129038634,
+  "gate_to_Y": 0.49428834033613445
+ },
+ "floor": {
+  "floor": 0.007049385529265539,
+  "min_risk": 0.46153846153846156,
+  "min_ucl": 0.5641570592611059,
+  "coverage_at_min_ucl": 0.3684210526315789,
+  "n_at_min_ucl": 182,
+  "violated": false,
+  "n_violating_thresholds": 0,
+  "delta": 0.27890832974284013,
+  "v": 0.42052001752141666,
+  "p_k2_zero": 0.7064777327935223
+ },
+ "decomposition": {
+  "0.3": {
+   "coverage": 0.3,
+   "observed_risk": 0.5,
+   "irreducible": 0.33783783783783783,
+   "blind": 0.18243243243243246,
+   "subopt": -0.020270270270270285,
+   "blind_clipped": 0.18243243243243246,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.12329924047901797,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.3648648648648649
+  },
+  "0.5": {
+   "coverage": 0.5,
+   "observed_risk": 0.5101214574898785,
+   "irreducible": 0.42105263157894735,
+   "blind": 0.11336032388663964,
+   "subopt": -0.02429149797570851,
+   "blind_clipped": 0.11336032388663964,
+   "subopt_clipped": 0.0,
+   "noise_tolerance": 0.09544271444636665,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.22222222222222218
+  },
+  "0.8": {
+   "coverage": 0.8,
+   "observed_risk": 0.5367088607594936,
+   "irreducible": 0.4759493670886076,
+   "blind": 0.05316455696202527,
+   "subopt": 0.0075949367088608,
+   "blind_clipped": 0.05316455696202527,
+   "subopt_clipped": 0.0075949367088608,
+   "noise_tolerance": 0.07547319081399415,
+   "within_noise": true,
+   "identity_residual": 0.0,
+   "blind_share": 0.09905660377358481
+  }
+ },
+ "silence": {
+  "ks_statistic": 0.7966468704594507,
+  "cohens_d": -2.128818736260204,
+  "n_composed": 494,
+  "n_singlehop_correct": 1435,
+  "reading": "small KS with a large accuracy gap means the failure is silent"
+ }
+}

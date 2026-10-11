@@ -1,0 +1,3502 @@
+[
+ {
+  "qid": "ferrando_player_Donatas_Motiej\u016bnas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_M\u00e1rton_B\u00e1der_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Andr\u00e9s_Forray_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Derrick_Byars_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jeremy_Pargo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_\u017dydr\u016bnas_Ilgauskas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Elisa_Aguilar_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jiri_Konopasek_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ljudmil_Had\u017eisotirov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Brandon_Hunter_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_DeAndre_Liggins_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Tina_Thompson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Rudy_Gay_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Maksim_Astanin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Hakeem_Olajuwon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Luke_Walton_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Armands_\u0160\u0137\u0113le_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Federico_Antinori_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Isiah_Thomas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Gabe_Pruitt_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ebony_Hoffman_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Milton_Setrini_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Carlos_Domingos_Massoni_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Josh_Selby_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Janell_Burse_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Tracy_Murray_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Anna_Vajda_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_John_Wall_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Paulius_Dambrauskas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Amaya_Valdemoro_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Arvydas_Sabonis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Jasikevi\u010dius_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jalen_Rose_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Hur_Jae_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Fernando_Mart\u00edn_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mart\u00edn_Osimani_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Damian_Lillard_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Josh_McRoberts_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Juris_Kalni\u0146\u0161_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marcus_Landry_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Valdis_Valters_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Krunoslav_Simon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Caio_Torres_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Earl_Cureton_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Pero_Blazevski_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Yasemin_Horasan_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jim_Petersen_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_JaJuan_Johnson_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Flavio_St\u00fcckemann_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Manny_Harris_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_I\u015f\u0131l_Alben_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sandra_Mandir_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Michael_Olowokandi_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Andr\u00e9_Ernesto_Stoffel_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jannero_Pargo_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jeremy_Tyler_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jaka_Lakovi\u010d_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Rihards_Kuksiks_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Elliot_Perry_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Shaquille_O'Neal_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Damjan_Rude\u017e_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marko_Maravi\u010d_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Voshon_Lenard_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Vasiliauskas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_I\u00f1aki_de_Miguel_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Krasimira_Gyurova_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jeff_Teague_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Luiz_Cl\u00e1udio_Menon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Tweety_Carter_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Vojdan_Stojanovski_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ed_O'Bannon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Saeid_Davarpanah_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Manuel_Carrizo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Nick_Young_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ieva_T\u0101re_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Hakan_K\u00f6seo\u011flu_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Larry_Finch_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_\u00c1d\u00e1m_Hanga_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Alessandro_Piazza_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Franko_Bushati_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Pat_Burke_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_DeSagana_Diop_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Corey_Gaines_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Damir_\u0160olman_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Terry_Cummings_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Adonis_Thomas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Marko_Simonovski_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Andris_Biedri\u0146\u0161_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Zhang_Fan_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ond\u0159ej_Starosta_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Maigonis_Valdmanis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Juwan_Howard_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Marta_Sobral_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Chris_Herren_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Hristo_Zahariev_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mike_Dunleavy_Jr._country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Anete_J\u0113kabsone-\u017dogota_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Elvir_Ov\u010dina_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Maximiliano_Stanic_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_George_Halas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Vladim\u00edr_Kadlec_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Kre\u0161imir_\u0106osi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dwayne_Collins_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Randy_Brown_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Kristaps_Jani\u010denoks_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_James_Harden_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Aigars_V\u012btols_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Zoran_Dragi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Samad_Nikkhah_Bahrami_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Nikola_Bulatovi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Keith_Langford_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mat\u00edas_Nocedal_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Antonio_Mart\u00edn_Espina_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Can_Maxim_Mutaf_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Hamch\u00e9tou_Ma\u00efga_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Timofey_Mozgov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Devereaux_Peters_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Juan_Antonio_Mart\u00ednez_Arroyo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mychel_Thompson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jason_Terry_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Semih_Erden_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ernests_Kalve_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Tayshaun_Prince_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Kris_Joseph_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Anthony_Davis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_J\u00f3n_Arn\u00f3r_Stef\u00e1nsson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Tim_Hardaway_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Raitis_Grafs_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marcelo_Machado_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sergio_de_Toledo_Machado_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marquis_Teague_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ale\u0161_Kunc_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jordan_Farmar_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Wang_Zhizhi_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Hajdana_Radunovi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Vasco_Evtimov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Brandon_Jennings_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Filip_Kru\u0161lin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Noelle_Quinn_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Bar\u0131\u015f_Ermi\u015f_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Cedric_Bozeman_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Muratcan_G\u00fcler_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Arron_Afflalo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dem\u00e9trius_Ferraci\u00fa_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Esteban_Batista_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ricardo_Primitivo_Gonz\u00e1lez_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Levent_Topsakal_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jarron_Collins_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sherron_Collins_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Andrea_Gjinaj_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_D._J._Augustin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Edo_Muri\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Gennadi_Volnov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Gregor_Arbet_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dragan_Lukovski_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Derrick_Rose_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Gert_Kullam\u00e4e_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Yal\u00e7\u0131n_Granit_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Yotam_Halperin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Allen_Iverson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sergei_Bazarevich_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Thomas_Abercrombie_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Roberts_\u0160telmahers_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sihugo_Green_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Elena_Delle_Donne_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Damjan_Stojanovski_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Krasimira_Bogdanova_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Alberto_Herreros_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_DeMarcus_Cousins_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Margus_Metstak_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Goran_Dragi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marvin_Barnes_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_\u0130lkan_Karaman_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jan_Blazek_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Moon_Kyung-eun_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Mathieu_Faye_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Muggsy_Bogues_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Dana_Barros_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jatyr_Eduardo_Schall_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Natalia_Vieru_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Nikola_Miroti\u0107_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Trevor_Ariza_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mirna_Mazi\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Edmunds_Dukulis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Kristaps_Valters_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jure_Bala\u017ei\u010d_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Engin_Ats\u00fcr_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Davide_Lamma_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Tamera_Young_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Robert_Traylor_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Sabit_Had\u017ei\u0107_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Tanel_Sokk_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dikembe_Mutombo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Rimantas_Kauk\u0117nas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Conor_Grace_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_P\u00e9tur_Gu\u00f0mundsson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jaren_Jackson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ha_Seung-Jin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Luca_Fontecchio_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Pavel_Novotn\u00fd_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Nate_Robinson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Artsiom_Parakhouski_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Vlad_Moldoveanu_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Andrea_Nagy_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jurica_Golemac_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Aija_Klakocka_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Arnas_Kazlauskas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Kerem_Tun\u00e7eri_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_JaVale_McGee_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Serhat_\u00c7etin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Damir_Krupalija_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Emeka_Erege_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Filip_Videnov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Kelly_Santos_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Quincy_Miller_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Gail_Goodrich_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Gatis_Jahovi\u010ds_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sinan_G\u00fcler_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Carlos_Loyzaga_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Chris_Bosh_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Tyrus_Thomas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Paul_George_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Penny_Hardaway_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_DeMar_DeRozan_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Klaudia_Luka\u010dovi\u010dov\u00e1_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ivana_Vora\u010dkov\u00e1_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sten-Timmu_Sokk_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Luis_Scola_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Charles_Lombahe_Kahudi_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Erbil_Ero\u011flu_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Pavol_Bojanovsky_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Gordan_Giri\u010dek_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Olivinha_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Michael_Andersen_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Richard_Jefferson_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mike_Conley_Jr._country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Armon_Johnson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jef_Eygel_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Yaroslav_Korolev_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Maurice_Ager_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jason_Collins_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Elden_Campbell_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_\u010cavdar_Kostov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_\u0130brahim_Kutluay_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jonathan_Tabu_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Patrick_Mutombo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sitapha_Savan\u00e9_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Slaven_Rimac_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_LaMarcus_Aldridge_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Andrea_Ghiacci_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Paulius_Jank\u016bnas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Chauncey_Billups_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Yasemin_Beg\u00fcm_Dalgalar_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Erazem_Lorbek_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Luka_Rupnik_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Nikita_Kurbanov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Eszter_\u00dajv\u00e1ri_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Bobby_Simmons_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Moon_Tae-jong_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Darrell_Walker_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_S\u00f3nia_Ndoniema_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_V\u00edtor_Benite_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Marina_Kuzina_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Len_Elmore_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Willy_Hernang\u00f3mez_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Michaela_Pavl\u00ed\u010dkov\u00e1_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Eric_Gordon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Shyra_Ely_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Kareem_Abdul-Jabbar_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Awvee_Storey_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ji\u0159\u00ed_Hub\u00e1lek_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dick_Van_Arsdale_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Kalin_Lucas_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Erman_Kunter_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Keith_Booth_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Bismack_Biyombo_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Doak_Walker_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Sandis_Valters_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Darju\u0161_Lavrinovi\u010d_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Diana_Braynova-Dilova_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Brandon_Roy_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Russell_Hinder_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ilian_Evtimov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Antoine_Walker_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Valdis_Mui\u017enieks_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Chris_Webber_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Lonnie_Lynn_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Hristo_Doj\u010dinov_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Adia_Barnes_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Catarina_Camufal_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Lee_Sang-Min_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ji\u0159\u00ed_Z\u00eddek_Sr._country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Chung_Kyung-Ho_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Guy_Muya_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Aija_Putni\u0146a_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Mateen_Cleaves_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Nate_\"Tiny\"_Archibald_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Napoleon_Harris_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Lester_Hudson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Bill_Curley_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Juan_Manuel_Moltedo_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Bryan_Defares_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Terrell_Owens_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Jaak_Lipso_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Hyun_Joo-Yup_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Kaspars_Kambala_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Priit_Tomson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Michele_Vitali_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Dave_DeBusschere_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Devin_Harris_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_\u0160ar\u016bnas_Mar\u010diulionis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Bill_Buntin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Patrick_Beverley_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Othyus_Jeffers_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Josh_Shipp_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Gilson_Trindade_de_Jesus_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Nick_Anderson_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Aivar_Kuusmaa_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Uro\u0161_Slokar_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_DeShawn_Sims_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Tasmin_Mitchell_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Mate_Skelin_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_J._R._Reid_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ender_Arslan_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Martin_M\u00fc\u00fcrsepp_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Janar_Talts_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Zlatin_Georgiev_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dita_Kr\u016bmberga_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Cenk_Akyol_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Marta_Zurro_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Jorge_Sanz_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Igors_Miglinieks_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dani_D\u00edez_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Derrick_Low_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Dorell_Wright_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_El\u012bna_Babkina_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ariel_Maughan_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Pete_Maravich_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Ljudmila_Furceva_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Volha_Padabed_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Rony_Seikaly_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ainars_Bagatskis_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Zoran_\u010cutura_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Terrico_White_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Eldridge_Recasner_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 0,
+  "M": 0,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Bang_Sung-Yoon_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 0
+ },
+ {
+  "qid": "ferrando_player_Juan_Antonio_Corbal\u00e1n_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Udonis_Haslem_country",
+  "k": 2,
+  "Y": 0,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Acie_Law_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ },
+ {
+  "qid": "ferrando_player_Ji\u0159\u00ed_Baumruk_country",
+  "k": 2,
+  "Y": 1,
+  "K1": 1,
+  "K2": 1,
+  "M": 1,
+  "refusal_composed": 0,
+  "Y_named_bridge": 1
+ }
+]

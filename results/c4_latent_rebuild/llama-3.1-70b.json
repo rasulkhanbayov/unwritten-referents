@@ -1,0 +1,45 @@
+{
+  "model": "llama-3.1-70b",
+  "n_eval": 494,
+  "n_fit_matched": 287,
+  "peak_offset_eval": "L25_pos-1",
+  "peak_offset_fit": "L25_pos-1",
+  "auroc": {
+    "surface_gate": {
+      "point": 0.491530987394958,
+      "lo": 0.43843431338285715,
+      "hi": 0.5455959759937032,
+      "se": 0.02650938988983467,
+      "n_resamples": 2000
+    },
+    "bridge_only": {
+      "point": 0.6064124868697479,
+      "lo": 0.5551300020324929,
+      "hi": 0.6537899539994455,
+      "se": 0.025431949957478647,
+      "n_resamples": 2000
+    },
+    "bgr_min": {
+      "point": 0.5064256171218487,
+      "lo": 0.4552456827058066,
+      "hi": 0.5601792449630043,
+      "se": 0.02659938727817461,
+      "n_resamples": 2000
+    },
+    "bgr_mean": {
+      "point": 0.5479582457983193,
+      "lo": 0.49722893674137414,
+      "hi": 0.5993384011028331,
+      "se": 0.026074360662041052,
+      "n_resamples": 2000
+    }
+  },
+  "bridge_only_vs_bgr_min": {
+    "diff": 0.09998686974789917,
+    "lo": 0.03557513152747179,
+    "hi": 0.16628094372128382,
+    "p": 0.002,
+    "n_resamples": 2000
+  },
+  "note": "g_B here is the CORRECTED latent read (skc_run_e3.py's own composed-prompt offset capture), replacing the earlier contaminated named-gold-bridge read. See EXECUTION_PLAN.md's CRITICAL entry."
+}

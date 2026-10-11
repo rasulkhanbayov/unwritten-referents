@@ -1,0 +1,6890 @@
+[
+ {
+  "qid": "wd3_Rod_Hundley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rod Hundley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Charleston"
+    ]
+   },
+   {
+    "subject": "Charleston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dwight_Howard_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dwight Howard",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kobe_Bryant_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kobe Bryant",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mark_Tyndale_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mark Tyndale",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_LeBron_James_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "LeBron James",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Akron"
+    ]
+   },
+   {
+    "subject": "Akron",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kevin_McHale_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kevin McHale",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hibbing"
+    ]
+   },
+   {
+    "subject": "Hibbing",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Terrence_Jones_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Terrence Jones",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Portland"
+    ]
+   },
+   {
+    "subject": "Portland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Michael_Jordan_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Michael Jordan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rickie_Winslow_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rickie Winslow",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Paul_Wight_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Paul Wight",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Aiken"
+    ]
+   },
+   {
+    "subject": "Aiken",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Maalik_Wayns_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Maalik Wayns",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_DeAndre_Jordan_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "DeAndre Jordan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dion_Waiters_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dion Waiters",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_John_Havlicek_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "John Havlicek",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Martins Ferry"
+    ]
+   },
+   {
+    "subject": "Martins Ferry",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Chris_Kaman_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Chris Kaman",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Grand Rapids"
+    ]
+   },
+   {
+    "subject": "Grand Rapids",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Wilt_Chamberlain_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Wilt Chamberlain",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Larry_Bird_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Larry Bird",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "West Baden Springs"
+    ]
+   },
+   {
+    "subject": "West Baden Springs",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Charles_Barkley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Charles Barkley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Leeds"
+    ]
+   },
+   {
+    "subject": "Leeds",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Scottie_Pippen_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Scottie Pippen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hamburg"
+    ]
+   },
+   {
+    "subject": "Hamburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dennis_Rodman_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dennis Rodman",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Trenton"
+    ]
+   },
+   {
+    "subject": "Trenton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tracy_McGrady_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tracy McGrady",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bartow"
+    ]
+   },
+   {
+    "subject": "Bartow",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Doron_Lamb_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Doron Lamb",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Queens"
+    ]
+   },
+   {
+    "subject": "Queens",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ray_Allen_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ray Allen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Merced"
+    ]
+   },
+   {
+    "subject": "Merced",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_David_Robinson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "David Robinson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Key West"
+    ]
+   },
+   {
+    "subject": "Key West",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jason_Kidd_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jason Kidd",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "San Francisco"
+    ]
+   },
+   {
+    "subject": "San Francisco",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Harrison_Barnes_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Harrison Barnes",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ames"
+    ]
+   },
+   {
+    "subject": "Ames",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Babe_Didrikson_Zaharias_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Babe Didrikson Zaharias",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Port Arthur"
+    ]
+   },
+   {
+    "subject": "Port Arthur",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Sue_Bird_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Sue Bird",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Syosset"
+    ]
+   },
+   {
+    "subject": "Syosset",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Vince_Carter_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Vince Carter",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Daytona Beach"
+    ]
+   },
+   {
+    "subject": "Daytona Beach",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Helen_Stephens_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Helen Stephens",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fulton"
+    ]
+   },
+   {
+    "subject": "Fulton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bill_Russell_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bill Russell",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Monroe"
+    ]
+   },
+   {
+    "subject": "Monroe",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Drew_Gordon_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Drew Gordon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "San Jose"
+    ]
+   },
+   {
+    "subject": "San Jose",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jim_Jackson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jim Jackson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Toledo"
+    ]
+   },
+   {
+    "subject": "Toledo",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tamika_Catchings_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tamika Catchings",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Stratford"
+    ]
+   },
+   {
+    "subject": "Stratford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lisa_Leslie_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lisa Leslie",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Gardena"
+    ]
+   },
+   {
+    "subject": "Gardena",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dawn_Staley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dawn Staley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Sheryl_Swoopes_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Sheryl Swoopes",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brownfield"
+    ]
+   },
+   {
+    "subject": "Brownfield",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rasheed_Wallace_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rasheed Wallace",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Amar'e_Stoudemire_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Amar'e Stoudemire",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lake Wales"
+    ]
+   },
+   {
+    "subject": "Lake Wales",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Nancy_Lieberman_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Nancy Lieberman",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rajon_Rondo_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rajon Rondo",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Louisville"
+    ]
+   },
+   {
+    "subject": "Louisville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dominic_Waters_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dominic Waters",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Portland"
+    ]
+   },
+   {
+    "subject": "Portland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Janel_McCarville_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Janel McCarville",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Stevens Point"
+    ]
+   },
+   {
+    "subject": "Stevens Point",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jessica_Davenport_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jessica Davenport",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tanisha_Wright_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tanisha Wright",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gerald_Fitch_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gerald Fitch",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_John_Salmons_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "John Salmons",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Carmelo_Anthony_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Carmelo Anthony",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_2_Chainz_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "2 Chainz",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "College Park"
+    ]
+   },
+   {
+    "subject": "College Park",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Carl_Lewis_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Carl Lewis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Birmingham"
+    ]
+   },
+   {
+    "subject": "Birmingham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kendrick_Perkins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kendrick Perkins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Nederland"
+    ]
+   },
+   {
+    "subject": "Nederland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Zach_Randolph_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Zach Randolph",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Marion"
+    ]
+   },
+   {
+    "subject": "Marion",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Shawn_Kemp_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Shawn Kemp",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Elkhart"
+    ]
+   },
+   {
+    "subject": "Elkhart",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kemba_Walker_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kemba Walker",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "The Bronx"
+    ]
+   },
+   {
+    "subject": "The Bronx",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jim_Calhoun_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jim Calhoun",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Braintree"
+    ]
+   },
+   {
+    "subject": "Braintree",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_DeMarre_Carroll_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "DeMarre Carroll",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Birmingham"
+    ]
+   },
+   {
+    "subject": "Birmingham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Sonny_Weems_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Sonny Weems",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "West Memphis"
+    ]
+   },
+   {
+    "subject": "West Memphis",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lucius_Allen_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lucius Allen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kansas City"
+    ]
+   },
+   {
+    "subject": "Kansas City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Charles_Oakley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Charles Oakley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cleveland"
+    ]
+   },
+   {
+    "subject": "Cleveland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Stan_Van_Gundy_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Stan Van Gundy",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Indio"
+    ]
+   },
+   {
+    "subject": "Indio",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Maya_Moore_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Maya Moore",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jefferson City"
+    ]
+   },
+   {
+    "subject": "Jefferson City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Frank_Brian_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Frank Brian",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Zachary"
+    ]
+   },
+   {
+    "subject": "Zachary",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Wesley_Person_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Wesley Person",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brantley"
+    ]
+   },
+   {
+    "subject": "Brantley",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Metta_Sandiford-Artest_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Metta Sandiford-Artest",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Queens"
+    ]
+   },
+   {
+    "subject": "Queens",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lamar_Odom_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lamar Odom",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Queens"
+    ]
+   },
+   {
+    "subject": "Queens",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tyson_Chandler_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tyson Chandler",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hanford"
+    ]
+   },
+   {
+    "subject": "Hanford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Keyon_Dooling_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Keyon Dooling",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fort Lauderdale"
+    ]
+   },
+   {
+    "subject": "Fort Lauderdale",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bruce_Bowen_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bruce Bowen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Merced"
+    ]
+   },
+   {
+    "subject": "Merced",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jeremy_Lin_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jeremy Lin",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Torrance"
+    ]
+   },
+   {
+    "subject": "Torrance",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerry_West_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerry West",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Chelyan"
+    ]
+   },
+   {
+    "subject": "Chelyan",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mike_Bibby_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mike Bibby",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cherry Hill"
+    ]
+   },
+   {
+    "subject": "Cherry Hill",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Earl_Boykins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Earl Boykins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cleveland"
+    ]
+   },
+   {
+    "subject": "Cleveland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Michael_Redd_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Michael Redd",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jermaine_O'Neal_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jermaine O'Neal",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbia"
+    ]
+   },
+   {
+    "subject": "Columbia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Sam_Perkins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Sam Perkins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jonathan_Bender_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jonathan Bender",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Picayune"
+    ]
+   },
+   {
+    "subject": "Picayune",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Andy_Rautins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Andy Rautins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Syracuse"
+    ]
+   },
+   {
+    "subject": "Syracuse",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Meyers_Leonard_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Meyers Leonard",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Woodbridge"
+    ]
+   },
+   {
+    "subject": "Woodbridge",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_MarShon_Brooks_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "MarShon Brooks",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Long Branch"
+    ]
+   },
+   {
+    "subject": "Long Branch",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Marcus_Haislip_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Marcus Haislip",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lewisburg"
+    ]
+   },
+   {
+    "subject": "Lewisburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_James_Silas_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "James Silas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Tallulah"
+    ]
+   },
+   {
+    "subject": "Tallulah",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Joel_Przybilla_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Joel Przybilla",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Monticello"
+    ]
+   },
+   {
+    "subject": "Monticello",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dan_Dickau_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dan Dickau",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Portland"
+    ]
+   },
+   {
+    "subject": "Portland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Fred_Hoiberg_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Fred Hoiberg",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lincoln"
+    ]
+   },
+   {
+    "subject": "Lincoln",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerome_Lane_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerome Lane",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Akron"
+    ]
+   },
+   {
+    "subject": "Akron",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ralph_Sampson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ralph Sampson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Harrisonburg"
+    ]
+   },
+   {
+    "subject": "Harrisonburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Will_Venable_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Will Venable",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Greenbrae"
+    ]
+   },
+   {
+    "subject": "Greenbrae",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rodney_Rogers_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rodney Rogers",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Durham"
+    ]
+   },
+   {
+    "subject": "Durham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Billy_Knight_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Billy Knight",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Braddock"
+    ]
+   },
+   {
+    "subject": "Braddock",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kyle_Singler_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kyle Singler",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Medford"
+    ]
+   },
+   {
+    "subject": "Medford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jon_Leuer_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jon Leuer",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Long Lake"
+    ]
+   },
+   {
+    "subject": "Long Lake",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ron_Mercer_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ron Mercer",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Nashville"
+    ]
+   },
+   {
+    "subject": "Nashville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Derrick_McKey_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Derrick McKey",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Meridian"
+    ]
+   },
+   {
+    "subject": "Meridian",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Melvin_Booker_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Melvin Booker",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Pascagoula"
+    ]
+   },
+   {
+    "subject": "Pascagoula",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bill_Hanzlik_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bill Hanzlik",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Middletown"
+    ]
+   },
+   {
+    "subject": "Middletown",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ken_Sailors_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ken Sailors",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bushnell"
+    ]
+   },
+   {
+    "subject": "Bushnell",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Emeka_Okafor_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Emeka Okafor",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gerald_Wallace_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gerald Wallace",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sylacauga"
+    ]
+   },
+   {
+    "subject": "Sylacauga",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Michael_Finley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Michael Finley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Melrose Park"
+    ]
+   },
+   {
+    "subject": "Melrose Park",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Stephon_Marbury_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Stephon Marbury",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lou_Boudreau_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lou Boudreau",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Harvey"
+    ]
+   },
+   {
+    "subject": "Harvey",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rick_Majerus_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rick Majerus",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Sheboygan"
+    ]
+   },
+   {
+    "subject": "Sheboygan",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rick_Carlisle_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rick Carlisle",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ogdensburg"
+    ]
+   },
+   {
+    "subject": "Ogdensburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Thomas_Kelati_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Thomas Kelati",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Walla Walla"
+    ]
+   },
+   {
+    "subject": "Walla Walla",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dwane_Casey_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dwane Casey",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Morganfield"
+    ]
+   },
+   {
+    "subject": "Morganfield",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_J._R._Smith_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "J. R. Smith",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Freehold"
+    ]
+   },
+   {
+    "subject": "Freehold",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ron_Brewer_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ron Brewer",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fort Smith"
+    ]
+   },
+   {
+    "subject": "Fort Smith",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dajuan_Wagner_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dajuan Wagner",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Camden"
+    ]
+   },
+   {
+    "subject": "Camden",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kevin_Loughery_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kevin Loughery",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kent_Bazemore_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kent Bazemore",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kelford"
+    ]
+   },
+   {
+    "subject": "Kelford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Walt_Frazier_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Walt Frazier",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Taj_Gibson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Taj Gibson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerry_Stackhouse_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerry Stackhouse",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kinston"
+    ]
+   },
+   {
+    "subject": "Kinston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mo_Williams_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mo Williams",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Stephen_Curry_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Stephen Curry",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Akron"
+    ]
+   },
+   {
+    "subject": "Akron",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Steve_Francis_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Steve Francis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Takoma Park"
+    ]
+   },
+   {
+    "subject": "Takoma Park",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jeff_Green_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jeff Green",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cheverly"
+    ]
+   },
+   {
+    "subject": "Cheverly",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Marcus_Camby_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Marcus Camby",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hartford"
+    ]
+   },
+   {
+    "subject": "Hartford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kenyon_Martin_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kenyon Martin",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Saginaw"
+    ]
+   },
+   {
+    "subject": "Saginaw",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Paul_Hornung_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Paul Hornung",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Louisville"
+    ]
+   },
+   {
+    "subject": "Louisville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Adolph_Rupp_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Adolph Rupp",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Halstead"
+    ]
+   },
+   {
+    "subject": "Halstead",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerry_Lucas_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerry Lucas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Middletown"
+    ]
+   },
+   {
+    "subject": "Middletown",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_JJ_Redick_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "JJ Redick",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cookeville"
+    ]
+   },
+   {
+    "subject": "Cookeville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tyrone_Corbin_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tyrone Corbin",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbia"
+    ]
+   },
+   {
+    "subject": "Columbia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Marques_Johnson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Marques Johnson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Natchitoches"
+    ]
+   },
+   {
+    "subject": "Natchitoches",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Max_Zaslofsky_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Max Zaslofsky",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Terrell_Brandon_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Terrell Brandon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Portland"
+    ]
+   },
+   {
+    "subject": "Portland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jim_Les_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jim Les",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Niles"
+    ]
+   },
+   {
+    "subject": "Niles",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Clark_Kellogg_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Clark Kellogg",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cleveland"
+    ]
+   },
+   {
+    "subject": "Cleveland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Howard_Komives_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Howard Komives",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Toledo"
+    ]
+   },
+   {
+    "subject": "Toledo",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Michael_Cage_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Michael Cage",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "West Memphis"
+    ]
+   },
+   {
+    "subject": "West Memphis",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Samantha_Prahalis_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Samantha Prahalis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Commack"
+    ]
+   },
+   {
+    "subject": "Commack",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jon_Scheyer_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jon Scheyer",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Northbrook"
+    ]
+   },
+   {
+    "subject": "Northbrook",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lusia_Harris_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lusia Harris",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Minter City"
+    ]
+   },
+   {
+    "subject": "Minter City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Nikki_McCray_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Nikki McCray",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Collierville"
+    ]
+   },
+   {
+    "subject": "Collierville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mario_Chalmers_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mario Chalmers",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Anchorage"
+    ]
+   },
+   {
+    "subject": "Anchorage",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_J._J._Barea_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "J. J. Barea",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Mayag\u00fcez"
+    ]
+   },
+   {
+    "subject": "Mayag\u00fcez",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Raymond_Felton_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Raymond Felton",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Marion"
+    ]
+   },
+   {
+    "subject": "Marion",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ron_Harper_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ron Harper",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Dayton"
+    ]
+   },
+   {
+    "subject": "Dayton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brian_Grant_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brian Grant",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Harvey_Grant_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Harvey Grant",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Augusta"
+    ]
+   },
+   {
+    "subject": "Augusta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mitch_Richmond_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mitch Richmond",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fort Lauderdale"
+    ]
+   },
+   {
+    "subject": "Fort Lauderdale",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ri_Myung-hun_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ri Myung-hun",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "North Korea"
+    ]
+   },
+   {
+    "subject": "North Korea",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "North Korea"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ryan_Hollins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ryan Hollins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Pasadena"
+    ]
+   },
+   {
+    "subject": "Pasadena",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Monta_Ellis_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Monta Ellis",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Wilson_Chandler_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Wilson Chandler",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Benton Harbor"
+    ]
+   },
+   {
+    "subject": "Benton Harbor",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Clyde_Lovellette_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Clyde Lovellette",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Petersburg"
+    ]
+   },
+   {
+    "subject": "Petersburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brandan_Wright_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brandan Wright",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Nashville"
+    ]
+   },
+   {
+    "subject": "Nashville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bo_Kimble_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bo Kimble",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tony_Dungy_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tony Dungy",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jim_Loscutoff_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jim Loscutoff",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "San Francisco"
+    ]
+   },
+   {
+    "subject": "San Francisco",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Martell_Webster_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Martell Webster",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Edmonds"
+    ]
+   },
+   {
+    "subject": "Edmonds",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gerald_Green_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gerald Green",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Denton_Cooley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Denton Cooley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Al_Thornton_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Al Thornton",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Perry"
+    ]
+   },
+   {
+    "subject": "Perry",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jay_Arnette_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jay Arnette",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Austin"
+    ]
+   },
+   {
+    "subject": "Austin",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kyle_Lowry_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kyle Lowry",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_John_Salley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "John Salley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Vinny_Del_Negro_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Vinny Del Negro",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Springfield"
+    ]
+   },
+   {
+    "subject": "Springfield",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Matt_Guokas_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Matt Guokas",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerry_Sloan_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerry Sloan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "McLeansboro"
+    ]
+   },
+   {
+    "subject": "McLeansboro",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Al-Farouq_Aminu_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Al-Farouq Aminu",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Malik_Rose_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Malik Rose",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bob_Griese_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bob Griese",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Evansville"
+    ]
+   },
+   {
+    "subject": "Evansville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Swin_Cash_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Swin Cash",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "McKeesport"
+    ]
+   },
+   {
+    "subject": "McKeesport",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Luis_Gonz\u00e1lez_Macchi_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Luis Gonz\u00e1lez Macchi",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Asunci\u00f3n"
+    ]
+   },
+   {
+    "subject": "Asunci\u00f3n",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Paraguay"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Shannon_Brown_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Shannon Brown",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Maywood"
+    ]
+   },
+   {
+    "subject": "Maywood",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Erik_Spoelstra_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Erik Spoelstra",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Evanston"
+    ]
+   },
+   {
+    "subject": "Evanston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_London_Fletcher_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "London Fletcher",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Cleveland"
+    ]
+   },
+   {
+    "subject": "Cleveland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Doug_McDermott_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Doug McDermott",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Grand Forks"
+    ]
+   },
+   {
+    "subject": "Grand Forks",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Larry_Kenon_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Larry Kenon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Birmingham"
+    ]
+   },
+   {
+    "subject": "Birmingham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Walt_Bellamy_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Walt Bellamy",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "New Bern"
+    ]
+   },
+   {
+    "subject": "New Bern",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Alex_English_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Alex English",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbia"
+    ]
+   },
+   {
+    "subject": "Columbia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Larry_Sanders_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Larry Sanders",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fort Pierce"
+    ]
+   },
+   {
+    "subject": "Fort Pierce",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Casey_Jacobsen_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Casey Jacobsen",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Glendora"
+    ]
+   },
+   {
+    "subject": "Glendora",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Chandler_Parsons_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Chandler Parsons",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Casselberry"
+    ]
+   },
+   {
+    "subject": "Casselberry",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gary_Trent_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gary Trent",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Chuck_Person_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Chuck Person",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brantley"
+    ]
+   },
+   {
+    "subject": "Brantley",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Cliff_Hagan_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Cliff Hagan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Owensboro"
+    ]
+   },
+   {
+    "subject": "Owensboro",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Robbie_Hummel_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Robbie Hummel",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Valparaiso"
+    ]
+   },
+   {
+    "subject": "Valparaiso",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Chuck_Noble_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Chuck Noble",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Akron"
+    ]
+   },
+   {
+    "subject": "Akron",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Shawn_Redhage_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Shawn Redhage",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lincoln"
+    ]
+   },
+   {
+    "subject": "Lincoln",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rick_Mahorn_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rick Mahorn",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hartford"
+    ]
+   },
+   {
+    "subject": "Hartford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Paul_Westphal_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Paul Westphal",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Torrance"
+    ]
+   },
+   {
+    "subject": "Torrance",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Hal_Lear_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Hal Lear",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Skylar_Diggins-Smith_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Skylar Diggins-Smith",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "South Bend"
+    ]
+   },
+   {
+    "subject": "South Bend",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Al_Jefferson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Al Jefferson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Monticello"
+    ]
+   },
+   {
+    "subject": "Monticello",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Daniel_Gibson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Daniel Gibson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Eddy_Curry_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Eddy Curry",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Harvey"
+    ]
+   },
+   {
+    "subject": "Harvey",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Alvin_Robertson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Alvin Robertson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Barberton"
+    ]
+   },
+   {
+    "subject": "Barberton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ed_\"Too_Tall\"_Jones_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ed \"Too Tall\" Jones",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Troy_Murphy_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Troy Murphy",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Morristown"
+    ]
+   },
+   {
+    "subject": "Morristown",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gregg_Popovich_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gregg Popovich",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "East Chicago"
+    ]
+   },
+   {
+    "subject": "East Chicago",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Paul_Arizin_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Paul Arizin",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kevin_Martin_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kevin Martin",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Zanesville"
+    ]
+   },
+   {
+    "subject": "Zanesville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rebecca_Lobo_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rebecca Lobo",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hartford"
+    ]
+   },
+   {
+    "subject": "Hartford",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ruth_Riley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ruth Riley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ransom"
+    ]
+   },
+   {
+    "subject": "Ransom",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brook_Lopez_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brook Lopez",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "North Hollywood"
+    ]
+   },
+   {
+    "subject": "North Hollywood",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Damon_Stoudamire_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Damon Stoudamire",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Portland"
+    ]
+   },
+   {
+    "subject": "Portland",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_T._J._Ford_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "T. J. Ford",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Raja_Bell_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Raja Bell",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Saint Croix"
+    ]
+   },
+   {
+    "subject": "Saint Croix",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Stephen_Jackson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Stephen Jackson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Port Arthur"
+    ]
+   },
+   {
+    "subject": "Port Arthur",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Cole_Aldrich_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Cole Aldrich",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Burnsville"
+    ]
+   },
+   {
+    "subject": "Burnsville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jackie_Stiles_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jackie Stiles",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kansas City"
+    ]
+   },
+   {
+    "subject": "Kansas City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Connie_Hawkins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Connie Hawkins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Larry_O'Bannon_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Larry O'Bannon",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Louisville"
+    ]
+   },
+   {
+    "subject": "Louisville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rod_Strickland_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rod Strickland",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "The Bronx"
+    ]
+   },
+   {
+    "subject": "The Bronx",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Cory_Higgins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Cory Higgins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Danville"
+    ]
+   },
+   {
+    "subject": "Danville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Clifford_Rozier_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Clifford Rozier",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bradenton"
+    ]
+   },
+   {
+    "subject": "Bradenton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_David_Noel_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "David Noel",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Durham"
+    ]
+   },
+   {
+    "subject": "Durham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brandon_Armstrong_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brandon Armstrong",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "San Francisco"
+    ]
+   },
+   {
+    "subject": "San Francisco",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Alvin_Williams_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Alvin Williams",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mike_Gminski_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mike Gminski",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Monroe"
+    ]
+   },
+   {
+    "subject": "Monroe",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Alade_Aminu_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Alade Aminu",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Justin_Reed_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Justin Reed",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bernard_King_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bernard King",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Desmond_Mason_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Desmond Mason",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Waxahachie"
+    ]
+   },
+   {
+    "subject": "Waxahachie",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_O._J._Mayo_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "O. J. Mayo",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Huntington"
+    ]
+   },
+   {
+    "subject": "Huntington",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brent_Barry_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brent Barry",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hempstead"
+    ]
+   },
+   {
+    "subject": "Hempstead",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Amos_Alonzo_Stagg_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Amos Alonzo Stagg",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "West Orange"
+    ]
+   },
+   {
+    "subject": "West Orange",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Andre_Drummond_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Andre Drummond",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Mount Vernon"
+    ]
+   },
+   {
+    "subject": "Mount Vernon",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jimmy_Butler_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jimmy Butler",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Houston"
+    ]
+   },
+   {
+    "subject": "Houston",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bill_Sharman_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bill Sharman",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Abilene"
+    ]
+   },
+   {
+    "subject": "Abilene",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ramon_Sessions_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ramon Sessions",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Myrtle Beach"
+    ]
+   },
+   {
+    "subject": "Myrtle Beach",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Derrick_Favors_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Derrick Favors",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Drew_Neitzel_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Drew Neitzel",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Grand Rapids"
+    ]
+   },
+   {
+    "subject": "Grand Rapids",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dan_Issel_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dan Issel",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Batavia"
+    ]
+   },
+   {
+    "subject": "Batavia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Danny_Fortson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Danny Fortson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Darrell_Griffith_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Darrell Griffith",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Louisville"
+    ]
+   },
+   {
+    "subject": "Louisville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dell_Curry_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dell Curry",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Harrisonburg"
+    ]
+   },
+   {
+    "subject": "Harrisonburg",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dennis_Scott_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dennis Scott",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hagerstown"
+    ]
+   },
+   {
+    "subject": "Hagerstown",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dick_Garmaker_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dick Garmaker",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hibbing"
+    ]
+   },
+   {
+    "subject": "Hibbing",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Donyell_Marshall_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Donyell Marshall",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Reading"
+    ]
+   },
+   {
+    "subject": "Reading",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gerald_Henderson_Jr._continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gerald Henderson Jr.",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Caldwell"
+    ]
+   },
+   {
+    "subject": "Caldwell",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Hakim_Warrick_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Hakim Warrick",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mike_Flanagan_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mike Flanagan",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Manchester"
+    ]
+   },
+   {
+    "subject": "Manchester",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bob_Lanier_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bob Lanier",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Buffalo"
+    ]
+   },
+   {
+    "subject": "Buffalo",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bob_Knight_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bob Knight",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Massillon"
+    ]
+   },
+   {
+    "subject": "Massillon",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brad_Daugherty_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brad Daugherty",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Black Mountain"
+    ]
+   },
+   {
+    "subject": "Black Mountain",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brandon_Rush_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brandon Rush",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kansas City"
+    ]
+   },
+   {
+    "subject": "Kansas City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Brian_Cardinal_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Brian Cardinal",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Tolono"
+    ]
+   },
+   {
+    "subject": "Tolono",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jared_Sullinger_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jared Sullinger",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Earl_Watson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Earl Watson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kansas City"
+    ]
+   },
+   {
+    "subject": "Kansas City",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Junior_Bridgeman_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Junior Bridgeman",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "East Chicago"
+    ]
+   },
+   {
+    "subject": "East Chicago",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jamaal_Tinsley_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jamaal Tinsley",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Marcus_Morris_Sr._continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Marcus Morris Sr.",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ernie_DiGregorio_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ernie DiGregorio",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "North Providence"
+    ]
+   },
+   {
+    "subject": "North Providence",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Odyssey_Sims_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Odyssey Sims",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Irving"
+    ]
+   },
+   {
+    "subject": "Irving",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Mel_Counts_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Mel Counts",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Coos Bay"
+    ]
+   },
+   {
+    "subject": "Coos Bay",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dolph_Schayes_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dolph Schayes",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "The Bronx"
+    ]
+   },
+   {
+    "subject": "The Bronx",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Paul_Millsap_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Paul Millsap",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Monroe"
+    ]
+   },
+   {
+    "subject": "Monroe",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Marvin_Williams_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Marvin Williams",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Bremerton"
+    ]
+   },
+   {
+    "subject": "Bremerton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kosta_Koufos_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kosta Koufos",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Canton"
+    ]
+   },
+   {
+    "subject": "Canton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Erick_Dampier_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Erick Dampier",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Jackson"
+    ]
+   },
+   {
+    "subject": "Jackson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Al_Horford_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Al Horford",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Puerto Plata"
+    ]
+   },
+   {
+    "subject": "Puerto Plata",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Dominican Republic"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Shane_Battier_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Shane Battier",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Birmingham"
+    ]
+   },
+   {
+    "subject": "Birmingham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ken_Charles_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ken Charles",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Trinidad and Tobago"
+    ]
+   },
+   {
+    "subject": "Trinidad and Tobago",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "Trinidad and Tobago"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Dick_Snyder_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Dick Snyder",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "North Canton"
+    ]
+   },
+   {
+    "subject": "North Canton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Earl_Lloyd_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Earl Lloyd",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Alexandria"
+    ]
+   },
+   {
+    "subject": "Alexandria",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Eric_Bledsoe_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Eric Bledsoe",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Birmingham"
+    ]
+   },
+   {
+    "subject": "Birmingham",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Joe_Bryant_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Joe Bryant",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Vinnie_Johnson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Vinnie Johnson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Tom_Hammonds_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Tom Hammonds",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Fort Walton Beach"
+    ]
+   },
+   {
+    "subject": "Fort Walton Beach",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Kirk_Haston_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Kirk Haston",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Lobelville"
+    ]
+   },
+   {
+    "subject": "Lobelville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Derrick_Williams_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Derrick Williams",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "La Mirada"
+    ]
+   },
+   {
+    "subject": "La Mirada",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Wesley_Johnson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Wesley Johnson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Corsicana"
+    ]
+   },
+   {
+    "subject": "Corsicana",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jamal_Mashburn_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jamal Mashburn",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "The Bronx"
+    ]
+   },
+   {
+    "subject": "The Bronx",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Eric_Snow_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Eric Snow",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Canton"
+    ]
+   },
+   {
+    "subject": "Canton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jerryd_Bayless_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jerryd Bayless",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Phoenix"
+    ]
+   },
+   {
+    "subject": "Phoenix",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Bird_Averitt_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Bird Averitt",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Hopkinsville"
+    ]
+   },
+   {
+    "subject": "Hopkinsville",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Cedric_Ceballos_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Cedric Ceballos",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Maui"
+    ]
+   },
+   {
+    "subject": "Maui",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Courtney_Fortson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Courtney Fortson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Montgomery"
+    ]
+   },
+   {
+    "subject": "Montgomery",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Julius_Peppers_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Julius Peppers",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Wilson"
+    ]
+   },
+   {
+    "subject": "Wilson",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Katie_Feenstra-Mattera_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Katie Feenstra-Mattera",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Grand Rapids"
+    ]
+   },
+   {
+    "subject": "Grand Rapids",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jermareo_Davidson_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jermareo Davidson",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ben_Hansbrough_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ben Hansbrough",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Poplar Bluff"
+    ]
+   },
+   {
+    "subject": "Poplar Bluff",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Rob_Kurz_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Rob Kurz",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Byron_Scott_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Byron Scott",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Ogden"
+    ]
+   },
+   {
+    "subject": "Ogden",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Earl_Monroe_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Earl Monroe",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Philadelphia"
+    ]
+   },
+   {
+    "subject": "Philadelphia",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Jack_Sikma_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Jack Sikma",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Kankakee"
+    ]
+   },
+   {
+    "subject": "Kankakee",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Sebastian_Telfair_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Sebastian Telfair",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Brooklyn"
+    ]
+   },
+   {
+    "subject": "Brooklyn",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Hal_Greer_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Hal Greer",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Huntington"
+    ]
+   },
+   {
+    "subject": "Huntington",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Travis_Best_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Travis Best",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Springfield"
+    ]
+   },
+   {
+    "subject": "Springfield",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Gerald_Wilkins_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Gerald Wilkins",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Atlanta"
+    ]
+   },
+   {
+    "subject": "Atlanta",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Ronnie_Price_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Ronnie Price",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Friendswood"
+    ]
+   },
+   {
+    "subject": "Friendswood",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Lawrence_Funderburke_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Lawrence Funderburke",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Columbus"
+    ]
+   },
+   {
+    "subject": "Columbus",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ },
+ {
+  "qid": "wd3_Phil_Hubbard_continent_k2prefix",
+  "hops": [
+   {
+    "subject": "Phil Hubbard",
+    "subject_type": "player",
+    "relation": "place of birth",
+    "answers": [
+     "Canton"
+    ]
+   },
+   {
+    "subject": "Canton",
+    "subject_type": "city",
+    "relation": "country",
+    "answers": [
+     "United States"
+    ]
+   }
+  ],
+  "entity_type": "player",
+  "popularity_decile": null,
+  "meta": {}
+ }
+]
